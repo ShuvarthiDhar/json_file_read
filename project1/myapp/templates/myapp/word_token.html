@@ -1,0 +1,49 @@
+{% extends "myapp/base.html" %}
+{% block page_content %}
+<div class="col-md-8 offset-md-2">
+    <h1>Work Token</h1>
+    <hr>
+
+<table class="table table-bordered">
+    <thead>
+      <tr>
+        <th>Word</th>
+        <th>Frequency</th>
+      </tr>
+    </thead>
+    <tbody>
+
+        {% for athlete in data %}
+            <tr>
+                <td>{{ athlete.key }}</td>
+                <td>{{ athlete.value }}</td>
+            </tr>
+        {% endfor %}
+
+    </tbody>
+  </table>
+{% if data.has_other_pages %}
+  <ul class="pagination">
+    {% if data.has_previous %}
+      <li><a href="?page={{ data.previous_page_number }}">&laquo;</a></li>
+    {% else %}
+      <li class="disabled"><span>&laquo;</span></li>
+    {% endif %}
+    {% for i in data.paginator.page_range %}
+      {% if data.number == i %}
+        <li class="active"><span>{{ i }} <span class="sr-only">(current)</span></span></li>
+      {% else %}
+        <li><a href="?page={{ i }}">{{ i }}</a></li>
+      {% endif %}
+    {% endfor %}
+    {% if data.has_next %}
+      <li><a href="?page={{ data.next_page_number }}">&raquo;</a></li>
+    {% else %}
+      <li class="disabled"><span>&raquo;</span></li>
+    {% endif %}
+  </ul>
+{% endif %}
+
+
+</div>
+{% endblock %}

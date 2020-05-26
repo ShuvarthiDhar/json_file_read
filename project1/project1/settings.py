@@ -37,6 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'myapp',
+    'menu'
 ]
 
 MIDDLEWARE = [
@@ -54,7 +56,7 @@ ROOT_URLCONF = 'project1.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': [os.path.join(BASE_DIR, 'myapp/templates')],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -68,6 +70,7 @@ TEMPLATES = [
 ]
 
 WSGI_APPLICATION = 'project1.wsgi.application'
+
 
 
 # Database
@@ -116,9 +119,19 @@ USE_TZ = True
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/1.11/howto/static-files/
+# TEST_DIR = os.path.join(os.path.abspath(os.path.dirname(__file__)), 'tests')
+
 
 STATIC_URL = '/static/'
 
 
 word_token_file= os.path.join(BASE_DIR, 'json_data/word_token.json')
 embedded_word_token_file= os.path.join(BASE_DIR, 'json_data/embedded_word_token.json')
+
+
+
+STATIC_ROOT = os.path.join(BASE_DIR, 'static')
+
+STATICFILES_DIRS = (
+  os.path.join(BASE_DIR, 'boot/'),
+)
