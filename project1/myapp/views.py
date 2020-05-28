@@ -34,6 +34,7 @@ def word_token(request):
 
 
 def embedded_word_token(request):
+    search_data=request.GET.get('word')
     json_file = settings.embedded_word_token_file
     f = open(json_file, )
     read_data = json.load(f)
@@ -53,6 +54,13 @@ def embedded_word_token(request):
                     glove_value += str(key) + ', \n' #str(key) +' ('+ str(val) +') , \n'
 
         data.append({'key': k, 'cbow': cbow_value,'skip':skip_value,'glove':glove_value})
+    if search_data:
+        search_data_list=[]
+        for word_data in data:
+            if word_data['key']==search_data:
+                search_data_list.append(word_data)
+        data=search_data_list
+
     page = request.GET.get('page', 1)
 
     # paginator = Paginator(data, 100)
