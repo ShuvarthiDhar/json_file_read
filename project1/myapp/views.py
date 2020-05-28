@@ -39,20 +39,20 @@ def embedded_word_token(request):
     read_data = json.load(f)
     data = list()
     for k, v in read_data.items():
-        cbow_5_value=''
-        skip_5_value=''
-        glove_5_value=''
+        cbow_value=''
+        skip_value=''
+        glove_value=''
         for ky, value in v.items():
             for key, val in value.items():
-                if ky=='cbow_5':
-                    cbow_5_value += str(key) +' ('+ str(val) +') , \n'
-                if ky=='skip_5':
-                    skip_5_value += str(key) +' ('+ str(val) +') , \n'
+                if ky=='cbow':
+                    cbow_value += str(key) + ', \n' #str(key) +' ('+ str(val) +') , \n'
+                if ky=='skip':
+                    skip_value += str(key) + ', \n'#str(key) +' ('+ str(val) +') , \n'
 
-                if ky=='glove_5':
-                    glove_5_value += str(key) +' ('+ str(val) +') , \n'
+                if ky=='glove':
+                    glove_value += str(key) + ', \n' #str(key) +' ('+ str(val) +') , \n'
 
-        data.append({'key': k, 'cbow_5': cbow_5_value,'skip_5':skip_5_value,'glove_5':glove_5_value})
+        data.append({'key': k, 'cbow': cbow_value,'skip':skip_value,'glove':glove_value})
     page = request.GET.get('page', 1)
 
     paginator = Paginator(data, 100)
