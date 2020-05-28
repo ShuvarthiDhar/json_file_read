@@ -8,7 +8,9 @@
     <thead>
       <tr>
         <th>Word</th>
-        <th>Frequency</th>
+        <th>CBOW</th>
+        <th>SKIP</th>
+        <th>GLOVE</th>
       </tr>
     </thead>
     <tbody>
@@ -16,7 +18,9 @@
         {% for d in data %}
             <tr>
                 <td>{{ d.key }}</td>
-                <td>{{ d.value }}</td>
+                <td>{{ d.cbow_5 }}</td>
+                <td>{{ d.skip_5 }}</td>
+                <td>{{ d.glove_5 }}</td>
             </tr>
         {% endfor %}
 

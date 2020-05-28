@@ -39,11 +39,20 @@ def embedded_word_token(request):
     read_data = json.load(f)
     data = list()
     for k, v in read_data.items():
-        value=''
-        for key, val in v.items():
-            value += str(key) +' ('+ str(val) +') , \n'
+        cbow_5_value=''
+        skip_5_value=''
+        glove_5_value=''
+        for ky, value in v.items():
+            for key, val in value.items():
+                if ky=='cbow_5':
+                    cbow_5_value += str(key) +' ('+ str(val) +') , \n'
+                if ky=='skip_5':
+                    skip_5_value += str(key) +' ('+ str(val) +') , \n'
 
-        data.append({'key': k, 'value': value})
+                if ky=='glove_5':
+                    glove_5_value += str(key) +' ('+ str(val) +') , \n'
+
+        data.append({'key': k, 'cbow_5': cbow_5_value,'skip_5':skip_5_value,'glove_5':glove_5_value})
     page = request.GET.get('page', 1)
 
     paginator = Paginator(data, 100)
