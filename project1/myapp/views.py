@@ -23,12 +23,12 @@ def word_token(request):
     page = request.GET.get('page', 1)
 
     paginator = Paginator(data, 100)
-    try:
-        data = paginator.page(page)
-    except PageNotAnInteger:
-        data = paginator.page(1)
-    except EmptyPage:
-        data = paginator.page(paginator.num_pages)
+    # try:
+    #     data = paginator.page(page)
+    # except PageNotAnInteger:
+    #     data = paginator.page(1)
+    # except EmptyPage:
+    #     data = paginator.page(paginator.num_pages)
     context = {'data': data}
     return render(request, 'myapp/word_token.html', context)
 
@@ -55,12 +55,12 @@ def embedded_word_token(request):
         data.append({'key': k, 'cbow': cbow_value,'skip':skip_value,'glove':glove_value})
     page = request.GET.get('page', 1)
 
-    paginator = Paginator(data, 100)
-    try:
-        data = paginator.page(page)
-    except PageNotAnInteger:
-        data = paginator.page(1)
-    except EmptyPage:
-        data = paginator.page(paginator.num_pages)
+    # paginator = Paginator(data, 100)
+    # try:
+    #     data = paginator.page(page)
+    # except PageNotAnInteger:
+    #     data = paginator.page(1)
+    # except EmptyPage:
+    #     data = paginator.page(paginator.num_pages)
     context = {'data': data}
     return render(request, 'myapp/embedded_word_token.html', context)

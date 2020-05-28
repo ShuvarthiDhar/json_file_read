@@ -15,13 +15,15 @@
 
         {% for athlete in data %}
             <tr>
-                <td>{{ athlete.key }}</td>
                 <td>{{ athlete.value }}</td>
+                <td></td>
+<!--                <td>{{ athlete.value }}</td>-->
             </tr>
         {% endfor %}
 
     </tbody>
   </table>
+
 {% if data.has_other_pages %}
   <ul class="pagination">
     {% if data.has_previous %}

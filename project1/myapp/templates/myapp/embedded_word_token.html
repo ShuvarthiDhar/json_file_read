@@ -18,9 +18,9 @@
         {% for d in data %}
             <tr>
                 <td>{{ d.key }}</td>
-                <td>{{ d.cbow_5 }}</td>
-                <td>{{ d.skip_5 }}</td>
-                <td>{{ d.glove_5 }}</td>
+                <td>{{ d.cbow }}</td>
+                <td>{{ d.skip }}</td>
+                <td>{{ d.glove }}</td>
             </tr>
         {% endfor %}
 
@@ -36,9 +36,9 @@
     {% endif %}
     {% for i in data.paginator.page_range %}
       {% if data.number == i %}
-        <li class="active"><span>{{ i }} <span class="sr-only">(current)</span></span></li>
+        <li class="active"><span>{{ i  }}<span class="sr-only">(current)</span></span></li>
       {% else %}
-        <li><a href="?page={{ i }}">{{ i }}</a></li>
+        <li><a href="?page={{ i }}">{{ i }} </a></li>
       {% endif %}
     {% endfor %}
     {% if data.has_next %}
