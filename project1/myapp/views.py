@@ -46,14 +46,14 @@ def embedded_word_token(request):
         for ky, value in v.items():
             for key, val in value.items():
                 if ky=='cbow':
-                    cbow_value += str(key) + ', \n' #str(key) +' ('+ str(val) +') , \n'
+                    cbow_value += str(key) + ',\t\n' #str(key) +' ('+ str(val) +') , \n'
                 if ky=='skip':
-                    skip_value += str(key) + ', \n'#str(key) +' ('+ str(val) +') , \n'
+                    skip_value += str(key) + ',\t\n'#str(key) +' ('+ str(val) +') , \n'
 
                 if ky=='glove':
-                    glove_value += str(key) + ', \n' #str(key) +' ('+ str(val) +') , \n'
+                    glove_value += str(key) + ',\t\n' #str(key) +' ('+ str(val) +') , \n'
 
-        data.append({'key': k, 'cbow': cbow_value,'skip':skip_value,'glove':glove_value})
+        data.append({'key': k, 'cbow': cbow_value, 'skip':skip_value, 'glove':glove_value})
     if search_data:
         search_data_list=[]
         for word_data in data:
