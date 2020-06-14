@@ -57,7 +57,7 @@ def embedded_word_token(request):
     if search_data:
         search_data_list=[]
         for word_data in data:
-            if word_data['key']==search_data:
+            if search_data in word_data['key']:
                 search_data_list.append(word_data)
         data=search_data_list
 
