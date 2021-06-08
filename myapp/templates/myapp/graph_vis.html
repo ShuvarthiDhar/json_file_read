@@ -1,4 +1,6 @@
 {% extends "myapp/base.html" %}
+<!--{% load static %}-->
+<!--<script src="{% static 'js/graph_render.js' %}"></script>-->
 {% block page_content %}
 <div id='data_source' style="display: none;">{{ data }}</div>
 <div class="svg-container" id="chart" >
@@ -11,7 +13,8 @@
 <!--    var gh = h - (margin.top + margin.bottom)-->
 
     var linkDistance=200;
-    var colors = d3.scale.category10();
+<!--    var colors = d3.scale.category10();-->
+    var other_color = '#8B4513'
     var class_color = '#87CEFA'
     var instance_color = '#8FBC8F'
 
@@ -31,7 +34,7 @@
                 .call(d3.behavior.zoom().on("zoom", function () {
                     svg.attr("transform", "translate(" + d3.event.translate + ")" + " scale(" + d3.event.scale + ")")
                 }))
-                .append("g").classed("chartLayer", true);
+                .append("g").classed("chartLayer", true);//.attr("transform", "translate(w, h)" + " scale(0.3)");
 
     var force = d3.layout.force()
         .nodes(dataset.nodes)
@@ -58,10 +61,14 @@
       .append("circle")
       .attr({"r":15})
       .style("fill",function(d,i){
-        node_color = class_color
+        node_color = other_color
+        if (d.type == 'Class') {
+          node_color = class_color
+        }
         if (d.type == 'Instance') {
           node_color = instance_color
         }
+
         return node_color;
       })//colors(i);})
       .call(force.drag);

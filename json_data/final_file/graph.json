@@ -519,9 +519,12 @@
                     "GLDate": "2016-06-01 00:00:00",
                     "Amount": "24635",
                     "Supplier": "National Rifle Association of America",
-                    "InvoiceNo": "H16-83936",
+                    "Invoice#": "H16-83936",
                     "InvoiceDate": "2016-04-18 00:00:00",
                     "InvoiceAmount": "24635",
+                    "PaymentDate": "2016-06-02 00:00:00",
+                    "Check/Wire#": "716612",
+                    "Check/WireAmount": "24635",
                     "OpExAppropriatelyClassified": "Yes",
                     "TMText": "None"
                 },
@@ -531,9 +534,12 @@
                     "GLDate": "2017-01-18 00:00:00",
                     "Amount": "20625",
                     "Supplier": "Bone Collector, LLC",
-                    "InvoiceNo": "PS-IN0045396",
+                    "Invoice#": "PS-IN0045396",
                     "InvoiceDate": "2017-01-01 00:00:00",
                     "InvoiceAmount": "20625",
+                    "PaymentDate": "2017-01-26 00:00:00",
+                    "Check/Wire#": "736056",
+                    "Check/WireAmount": "41250",
                     "OpExAppropriatelyClassified": "Yes",
                     "TMText": "{a}"
                 },
@@ -543,9 +549,12 @@
                     "GLDate": "2016-10-19 00:00:00",
                     "Amount": "12024.61",
                     "Supplier": "Armor Defense Inc",
-                    "InvoiceNo": "00096386",
+                    "Invoice#": "00096386",
                     "InvoiceDate": "2016-10-08 00:00:00",
                     "InvoiceAmount": "12024.61",
+                    "PaymentDate": "2016-11-01 00:00:00",
+                    "Check/Wire#": "729296",
+                    "Check/WireAmount": "12024.61",
                     "OpExAppropriatelyClassified": "Yes",
                     "TMText": "None"
                 },
@@ -555,9 +564,12 @@
                     "GLDate": "2017-02-14 00:00:00",
                     "Amount": "14921",
                     "Supplier": "K2 Capital Group",
-                    "InvoiceNo": "74189",
+                    "Invoice#": "74189",
                     "InvoiceDate": "2017-01-20 00:00:00",
                     "InvoiceAmount": "14921",
+                    "PaymentDate": "2017-02-16 00:00:00",
+                    "Check/Wire#": "737766",
+                    "Check/WireAmount": "19789.93",
                     "OpExAppropriatelyClassified": "Yes",
                     "TMText": "{b},{a}"
                 },
@@ -567,9 +579,12 @@
                     "GLDate": "2016-12-14 00:00:00",
                     "Amount": "31667",
                     "Supplier": "Space150",
-                    "InvoiceNo": "12739",
+                    "Invoice#": "12739",
                     "InvoiceDate": "2016-12-09 00:00:00",
                     "InvoiceAmount": "31667",
+                    "PaymentDate": "2016-12-28 00:00:00",
+                    "Check/Wire#": "734041",
+                    "Check/WireAmount": "44167",
                     "OpExAppropriatelyClassified": "Yes",
                     "TMText": "{a}"
                 },
@@ -579,9 +594,12 @@
                     "GLDate": "2017-03-20 00:00:00",
                     "Amount": "12500",
                     "Supplier": "Space150",
-                    "InvoiceNo": "12993",
+                    "Invoice#": "12993",
                     "InvoiceDate": "2017-03-14 00:00:00",
                     "InvoiceAmount": "12500",
+                    "PaymentDate": "2017-04-11 00:00:00",
+                    "Check/Wire#": "742207",
+                    "Check/WireAmount": "64167",
                     "OpExAppropriatelyClassified": "Yes",
                     "TMText": "{a}"
                 },
@@ -591,9 +609,12 @@
                     "GLDate": "2016-11-15 00:00:00",
                     "Amount": "3200",
                     "Supplier": "VOLT CONSULTING GROUP LTD",
-                    "InvoiceNo": "34494599",
+                    "Invoice#": "34494599",
                     "InvoiceDate": "2016-11-06 00:00:00",
                     "InvoiceAmount": "3200",
+                    "PaymentDate": "2016-11-17 00:00:00",
+                    "Check/Wire#": "730662",
+                    "Check/WireAmount": "59170.49",
                     "OpExAppropriatelyClassified": "Yes",
                     "TMText": "{a}"
                 }
@@ -645,9 +666,12 @@
                     "GLDate": "2017-01-18 00:00:00",
                     "Amount": "34000",
                     "Supplier": "SPACE 150 INC",
-                    "InvoiceNo": "12835",
+                    "Invoice#": "12835",
                     "InvoiceDate": "2017-01-17 00:00:00",
                     "InvoiceAmount": "34000",
+                    "PaymentDate": "2017-02-07 00:00:00",
+                    "Check/Wire#": "736982",
+                    "Check/WireAmount": "121500",
                     "OpExAppropriatelyClassified": "Yes",
                     "TMText": "{a}"
                 }
@@ -699,9 +723,12 @@
                     "GLDate": "2016-04-01 00:00:00",
                     "Amount": "17000",
                     "Supplier": "Mens Journal",
-                    "InvoiceNo": "MJ53074",
+                    "Invoice#": "MJ53074",
                     "InvoiceDate": "2016-04-26 00:00:00",
                     "InvoiceAmount": "17000",
+                    "PaymentDate": "2017-05-24 00:00:00",
+                    "Check/Wire#": "45002957731",
+                    "Check/WireAmount": "554872.19",
                     "TMText": "{a}",
                     "OpExAppropriatelyClassified": "Yes"
                 },
@@ -711,9 +738,12 @@
                     "GLDate": "2017-01-01 00:00:00",
                     "Amount": "5462",
                     "Supplier": "Blue Point Productions",
-                    "InvoiceNo": "1412",
+                    "Invoice#": "1412",
                     "InvoiceDate": "2017-01-23 00:00:00",
                     "InvoiceAmount": "5462",
+                    "PaymentDate": "2017-02-07 00:00:00",
+                    "Check/Wire#": "50372",
+                    "Check/WireAmount": "5462",
                     "TMText": "",
                     "OpExAppropriatelyClassified": "Yes"
                 }
@@ -765,9 +795,12 @@
                     "GLDate": "2016-09-01 00:00:00",
                     "Amount": "11779.02",
                     "Supplier": "Delucca Design ",
-                    "InvoiceNo": "CBK#_09.07.16",
+                    "Invoice#": "CBK#_09.07.16",
                     "InvoiceDate": "2016-09-07 00:00:00",
                     "InvoiceAmount": "11779.02",
+                    "PaymentDate": "2016-10-19 00:00:00",
+                    "Check/Wire#": "16293",
+                    "Check/WireAmount": "420116.3",
                     "OpExAppropriatelyClassified": "Yes",
                     "TMText": "{a}"
                 }
@@ -819,10 +852,13 @@
                     "GLDate": "2016-07-18 00:00:00",
                     "Amount": "90993.33",
                     "Supplier": "Hamburg Sud North America",
-                    "InvoiceNo": "BRG 071516",
+                    "Invoice#": "BRG 071516",
                     "InvoiceDate": "2016-07-15 00:00:00",
                     "OpExCorrectPeriod": "7/10/2016-7/15/2016",
                     "InvoiceAmount": "90993.33",
+                    "PaymentDate": "2016-08-14 00:00:00",
+                    "Check/Wire#": "1900110137",
+                    "Check/WireAmount": "107747.79",
                     "TMText": "{b}",
                     "OpExAppropriatelyClassified": "Yes"
                 },
@@ -832,10 +868,13 @@
                     "GLDate": "2017-03-10 00:00:00",
                     "Amount": "71.48",
                     "Supplier": "RateLinx",
-                    "InvoiceNo": "VistaActionSports03012017",
+                    "Invoice#": "VistaActionSports03012017",
                     "InvoiceDate": "2017-03-09 00:00:00",
                     "OpExCorrectPeriod": "3/5/2017-3/9/2017",
                     "InvoiceAmount": "152294.71",
+                    "PaymentDate": "2017-03-16 00:00:00",
+                    "Check/Wire#": "1900113417",
+                    "Check/WireAmount": "152294.71",
                     "TMText": "{b}",
                     "OpExAppropriatelyClassified": "Yes"
                 },
@@ -845,10 +884,13 @@
                     "GLDate": "2017-03-01 00:00:00",
                     "Amount": "44340.31",
                     "Supplier": "US Customs Services",
-                    "InvoiceNo": "3917058BHL",
+                    "Invoice#": "3917058BHL",
                     "InvoiceDate": "2017-02-27 00:00:00",
                     "OpExCorrectPeriod": "2/13/2017-2/19/2017",
                     "InvoiceAmount": "69859.57",
+                    "PaymentDate": "2017-03-02 00:00:00",
+                    "Check/Wire#": "600123386295",
+                    "Check/WireAmount": "71563.61",
                     "TMText": "{b}",
                     "OpExAppropriatelyClassified": "Yes"
                 },
@@ -858,10 +900,13 @@
                     "GLDate": "2016-05-31 00:00:00",
                     "Amount": "256395.68",
                     "Supplier": "Les Rantoul LP",
-                    "InvoiceNo": "{c}",
+                    "Invoice#": "{c}",
                     "InvoiceDate": "{c}",
                     "OpExCorrectPeriod": "{c}",
                     "InvoiceAmount": "{c}",
+                    "PaymentDate": "2016-06-01 00:00:00",
+                    "Check/Wire#": "510066868",
+                    "Check/WireAmount": "295386.73",
                     "TMText": "{b}",
                     "OpExAppropriatelyClassified": "Yes"
                 },
@@ -871,10 +916,13 @@
                     "GLDate": "2016-09-13 00:00:00",
                     "Amount": "34539.06",
                     "Supplier": "Village of Rantoul Light & Water Utilities",
-                    "InvoiceNo": "44811-18826",
+                    "Invoice#": "44811-18826",
                     "InvoiceDate": "2016-09-28 00:00:00",
                     "OpExCorrectPeriod": "8/1/2016-9/1/2016",
                     "InvoiceAmount": "45317.24",
+                    "PaymentDate": "2016-09-23 00:00:00",
+                    "Check/Wire#": "137722",
+                    "Check/WireAmount": "47745.07",
                     "TMText": "{b}",
                     "OpExAppropriatelyClassified": "{d}"
                 },
@@ -884,10 +932,13 @@
                     "GLDate": "2016-07-28 00:00:00",
                     "Amount": "34248.44",
                     "Supplier": "US Customs Services",
-                    "InvoiceNo": "95-173373100",
+                    "Invoice#": "95-173373100",
                     "InvoiceDate": "2016-07-26 00:00:00",
                     "OpExCorrectPeriod": "7/12/2017-7/18/2017",
                     "InvoiceAmount": "38923.9",
+                    "PaymentDate": "2016-08-03 00:00:00",
+                    "Check/Wire#": "00137306",
+                    "Check/WireAmount": "38923.9",
                     "TMText": "{b}",
                     "OpExAppropriatelyClassified": "Yes"
                 },
@@ -897,10 +948,13 @@
                     "GLDate": "2016-04-27 00:00:00",
                     "Amount": "35198.5",
                     "Supplier": "RateLinx",
-                    "InvoiceNo": "EBS04202016",
+                    "Invoice#": "EBS04202016",
                     "InvoiceDate": "2016-04-27 00:00:00",
                     "OpExCorrectPeriod": "4/20/2016-4/27/2016",
                     "InvoiceAmount": "185426.26",
+                    "PaymentDate": "2016-05-06 00:00:00",
+                    "Check/Wire#": "1900108620",
+                    "Check/WireAmount": "185426.26",
                     "TMText": "{b}",
                     "OpExAppropriatelyClassified": "Yes"
                 },
@@ -910,10 +964,13 @@
                     "GLDate": "2016-09-15 00:00:00",
                     "Amount": "11433.3",
                     "Supplier": "Packaging Corporation of America",
-                    "InvoiceNo": "303-84359",
+                    "Invoice#": "303-84359",
                     "InvoiceDate": "2016-09-28 00:00:00",
                     "OpExCorrectPeriod": "9/21/2016-9/28/2016",
                     "InvoiceAmount": "57168.28",
+                    "PaymentDate": "2016-10-28 00:00:00",
+                    "Check/Wire#": "00138006",
+                    "Check/WireAmount": "261627.19",
                     "TMText": "{b}",
                     "OpExAppropriatelyClassified": "Yes"
                 },
@@ -923,10 +980,13 @@
                     "GLDate": "2016-10-14 00:00:00",
                     "Amount": "47755.05",
                     "Supplier": "RateLinx",
-                    "InvoiceNo": "VistaActionSports100516",
+                    "Invoice#": "VistaActionSports100516",
                     "InvoiceDate": "2016-10-12 00:00:00",
                     "OpExCorrectPeriod": "10/5/2016-10/12/2016",
                     "InvoiceAmount": "223456.67",
+                    "PaymentDate": "2016-10-21 00:00:00",
+                    "Check/Wire#": "1900111622",
+                    "Check/WireAmount": "229068.45",
                     "TMText": "{b}",
                     "OpExAppropriatelyClassified": "Yes"
                 },
@@ -936,10 +996,13 @@
                     "GLDate": "2016-10-01 00:00:00",
                     "Amount": "88281",
                     "Supplier": "{e}",
-                    "InvoiceNo": "{e}",
+                    "Invoice#": "{e}",
                     "InvoiceDate": "{e}",
                     "OpExCorrectPeriod": "{e}",
                     "InvoiceAmount": "{e}",
+                    "PaymentDate": "{e}",
+                    "Check/Wire#": "{e}",
+                    "Check/WireAmount": "{e}",
                     "TMText": "{b}",
                     "OpExAppropriatelyClassified": "Yes"
                 }
@@ -968,6 +1031,1056 @@
             "visualization_level": "3",
             "oKey": "Case1_1",
             "RiskDescription": "Advertising expenses are recorded in the incorrect general ledger account. "
+        },
+        {
+            "_key": "i_23_Client",
+            "name": "i_Client",
+            "type": "Instance",
+            "visualization_level": "1",
+            "oKey": [
+                "Case2_0",
+                "Case2_1",
+                "Case2_2",
+                "Case2_3",
+                "Case2_4"
+            ]
+        },
+        {
+            "_key": "i_24_OperatingExpenseROMM",
+            "name": "i_OperatingExpenseROMM",
+            "type": "Instance",
+            "visualization_level": "2",
+            "oKey": "Case2_0",
+            "RiskLevel": "Legacy: Higher Risk\nGalleria: N/A"
+        },
+        {
+            "_key": "i_25_AccountName",
+            "name": "i_AdvertisingAndPromotionalExpense",
+            "type": "Instance",
+            "visualization_level": "3",
+            "oKey": "Case2_0"
+        },
+        {
+            "_key": "i_26_Assertion",
+            "name": "i_Completeness",
+            "type": "Instance",
+            "visualization_level": "3",
+            "oKey": "Case2_0",
+            "RiskDescription": "A&CP expenses incurred are not recorded."
+        },
+        {
+            "_key": "i_27_TestOfDetails",
+            "name": "i_TestOfDetails",
+            "type": "Instance",
+            "visualization_level": "2",
+            "oKey": [
+                "Case2_0",
+                "Case2_1",
+                "Case2_2",
+                "Case2_3",
+                "Case2_4"
+            ],
+            "TestID": "1. Procedures"
+        },
+        {
+            "_key": "i_28_PlannedTODProcedure",
+            "name": "i_PlannedTODProcedure",
+            "type": "Instance",
+            "visualization_level": "2",
+            "oKey": [
+                "Case2_0",
+                "Case2_1",
+                "Case2_2",
+                "Case2_3",
+                "Case2_4"
+            ],
+            "PerformanceMaterialityAmount": "18200000",
+            "PopulationSize": "15794951",
+            "SampleDescription": "NA",
+            "SampleSize": "1",
+            "TestConclusionText": "NA",
+            "TestProcedureText": "\n1) D&T obtained the SG&A expense accounts, as outlined in the A/1800 Scoping Analysis, from Sherry Wu, SSC Finance Manager.  D&T tied the balance of the detail to the TB as per the leadsheet found at A/8300.\n2) D&T calculated the necessary sample size for each expense type per firm guidance U.S. PCAOB AAM Section 23002-4, Figure 23002-4.1.  See sample design below. We note that we tested all credit balance accounts as one population, see tickmark {p} for details. \n3) D&T then subjected the entire population of each expense type, less any items above performance materiality, to testing using MUS and guidance from PCAOB AAM 23002-4 and made selections of accounts to test (note that MUS is a statistical sampling technique that selects accounts from a listing and dictates how many selections to make from each account.  The user inputs the number of selections to make into MUS based on the sample design calculator).  \n4) D&T subjected the total amount of each selected account to testing based on the number of selections determined by MUS below.\n5) D&T obtained the GL activity for the SG&A accounts and tied the total balance of the detail to the TB as per the leadsheet found at A/8300. Made detail selections based on the number of selections determined by MUS below.  \n6) D&T obtained the journal entry, supporting schedules or invoices, and payments for each selection from Sherry Wu, SSC Finance Manager.\n7) D&T performed testing on all the support obtained to ensure that all operating expenses were accurately recorded in the appropriate period. \n\n",
+            "TestPurposeText": "  To ensure the SG&A expenses are fairly stated at 6/30/17.\n\n",
+            "TestID": "2. SG&A Testing - Debits"
+        },
+        {
+            "_key": "i_29_PlannedTODProcedure",
+            "name": "i_PlannedTODProcedure",
+            "type": "Instance",
+            "visualization_level": "2",
+            "oKey": [
+                "Case2_0",
+                "Case2_1",
+                "Case2_2",
+                "Case2_3",
+                "Case2_4"
+            ],
+            "PerformanceMaterialityAmount": "18200000",
+            "PopulationSize": "218972370.26999998",
+            "SampleDescription": "NA",
+            "SampleSize": "6",
+            "TestConclusionText": "NA",
+            "TestProcedureText": "\n1) D&T obtained the SG&A expense accounts, as outlined in the A/1800 Scoping Analysis, from Sherry Wu, SSC Finance Manager.  D&T tied the balance of the detail to the TB as per the leadsheet found at A/8300.\n2) D&T calculated the necessary sample size for each expense type per firm guidance U.S. PCAOB AAM Section 23002-4, Figure 23002-4.1.  See sample design below. We note that we tested all credit balance accounts as one population, see tickmark {p} for details. \n3) D&T then subjected the entire population of each expense type, less any items above performance materiality, to testing using MUS and guidance from PCAOB AAM 23002-4 and made selections of accounts to test (note that MUS is a statistical sampling technique that selects accounts from a listing and dictates how many selections to make from each account.  The user inputs the number of selections to make into MUS based on the sample design calculator).  \n4) D&T subjected the total amount of each selected account to testing based on the number of selections determined by MUS below.\n5) D&T obtained the GL activity for the SG&A accounts and tied the total balance of the detail to the TB as per the leadsheet found at A/8300. Made detail selections based on the number of selections determined by MUS below.  \n6) D&T obtained the journal entry, supporting schedules or invoices, and payments for each selection from Sherry Wu, SSC Finance Manager.\n7) D&T performed testing on all the support obtained to ensure that all operating expenses were accurately recorded in the appropriate period. \n\n",
+            "TestPurposeText": "  To ensure the SG&A expenses are fairly stated at 6/30/17.\n\n",
+            "TestID": "2. SG&A Testing - Debits"
+        },
+        {
+            "_key": "i_30_PlannedTODProcedure",
+            "name": "i_PlannedTODProcedure",
+            "type": "Instance",
+            "visualization_level": "2",
+            "oKey": [
+                "Case2_0",
+                "Case2_1",
+                "Case2_2",
+                "Case2_3",
+                "Case2_4"
+            ],
+            "PerformanceMaterialityAmount": "18200000",
+            "PopulationSize": "26537703.36",
+            "SampleDescription": "NA",
+            "SampleSize": "1",
+            "TestConclusionText": "NA",
+            "TestProcedureText": "\n1) D&T obtained the SG&A expense accounts, as outlined in the A/1800 Scoping Analysis, from Sherry Wu, SSC Finance Manager.  D&T tied the balance of the detail to the TB as per the leadsheet found at A/8300.\n2) D&T calculated the necessary sample size for each expense type per firm guidance U.S. PCAOB AAM Section 23002-4, Figure 23002-4.1.  See sample design below. We note that we tested all credit balance accounts as one population, see tickmark {p} for details. \n3) D&T then subjected the entire population of each expense type, less any items above performance materiality, to testing using MUS and guidance from PCAOB AAM 23002-4 and made selections of accounts to test (note that MUS is a statistical sampling technique that selects accounts from a listing and dictates how many selections to make from each account.  The user inputs the number of selections to make into MUS based on the sample design calculator).  \n4) D&T subjected the total amount of each selected account to testing based on the number of selections determined by MUS below.\n5) D&T obtained the GL activity for the SG&A accounts and tied the total balance of the detail to the TB as per the leadsheet found at A/8300. Made detail selections based on the number of selections determined by MUS below.  \n6) D&T obtained the journal entry, supporting schedules or invoices, and payments for each selection from Sherry Wu, SSC Finance Manager.\n7) D&T performed testing on all the support obtained to ensure that all operating expenses were accurately recorded in the appropriate period. \n\n",
+            "TestPurposeText": "  To ensure the SG&A expenses are fairly stated at 6/30/17.\n\n",
+            "TestID": "2. SG&A Testing - Debits"
+        },
+        {
+            "_key": "i_31_PlannedTODProcedure",
+            "name": "i_PlannedTODProcedure",
+            "type": "Instance",
+            "visualization_level": "2",
+            "oKey": [
+                "Case2_0",
+                "Case2_1",
+                "Case2_2",
+                "Case2_3",
+                "Case2_4"
+            ],
+            "PerformanceMaterialityAmount": "18200000",
+            "PopulationSize": "11229188.350000001",
+            "SampleDescription": "NA",
+            "SampleSize": "1",
+            "TestConclusionText": "NA",
+            "TestProcedureText": "\n1) D&T obtained the SG&A expense accounts, as outlined in the A/1800 Scoping Analysis, from Sherry Wu, SSC Finance Manager.  D&T tied the balance of the detail to the TB as per the leadsheet found at A/8300.\n2) D&T calculated the necessary sample size for each expense type per firm guidance U.S. PCAOB AAM Section 23002-4, Figure 23002-4.1.  See sample design below. We note that we tested all credit balance accounts as one population, see tickmark {p} for details. \n3) D&T then subjected the entire population of each expense type, less any items above performance materiality, to testing using MUS and guidance from PCAOB AAM 23002-4 and made selections of accounts to test (note that MUS is a statistical sampling technique that selects accounts from a listing and dictates how many selections to make from each account.  The user inputs the number of selections to make into MUS based on the sample design calculator).  \n4) D&T subjected the total amount of each selected account to testing based on the number of selections determined by MUS below.\n5) D&T obtained the GL activity for the SG&A accounts and tied the total balance of the detail to the TB as per the leadsheet found at A/8300. Made detail selections based on the number of selections determined by MUS below.  \n6) D&T obtained the journal entry, supporting schedules or invoices, and payments for each selection from Sherry Wu, SSC Finance Manager.\n7) D&T performed testing on all the support obtained to ensure that all operating expenses were accurately recorded in the appropriate period. \n\n",
+            "TestPurposeText": "  To ensure the SG&A expenses are fairly stated at 6/30/17.\n\n",
+            "TestID": "2. SG&A Testing - Debits"
+        },
+        {
+            "_key": "i_32_PlannedTODProcedure",
+            "name": "i_PlannedTODProcedure",
+            "type": "Instance",
+            "visualization_level": "2",
+            "oKey": [
+                "Case2_0",
+                "Case2_1",
+                "Case2_2",
+                "Case2_3",
+                "Case2_4"
+            ],
+            "PerformanceMaterialityAmount": "18200000",
+            "PopulationSize": "8540322.53",
+            "SampleDescription": "NA",
+            "SampleSize": "1",
+            "TestConclusionText": "NA",
+            "TestProcedureText": "\n1) D&T obtained the SG&A expense accounts, as outlined in the A/1800 Scoping Analysis, from Sherry Wu, SSC Finance Manager.  D&T tied the balance of the detail to the TB as per the leadsheet found at A/8300.\n2) D&T calculated the necessary sample size for each expense type per firm guidance U.S. PCAOB AAM Section 23002-4, Figure 23002-4.1.  See sample design below. We note that we tested all credit balance accounts as one population, see tickmark {p} for details. \n3) D&T then subjected the entire population of each expense type, less any items above performance materiality, to testing using MUS and guidance from PCAOB AAM 23002-4 and made selections of accounts to test (note that MUS is a statistical sampling technique that selects accounts from a listing and dictates how many selections to make from each account.  The user inputs the number of selections to make into MUS based on the sample design calculator).  \n4) D&T subjected the total amount of each selected account to testing based on the number of selections determined by MUS below.\n5) D&T obtained the GL activity for the SG&A accounts and tied the total balance of the detail to the TB as per the leadsheet found at A/8300. Made detail selections based on the number of selections determined by MUS below.  \n6) D&T obtained the journal entry, supporting schedules or invoices, and payments for each selection from Sherry Wu, SSC Finance Manager.\n7) D&T performed testing on all the support obtained to ensure that all operating expenses were accurately recorded in the appropriate period. \n\n",
+            "TestPurposeText": "  To ensure the SG&A expenses are fairly stated at 6/30/17.\n\n",
+            "TestID": "2. SG&A Testing - Debits"
+        },
+        {
+            "_key": "i_33_PlannedTODProcedure",
+            "name": "i_PlannedTODProcedure",
+            "type": "Instance",
+            "visualization_level": "2",
+            "oKey": [
+                "Case2_0",
+                "Case2_1",
+                "Case2_2",
+                "Case2_3",
+                "Case2_4"
+            ],
+            "PerformanceMaterialityAmount": "18200000",
+            "PopulationSize": "32764435.590000004",
+            "SampleDescription": "NA",
+            "SampleSize": "2",
+            "TestConclusionText": "NA",
+            "TestProcedureText": "\n1) D&T obtained the SG&A expense accounts, as outlined in the A/1800 Scoping Analysis, from Sherry Wu, SSC Finance Manager.  D&T tied the balance of the detail to the TB as per the leadsheet found at A/8300.\n2) D&T calculated the necessary sample size for each expense type per firm guidance U.S. PCAOB AAM Section 23002-4, Figure 23002-4.1.  See sample design below. We note that we tested all credit balance accounts as one population, see tickmark {p} for details. \n3) D&T then subjected the entire population of each expense type, less any items above performance materiality, to testing using MUS and guidance from PCAOB AAM 23002-4 and made selections of accounts to test (note that MUS is a statistical sampling technique that selects accounts from a listing and dictates how many selections to make from each account.  The user inputs the number of selections to make into MUS based on the sample design calculator).  \n4) D&T subjected the total amount of each selected account to testing based on the number of selections determined by MUS below.\n5) D&T obtained the GL activity for the SG&A accounts and tied the total balance of the detail to the TB as per the leadsheet found at A/8300. Made detail selections based on the number of selections determined by MUS below.  \n6) D&T obtained the journal entry, supporting schedules or invoices, and payments for each selection from Sherry Wu, SSC Finance Manager.\n7) D&T performed testing on all the support obtained to ensure that all operating expenses were accurately recorded in the appropriate period. \n\n",
+            "TestPurposeText": "  To ensure the SG&A expenses are fairly stated at 6/30/17.\n\n",
+            "TestID": "2. SG&A Testing - Debits"
+        },
+        {
+            "_key": "i_34_PlannedTODProcedure",
+            "name": "i_PlannedTODProcedure",
+            "type": "Instance",
+            "visualization_level": "2",
+            "oKey": [
+                "Case2_0",
+                "Case2_1",
+                "Case2_2",
+                "Case2_3",
+                "Case2_4"
+            ],
+            "PerformanceMaterialityAmount": "18200000",
+            "PopulationSize": "27318585.79",
+            "SampleDescription": "NA",
+            "SampleSize": "1",
+            "TestConclusionText": "NA",
+            "TestProcedureText": "\n1) D&T obtained the SG&A expense accounts, as outlined in the A/1800 Scoping Analysis, from Sherry Wu, SSC Finance Manager.  D&T tied the balance of the detail to the TB as per the leadsheet found at A/8300.\n2) D&T calculated the necessary sample size for each expense type per firm guidance U.S. PCAOB AAM Section 23002-4, Figure 23002-4.1.  See sample design below. We note that we tested all credit balance accounts as one population, see tickmark {p} for details. \n3) D&T then subjected the entire population of each expense type, less any items above performance materiality, to testing using MUS and guidance from PCAOB AAM 23002-4 and made selections of accounts to test (note that MUS is a statistical sampling technique that selects accounts from a listing and dictates how many selections to make from each account.  The user inputs the number of selections to make into MUS based on the sample design calculator).  \n4) D&T subjected the total amount of each selected account to testing based on the number of selections determined by MUS below.\n5) D&T obtained the GL activity for the SG&A accounts and tied the total balance of the detail to the TB as per the leadsheet found at A/8300. Made detail selections based on the number of selections determined by MUS below.  \n6) D&T obtained the journal entry, supporting schedules or invoices, and payments for each selection from Sherry Wu, SSC Finance Manager.\n7) D&T performed testing on all the support obtained to ensure that all operating expenses were accurately recorded in the appropriate period. \n\n",
+            "TestPurposeText": "  To ensure the SG&A expenses are fairly stated at 6/30/17.\n\n",
+            "TestID": "2. SG&A Testing - Debits"
+        },
+        {
+            "_key": "i_35_PlannedTODProcedure",
+            "name": "i_PlannedTODProcedure",
+            "type": "Instance",
+            "visualization_level": "2",
+            "oKey": [
+                "Case2_0",
+                "Case2_1",
+                "Case2_2",
+                "Case2_3",
+                "Case2_4"
+            ],
+            "PerformanceMaterialityAmount": "18200000",
+            "PopulationSize": "-11061907.809999999",
+            "SampleDescription": "NA",
+            "SampleSize": "1",
+            "TestConclusionText": "NA",
+            "TestProcedureText": "\n1) D&T obtained the SG&A expense accounts, as outlined in the A/1800 Scoping Analysis, from Sherry Wu, SSC Finance Manager.  D&T tied the balance of the detail to the TB as per the leadsheet found at A/8300.\n2) D&T calculated the necessary sample size for each expense type per firm guidance U.S. PCAOB AAM Section 23002-4, Figure 23002-4.1.  See sample design below. We note that we tested all credit balance accounts as one population, see tickmark {p} for details. \n3) D&T then subjected the entire population of each expense type, less any items above performance materiality, to testing using MUS and guidance from PCAOB AAM 23002-4 and made selections of accounts to test (note that MUS is a statistical sampling technique that selects accounts from a listing and dictates how many selections to make from each account.  The user inputs the number of selections to make into MUS based on the sample design calculator).  \n4) D&T subjected the total amount of each selected account to testing based on the number of selections determined by MUS below.\n5) D&T obtained the GL activity for the SG&A accounts and tied the total balance of the detail to the TB as per the leadsheet found at A/8300. Made detail selections based on the number of selections determined by MUS below.  \n6) D&T obtained the journal entry, supporting schedules or invoices, and payments for each selection from Sherry Wu, SSC Finance Manager.\n7) D&T performed testing on all the support obtained to ensure that all operating expenses were accurately recorded in the appropriate period. \n\n",
+            "TestPurposeText": "  To ensure the SG&A expenses are fairly stated at 6/30/17.\n\n",
+            "TestID": "3. SG&A Testing - Credits"
+        },
+        {
+            "_key": "i_36_TestOfDetails",
+            "name": "i_TestOfDetails",
+            "type": "Instance",
+            "visualization_level": "2",
+            "oKey": [
+                "Case2_0",
+                "Case2_1",
+                "Case2_2",
+                "Case2_3",
+                "Case2_4"
+            ],
+            "TestID": "2. SG&A Testing - Debits"
+        },
+        {
+            "_key": "i_37_PerformedTODProcedure",
+            "name": "i_PerformedTODProcedure",
+            "type": "Instance",
+            "visualization_level": "2",
+            "oKey": [
+                "Case2_0",
+                "Case2_1",
+                "Case2_2",
+                "Case2_3",
+                "Case2_4"
+            ],
+            "DataRecord": {
+                "0": {
+                    "GLDescription": "Advertising",
+                    "GLAccountNo": "5130006",
+                    "GLDate": "2016-12-01 00:00:00",
+                    "Amount": "78750",
+                    "Invoice#": "2286162",
+                    "InvoiceDate": "2016-11-22 00:00:00",
+                    "Supplier": "coloredge",
+                    "InvoiceAmount": "78750",
+                    "Difference": "0",
+                    "Check/Wire#": "IA000011636603\nIA000011410471",
+                    "PaymentDate": "3/16/2017\n3/15/2017",
+                    "Check/WireAmount": "$48,619,599.97\n$3,913,635.90",
+                    "OpExAppropriatelyClassified": "Yes",
+                    "TMText": "{f},{a}"
+                },
+                "1": {
+                    "GLDescription": "Advertising",
+                    "GLAccountNo": "5130006",
+                    "GLDate": "2017-06-30 00:00:00",
+                    "Amount": "2583",
+                    "Invoice#": "{n}",
+                    "InvoiceDate": "{n}",
+                    "Supplier": "{n}",
+                    "InvoiceAmount": "{n}",
+                    "Difference": "{n}",
+                    "Check/Wire#": "{n}",
+                    "PaymentDate": "{n}",
+                    "Check/WireAmount": "{n}",
+                    "OpExAppropriatelyClassified": "Yes",
+                    "TMText": "{n},{n}"
+                },
+                "2": {
+                    "GLDescription": "Advertising",
+                    "GLAccountNo": "5120003",
+                    "GLDate": "2016-12-13 00:00:00",
+                    "Amount": "70933.53",
+                    "Invoice#": "1011834925",
+                    "InvoiceDate": "2016-12-13 00:00:00",
+                    "Supplier": "Coty Inc.",
+                    "InvoiceAmount": "70933.53",
+                    "Difference": "0",
+                    "Check/Wire#": "{e}",
+                    "PaymentDate": "{e}",
+                    "Check/WireAmount": "{e}",
+                    "OpExAppropriatelyClassified": "Yes",
+                    "TMText": "{e},{e}"
+                },
+                "3": {
+                    "GLDescription": "Advertising",
+                    "GLAccountNo": "5100005",
+                    "GLDate": "2016-10-31 00:00:00",
+                    "Amount": "124383.42",
+                    "Invoice#": "N/A",
+                    "InvoiceDate": "None",
+                    "Supplier": "None",
+                    "InvoiceAmount": "124383.42",
+                    "Difference": "0",
+                    "Check/Wire#": "{j}",
+                    "PaymentDate": "{j}",
+                    "Check/WireAmount": "{j}",
+                    "OpExAppropriatelyClassified": "Yes",
+                    "TMText": "{j},{j}"
+                },
+                "4": {
+                    "GLDescription": "Advertising",
+                    "GLAccountNo": "5060071",
+                    "GLDate": "2016-12-31 00:00:00",
+                    "Amount": "426168.75",
+                    "Invoice#": "486-001443\n486-001444",
+                    "InvoiceDate": "12/19/2016\n12/20/2016",
+                    "Supplier": "Big Fuel",
+                    "InvoiceAmount": "426168.75",
+                    "Difference": "0",
+                    "Check/Wire#": "91000011829086",
+                    "PaymentDate": "2017-05-15 00:00:00",
+                    "Check/WireAmount": "85451.9",
+                    "OpExAppropriatelyClassified": "Yes",
+                    "TMText": "{f},{a}"
+                },
+                "5": {
+                    "GLDescription": "Advertising",
+                    "GLAccountNo": "5130093",
+                    "GLDate": "2016-12-31 00:00:00",
+                    "Amount": "22048",
+                    "Invoice#": "INV-26320",
+                    "InvoiceDate": "2016-12-21 00:00:00",
+                    "Supplier": "Harvey & Daughters, Inc.",
+                    "InvoiceAmount": "22048",
+                    "Difference": "0",
+                    "Check/Wire#": "91000011829458",
+                    "PaymentDate": "2017-05-15 00:00:00",
+                    "Check/WireAmount": "476168.75",
+                    "OpExAppropriatelyClassified": "Yes",
+                    "TMText": "{f},{a}"
+                },
+                "6": {
+                    "GLDescription": "Advertising",
+                    "GLAccountNo": "5130002",
+                    "GLDate": "2016-12-31 00:00:00",
+                    "Amount": "16764.64",
+                    "Invoice#": "N/A",
+                    "InvoiceDate": "2016-11-17 00:00:00",
+                    "Supplier": "Saipua",
+                    "InvoiceAmount": "16355.75",
+                    "Difference": "408.8899999999994",
+                    "Check/Wire#": "242476063235007",
+                    "PaymentDate": "2016-11-17 00:00:00",
+                    "Check/WireAmount": "16764.64",
+                    "OpExAppropriatelyClassified": "Yes",
+                    "TMText": "{i},{i}"
+                },
+                "7": {
+                    "GLDescription": "Advertising",
+                    "GLAccountNo": "5120001",
+                    "GLDate": "2017-03-29 00:00:00",
+                    "Amount": "890",
+                    "Invoice#": "170185",
+                    "InvoiceDate": "2017-03-27 00:00:00",
+                    "Supplier": "Color by Number",
+                    "InvoiceAmount": "890",
+                    "Difference": "0",
+                    "Check/Wire#": "IA000014571157\nIA000016098131",
+                    "PaymentDate": "3/21/2107\n3/22/2017",
+                    "Check/WireAmount": "$13,513.23\n$664,875",
+                    "OpExAppropriatelyClassified": "Yes",
+                    "TMText": "{f},{a}"
+                },
+                "8": {
+                    "GLDescription": "Travel & Meeting ",
+                    "GLAccountNo": "5340003",
+                    "GLDate": "2016-10-31 00:00:00",
+                    "Amount": "5456.02",
+                    "Invoice#": "{g}",
+                    "InvoiceDate": "{g}",
+                    "Supplier": "{g}",
+                    "InvoiceAmount": "{g}",
+                    "Difference": "{g}",
+                    "Check/Wire#": "{g}",
+                    "PaymentDate": "{g}",
+                    "Check/WireAmount": "{g}",
+                    "OpExAppropriatelyClassified": "Yes",
+                    "TMText": "{g},{g}"
+                },
+                "9": {
+                    "GLDescription": "Professional Fees",
+                    "GLAccountNo": "5360007",
+                    "GLDate": "2016-12-08 00:00:00",
+                    "Amount": "142745.27",
+                    "Invoice#": "XZM0003998",
+                    "InvoiceDate": "2016-11-30 00:00:00",
+                    "Supplier": "Kuehne + Nagel Inc.",
+                    "InvoiceAmount": "142745.27",
+                    "Difference": "0",
+                    "Check/Wire#": "IA000017241631\nIA000015692603",
+                    "PaymentDate": "2/14/2017\n2/15/2017",
+                    "Check/WireAmount": "$4,188,920.73\n$48,122,231.12",
+                    "OpExAppropriatelyClassified": "Yes",
+                    "TMText": "{f},{a}"
+                },
+                "10": {
+                    "GLDescription": "Office Supplies",
+                    "GLAccountNo": "5350000",
+                    "GLDate": "2016-11-28 00:00:00",
+                    "Amount": "9863.13",
+                    "Invoice#": "562-81421551",
+                    "InvoiceDate": "2016-11-28 00:00:00",
+                    "Supplier": "Veritiv",
+                    "InvoiceAmount": "9863.13",
+                    "Difference": "0",
+                    "Check/Wire#": "IA000011636603\nIA000011410471",
+                    "PaymentDate": "3/16/2017\n3/15/2017",
+                    "Check/WireAmount": "$48,619,599.97\n$3,913,635.90",
+                    "OpExAppropriatelyClassified": "Yes",
+                    "TMText": "{f},{a}"
+                },
+                "11": {
+                    "GLDescription": "Manufacturing",
+                    "GLAccountNo": "5350082",
+                    "GLDate": "2016-12-09 00:00:00",
+                    "Amount": "41452.5",
+                    "Invoice#": "RT 45249-A",
+                    "InvoiceDate": "2016-07-31 00:00:00",
+                    "Supplier": "CrossMark",
+                    "InvoiceAmount": "41452.5",
+                    "Difference": "0",
+                    "Check/Wire#": "IA000015747255\nIA000010978262",
+                    "PaymentDate": "12/16/2016\n12/15/2016",
+                    "Check/WireAmount": "$44,902,187.99\n$4,482,911.58",
+                    "OpExAppropriatelyClassified": "Yes",
+                    "TMText": "{d},{a}"
+                },
+                "12": {
+                    "GLDescription": "Operations",
+                    "GLAccountNo": "5330009",
+                    "GLDate": "2016-10-19 00:00:00",
+                    "Amount": "191441.35",
+                    "Invoice#": "6703711346",
+                    "InvoiceDate": "2016-05-17 00:00:00",
+                    "Supplier": "Duke Energy",
+                    "InvoiceAmount": "191441.35",
+                    "Difference": "0",
+                    "Check/Wire#": "{k}",
+                    "PaymentDate": "{k}",
+                    "Check/WireAmount": "{k}",
+                    "OpExAppropriatelyClassified": "Yes",
+                    "TMText": "{k},{k}"
+                },
+                "13": {
+                    "GLDescription": "Operations",
+                    "GLAccountNo": "5350162",
+                    "GLDate": "2017-03-21 00:00:00",
+                    "Amount": "30060",
+                    "Invoice#": "18317",
+                    "InvoiceDate": "2017-02-02 00:00:00",
+                    "Supplier": "Tompkins International",
+                    "InvoiceAmount": "30060",
+                    "Difference": "0",
+                    "Check/Wire#": "IA000014121926\nIA000015017317",
+                    "PaymentDate": "6/27/2017\n6/28/2017",
+                    "Check/WireAmount": "$770,151.36\n$8,985,397.89",
+                    "OpExAppropriatelyClassified": "Yes",
+                    "TMText": "{a}"
+                },
+                "14": {
+                    "GLDescription": "Miscell Fixed Costs",
+                    "GLAccountNo": "5350012",
+                    "GLDate": "2016-12-19 00:00:00",
+                    "Amount": "12000",
+                    "Invoice#": "16-099",
+                    "InvoiceDate": "2016-11-23 00:00:00",
+                    "Supplier": "A.P.R Executive Search, Inc.",
+                    "InvoiceAmount": "12000",
+                    "Difference": "0",
+                    "Check/Wire#": "IA00838113997",
+                    "PaymentDate": "2017-04-18 00:00:00",
+                    "Check/WireAmount": "12000",
+                    "OpExAppropriatelyClassified": "Yes",
+                    "TMText": "{f}"
+                }
+            },
+            "TestID": "2. SG&A Testing - Debits"
+        },
+        {
+            "_key": "i_38_TestOfDetails",
+            "name": "i_TestOfDetails",
+            "type": "Instance",
+            "visualization_level": "2",
+            "oKey": [
+                "Case2_0",
+                "Case2_1",
+                "Case2_2",
+                "Case2_3",
+                "Case2_4"
+            ],
+            "TestID": "3. SG&A Testing - Credits"
+        },
+        {
+            "_key": "i_39_PerformedTODProcedure",
+            "name": "i_PerformedTODProcedure",
+            "type": "Instance",
+            "visualization_level": "2",
+            "oKey": [
+                "Case2_0",
+                "Case2_1",
+                "Case2_2",
+                "Case2_3",
+                "Case2_4"
+            ],
+            "DataRecord": {
+                "0": {
+                    "GLDescription": "Advertising",
+                    "GLAccountNo": "5120030",
+                    "GLDate": "2017-06-30 00:00:00",
+                    "Amount": "19200",
+                    "Invoice#": "{l}",
+                    "InvoiceDate": "{l}",
+                    "Supplier": "{l}",
+                    "InvoiceAmount": "{l}",
+                    "Difference": "{l}",
+                    "Check/Wire#": "{l}",
+                    "PaymentDate": "{l}",
+                    "Check/WireAmount": "{l}",
+                    "OpExAppropriatelyClassified": "NA",
+                    "TMText": "{l},{l}"
+                }
+            },
+            "TestID": "3. SG&A Testing - Credits"
+        },
+        {
+            "_key": "i_40_OperatingExpenseROMM",
+            "name": "i_OperatingExpenseROMM",
+            "type": "Instance",
+            "visualization_level": "2",
+            "oKey": "Case2_1",
+            "RiskLevel": "Legacy: Higher Risk\nGalleria: N/A"
+        },
+        {
+            "_key": "i_41_AccountName",
+            "name": "i_AdvertisingAndPromotionalExpense",
+            "type": "Instance",
+            "visualization_level": "3",
+            "oKey": "Case2_1"
+        },
+        {
+            "_key": "i_42_Assertion",
+            "name": "i_Occurrence",
+            "type": "Instance",
+            "visualization_level": "3",
+            "oKey": "Case2_1",
+            "RiskDescription": "A&CP expenses are recorded for transactions that did not occur, when no related good or service was received, and/or when no liability exists"
+        },
+        {
+            "_key": "i_43_OperatingExpenseROMM",
+            "name": "i_OperatingExpenseROMM",
+            "type": "Instance",
+            "visualization_level": "2",
+            "oKey": "Case2_2",
+            "RiskLevel": "Legacy: Higher Risk\nGalleria: N/A"
+        },
+        {
+            "_key": "i_44_AccountName",
+            "name": "i_AdvertisingAndPromotionalExpense",
+            "type": "Instance",
+            "visualization_level": "3",
+            "oKey": "Case2_2"
+        },
+        {
+            "_key": "i_45_Assertion",
+            "name": "i_Accuracy",
+            "type": "Instance",
+            "visualization_level": "3",
+            "oKey": "Case2_2",
+            "RiskDescription": "A&CP expenses incurred are not calculated accurately or are not recorded at the correct amount."
+        },
+        {
+            "_key": "i_46_OperatingExpenseROMM",
+            "name": "i_OperatingExpenseROMM",
+            "type": "Instance",
+            "visualization_level": "2",
+            "oKey": "Case2_3",
+            "RiskLevel": "Legacy: Higher Risk\nGalleria: N/A"
+        },
+        {
+            "_key": "i_47_AccountName",
+            "name": "i_AdvertisingAndPromotionalExpense",
+            "type": "Instance",
+            "visualization_level": "3",
+            "oKey": "Case2_3"
+        },
+        {
+            "_key": "i_48_Assertion",
+            "name": "i_Cutoff",
+            "type": "Instance",
+            "visualization_level": "3",
+            "oKey": "Case2_3",
+            "RiskDescription": "A&CP expenses are not recorded in the correct period."
+        },
+        {
+            "_key": "i_49_OperatingExpenseROMM",
+            "name": "i_OperatingExpenseROMM",
+            "type": "Instance",
+            "visualization_level": "2",
+            "oKey": "Case2_4",
+            "RiskLevel": "Legacy: Lower Risk\nGalleria: N/A"
+        },
+        {
+            "_key": "i_50_AccountName",
+            "name": "i_AdvertisingAndPromotionalExpense",
+            "type": "Instance",
+            "visualization_level": "3",
+            "oKey": "Case2_4"
+        },
+        {
+            "_key": "i_51_Assertion",
+            "name": "i_Classification",
+            "type": "Instance",
+            "visualization_level": "3",
+            "oKey": "Case2_4",
+            "RiskDescription": "An expense is improperly included in A&CP Expense rather than properly being recorded in Cost of Sales or Other Income & Expense line."
+        },
+        {
+            "_key": "i_52_Client",
+            "name": "i_Client",
+            "type": "Instance",
+            "visualization_level": "1",
+            "oKey": [
+                "Case3_0",
+                "Case3_1",
+                "Case3_2",
+                "Case3_3",
+                "Case3_4",
+                "Case3_5"
+            ]
+        },
+        {
+            "_key": "i_53_OperatingExpenseROMM",
+            "name": "i_OperatingExpenseROMM",
+            "type": "Instance",
+            "visualization_level": "2",
+            "oKey": "Case3_0",
+            "RiskLevel": "Higher"
+        },
+        {
+            "_key": "i_54_AccountName",
+            "name": "i_AdvertisingAndPromotionalExpense",
+            "type": "Instance",
+            "visualization_level": "3",
+            "oKey": "Case3_0"
+        },
+        {
+            "_key": "i_55_Assertion",
+            "name": "i_Occurrence",
+            "type": "Instance",
+            "visualization_level": "3",
+            "oKey": "Case3_0",
+            "RiskDescription": "Expenditures where future benefits exist for the entity are incorrectly recorded as expenses instead of deferred."
+        },
+        {
+            "_key": "i_56_TestOfDetails",
+            "name": "i_TestOfDetails",
+            "type": "Instance",
+            "visualization_level": "2",
+            "oKey": [
+                "Case3_0",
+                "Case3_1",
+                "Case3_2",
+                "Case3_3",
+                "Case3_4",
+                "Case3_5"
+            ],
+            "TestID": "p2 Detail Test (Interim)"
+        },
+        {
+            "_key": "i_57_PlannedTODProcedure",
+            "name": "i_PlannedTODProcedure",
+            "type": "Instance",
+            "visualization_level": "2",
+            "oKey": [
+                "Case3_0",
+                "Case3_1",
+                "Case3_2",
+                "Case3_3",
+                "Case3_4",
+                "Case3_5"
+            ],
+            "PerformanceMaterialityAmount": "45000000",
+            "PopulationSize": "62865239.860000014",
+            "SampleDescription": "NA",
+            "SampleSize": "1",
+            "TestConclusionText": "  Based upon the testing performed herein, Performance Advertising Expenses appear appropriately stated at 9/30/17.",
+            "TestProcedureText": "  D&T subjected the population of Performance Advertising expense accounts (see Lead) to a sample size calculation in accordance with PCAOB AAM Figure 23002-4.1, utilizing the Random Sampling function. D&T obtained the performance advertising expense G/L detail for the account selected (refer to Lead) from Courtney Gudenkauf, Staff Accountant noting the total of the detail agreed to the trial balance (Lead) w/o/e.  From this detail, D&T utilized the Random Sampling function in excel to make the appropriate amount of selections pertaining to performance advertising expenses, and obtained a copy of invoice and bank wire from Courtney, determining whether the expense was appropriate and invoice has been properly classified and included in the 9/30/17 Performance Advertising expenses. See {u} for approach, sampling unit, and sampling method considerations. \n\n",
+            "TestPurposeText": "  To test Performance Advertising Expenses at 9/30/17.\n\n",
+            "TestID": "p2 Detail Test (Interim)"
+        },
+        {
+            "_key": "i_58_PerformedTODProcedure",
+            "name": "i_PerformedTODProcedure",
+            "type": "Instance",
+            "visualization_level": "2",
+            "oKey": [
+                "Case3_0",
+                "Case3_1",
+                "Case3_2",
+                "Case3_3",
+                "Case3_4",
+                "Case3_5"
+            ],
+            "DataRecord": {
+                "0": {
+                    "GLAccountNo": "60005",
+                    "GLDescription": "SEM - Bing",
+                    "Amount": "1312645.01",
+                    "Invoice#": "9412699341",
+                    "InvoiceDate": "2017-02-01 00:00:00",
+                    "InvoiceAmount": "1312645.01",
+                    "Check/Wire#": "015FFKAJGOKIBUE",
+                    "PaymentDate": "2017-03-20 00:00:00",
+                    "Check/WireAmount": "2069863.47",
+                    "OpExAppropriatelyClassified": "Yes"
+                }
+            },
+            "TestID": "p2 Detail Test (Interim)"
+        },
+        {
+            "_key": "i_59_TestOfDetails",
+            "name": "i_TestOfDetails",
+            "type": "Instance",
+            "visualization_level": "2",
+            "oKey": [
+                "Case3_0",
+                "Case3_1",
+                "Case3_2",
+                "Case3_3",
+                "Case3_4",
+                "Case3_5"
+            ],
+            "TestID": "p3 Cash Disbursement Test (YE)"
+        },
+        {
+            "_key": "i_60_PlannedTODProcedure",
+            "name": "i_PlannedTODProcedure",
+            "type": "Instance",
+            "visualization_level": "2",
+            "oKey": [
+                "Case3_0",
+                "Case3_1",
+                "Case3_2",
+                "Case3_3",
+                "Case3_4",
+                "Case3_5"
+            ],
+            "PerformanceMaterialityAmount": "45000000",
+            "PopulationSize": "8707434.64",
+            "SampleDescription": "NA",
+            "SampleSize": "1",
+            "TestConclusionText": "  Based on the testing performed, Performance Advertising Expenses appear appropriately stated at 12/31/17.",
+            "TestProcedureText": "  In accordance with Opex ROMM at A/1825D, D&T subjected the population (comprised of subsequent disbursements obtained from the January 1 - 31, 2018 payment register) to a sample size calculation in accordance with PCAOB AAM Figure 23002-4.1, see below. The population consists of check and wire disbursements for operating expense accounts. Since this procedure is to test the completeness of Performance Advertising expenses, D&T judgmentally selected a disbursement related to a Performance Advertising expense. For the selected disbursement, D&T traced to supporting documentation to determine the period the invoice related to.  Lastly, D&T verified that the item was properly included in or excluded in Operating Expenses at 12/31/17. See {o} for sampling method considerations. \n\n",
+            "TestPurposeText": "NA",
+            "TestID": "p3 Cash Disbursement Test (YE)"
+        },
+        {
+            "_key": "i_61_PerformedTODProcedure",
+            "name": "i_PerformedTODProcedure",
+            "type": "Instance",
+            "visualization_level": "2",
+            "oKey": [
+                "Case3_0",
+                "Case3_1",
+                "Case3_2",
+                "Case3_3",
+                "Case3_4",
+                "Case3_5"
+            ],
+            "DataRecord": {
+                "0": {
+                    "Supplier": "Google ",
+                    "Invoice#": "3390862560",
+                    "InvoiceDate": "2017-10-31 00:00:00",
+                    "OpExCorrectPeriod": "2017-10-01 00:00:00",
+                    "InvoiceAmount": "1518.45",
+                    "Check/Wire#": "015OWZQISGPICY1",
+                    "PaymentDate": "2018-01-04 00:00:00",
+                    "Check/WireAmount": "232936.98",
+                    "TMText": "{i}"
+                }
+            },
+            "TestID": "p3 Cash Disbursement Test (YE)"
+        },
+        {
+            "_key": "i_62_TestOfDetails",
+            "name": "i_TestOfDetails",
+            "type": "Instance",
+            "visualization_level": "2",
+            "oKey": [
+                "Case3_0",
+                "Case3_1",
+                "Case3_2",
+                "Case3_3",
+                "Case3_4",
+                "Case3_5"
+            ],
+            "TestID": "p4 Unpaid Invoice Test (YE)"
+        },
+        {
+            "_key": "i_63_PlannedTODProcedure",
+            "name": "i_PlannedTODProcedure",
+            "type": "Instance",
+            "visualization_level": "2",
+            "oKey": [
+                "Case3_0",
+                "Case3_1",
+                "Case3_2",
+                "Case3_3",
+                "Case3_4",
+                "Case3_5"
+            ],
+            "PerformanceMaterialityAmount": "45000000",
+            "PopulationSize": "990163.59",
+            "SampleDescription": "NA",
+            "SampleSize": "1",
+            "TestConclusionText": "  Based on the testing performed, Performance Advertising Expenses appear appropriately stated at 12/31/17.",
+            "TestProcedureText": " In accordance with the Opex ROMM at A/1825D, D&T subjected the population of unpaid vendor invoices (i.e., outstanding A/P) as of January 31, 2018 to a sample size calculation in accordance with PCAOB AAM Figure 23002-4.1 to determine if those invoices were properly included in or excluded from OPEX at 12/31/17. D&T judgmentally selected an invoice related to Advertising Expense as our procedures are specifically over Performance Advertising Expenses within Operating Expenses. See {f} for sampling method considerations. \n\n",
+            "TestPurposeText": "NA",
+            "TestID": "p4 Unpaid Invoice Test (YE)"
+        },
+        {
+            "_key": "i_64_PerformedTODProcedure",
+            "name": "i_PerformedTODProcedure",
+            "type": "Instance",
+            "visualization_level": "2",
+            "oKey": [
+                "Case3_0",
+                "Case3_1",
+                "Case3_2",
+                "Case3_3",
+                "Case3_4",
+                "Case3_5"
+            ],
+            "DataRecord": {
+                "0": {
+                    "Supplier": "Google ",
+                    "Invoice#": "3405676574",
+                    "InvoiceDate": "2017-12-31 00:00:00",
+                    "OpExCorrectPeriod": "2017-12-01 00:00:00",
+                    "InvoiceAmount": "188171.01",
+                    "TMText": "{k}"
+                }
+            },
+            "TestID": "p4 Unpaid Invoice Test (YE)"
+        },
+        {
+            "_key": "i_65_TestOfDetails",
+            "name": "i_TestOfDetails",
+            "type": "Instance",
+            "visualization_level": "2",
+            "oKey": [
+                "Case3_0",
+                "Case3_1",
+                "Case3_2",
+                "Case3_3",
+                "Case3_4",
+                "Case3_5"
+            ],
+            "TestID": "p5 Detail Test (YE)"
+        },
+        {
+            "_key": "i_66_PlannedTODProcedure",
+            "name": "i_PlannedTODProcedure",
+            "type": "Instance",
+            "visualization_level": "2",
+            "oKey": [
+                "Case3_0",
+                "Case3_1",
+                "Case3_2",
+                "Case3_3",
+                "Case3_4",
+                "Case3_5"
+            ],
+            "PerformanceMaterialityAmount": "45000000",
+            "PopulationSize": "12956582.219999999",
+            "SampleDescription": "NA",
+            "SampleSize": "2",
+            "TestConclusionText": "  Based upon the testing performed herein, Performance Advertising Expenses appear appropriately stated at 12/31/17.",
+            "TestProcedureText": "  D&T subjected the Q4 QTD population of Performance Advertising expenses (see Lead) to a sample size calculation in accordance with PCAOB AAM Figure 23002-4.1, using the Random Sampling function in excel.  D&T obtained the performance advertising expenses G/L detail for the account selected from Courtney Gudenkauf, Staff Accountant, noting agreement to the G/L balance w/o/e.  From this detail, D&T utilized the Random Sampling function in excel to make the appropriate amount of selections pertaining to performance advertising expenses, and obtained a copy of invoice and bank wire from Courtney, determining whether the expense was appropriate and invoice has been properly classified and included in the 12/31/17 QTD Performance Advertising expenses. See {u} for approach, sampling unit, and sampling method considerations. \n\n",
+            "TestPurposeText": "  To test Performance Advertising Expenses at 12/31/17.\n\n",
+            "TestID": "p5 Detail Test (YE)"
+        },
+        {
+            "_key": "i_67_PerformedTODProcedure",
+            "name": "i_PerformedTODProcedure",
+            "type": "Instance",
+            "visualization_level": "2",
+            "oKey": [
+                "Case3_0",
+                "Case3_1",
+                "Case3_2",
+                "Case3_3",
+                "Case3_4",
+                "Case3_5"
+            ],
+            "DataRecord": {
+                "0": {
+                    "GLAccountNo": "60007",
+                    "GLDescription": "Shop PPC - Intent Media",
+                    "Amount": "158770.06",
+                    "Invoice#": "55564",
+                    "InvoiceDate": "2017-10-31 00:00:00",
+                    "InvoiceAmount": "158770.06",
+                    "OpExAppropriatelyClassified": "Yes"
+                }
+            },
+            "TestID": "p5 Detail Test (YE)"
+        },
+        {
+            "_key": "i_68_OperatingExpenseROMM",
+            "name": "i_OperatingExpenseROMM",
+            "type": "Instance",
+            "visualization_level": "2",
+            "oKey": "Case3_1",
+            "RiskLevel": "Higher"
+        },
+        {
+            "_key": "i_69_AccountName",
+            "name": "i_AdvertisingAndPromotionalExpense",
+            "type": "Instance",
+            "visualization_level": "3",
+            "oKey": "Case3_1"
+        },
+        {
+            "_key": "i_70_Assertion",
+            "name": "i_Occurrence",
+            "type": "Instance",
+            "visualization_level": "3",
+            "oKey": "Case3_1",
+            "RiskDescription": "Amounts recorded to operating expenses do not relate to goods or services received."
+        },
+        {
+            "_key": "i_71_OperatingExpenseROMM",
+            "name": "i_OperatingExpenseROMM",
+            "type": "Instance",
+            "visualization_level": "2",
+            "oKey": "Case3_2",
+            "RiskLevel": "Higher"
+        },
+        {
+            "_key": "i_72_AccountName",
+            "name": "i_AdvertisingAndPromotionalExpense",
+            "type": "Instance",
+            "visualization_level": "3",
+            "oKey": "Case3_2"
+        },
+        {
+            "_key": "i_73_Assertion",
+            "name": "i_Completeness",
+            "type": "Instance",
+            "visualization_level": "3",
+            "oKey": "Case3_2",
+            "RiskDescription": "Goods or services rendered to the entity or for which the entity is liable for are not recorded."
+        },
+        {
+            "_key": "i_74_OperatingExpenseROMM",
+            "name": "i_OperatingExpenseROMM",
+            "type": "Instance",
+            "visualization_level": "2",
+            "oKey": "Case3_3",
+            "RiskLevel": "Higher"
+        },
+        {
+            "_key": "i_75_AccountName",
+            "name": "i_AdvertisingAndPromotionalExpense",
+            "type": "Instance",
+            "visualization_level": "3",
+            "oKey": "Case3_3"
+        },
+        {
+            "_key": "i_76_Assertion",
+            "name": "i_Occurrence",
+            "type": "Instance",
+            "visualization_level": "3",
+            "oKey": "Case3_3",
+            "RiskDescription": "Operating expenses are:\n\u00e2\u20ac\u00a2 Recorded for transactions that did not occur\n\u00e2\u20ac\u00a2 Not recorded for transactions that did occur\n\u00e2\u20ac\u00a2 Recorded at incorrect amounts."
+        },
+        {
+            "_key": "i_77_Assertion",
+            "name": "i_Accuracy",
+            "type": "Instance",
+            "visualization_level": "3",
+            "oKey": "Case3_3",
+            "RiskDescription": "Operating expenses are:\n\u00e2\u20ac\u00a2 Recorded for transactions that did not occur\n\u00e2\u20ac\u00a2 Not recorded for transactions that did occur\n\u00e2\u20ac\u00a2 Recorded at incorrect amounts."
+        },
+        {
+            "_key": "i_78_Assertion",
+            "name": "i_Completeness",
+            "type": "Instance",
+            "visualization_level": "3",
+            "oKey": "Case3_3",
+            "RiskDescription": "Operating expenses are:\n\u00e2\u20ac\u00a2 Recorded for transactions that did not occur\n\u00e2\u20ac\u00a2 Not recorded for transactions that did occur\n\u00e2\u20ac\u00a2 Recorded at incorrect amounts."
+        },
+        {
+            "_key": "i_79_OperatingExpenseROMM",
+            "name": "i_OperatingExpenseROMM",
+            "type": "Instance",
+            "visualization_level": "2",
+            "oKey": "Case3_4",
+            "RiskLevel": "Higher"
+        },
+        {
+            "_key": "i_80_AccountName",
+            "name": "i_AdvertisingAndPromotionalExpense",
+            "type": "Instance",
+            "visualization_level": "3",
+            "oKey": "Case3_4"
+        },
+        {
+            "_key": "i_81_Assertion",
+            "name": "i_Cutoff",
+            "type": "Instance",
+            "visualization_level": "3",
+            "oKey": "Case3_4",
+            "RiskDescription": "Operating expenses are recorded in the incorrect accounting period. "
+        },
+        {
+            "_key": "i_82_OperatingExpenseROMM",
+            "name": "i_OperatingExpenseROMM",
+            "type": "Instance",
+            "visualization_level": "2",
+            "oKey": "Case3_5",
+            "RiskLevel": "Higher"
+        },
+        {
+            "_key": "i_83_AccountName",
+            "name": "i_AdvertisingAndPromotionalExpense",
+            "type": "Instance",
+            "visualization_level": "3",
+            "oKey": "Case3_5"
+        },
+        {
+            "_key": "i_84_Assertion",
+            "name": "i_Classification",
+            "type": "Instance",
+            "visualization_level": "3",
+            "oKey": "Case3_5",
+            "RiskDescription": "Operating expenses are recorded in the incorrect general ledger account."
         }
     ],
     "edges": [
@@ -1748,6 +2861,806 @@
             "target": 86
         },
         {
+            "_key": "kgcon32",
+            "_from": "i_23_Client",
+            "_to": "i_24_OperatingExpenseROMM",
+            "type": "hasROMM",
+            "source": 88,
+            "target": 89
+        },
+        {
+            "_key": "kgcon33",
+            "_from": "i_23_Client",
+            "_to": "i_40_OperatingExpenseROMM",
+            "type": "hasROMM",
+            "source": 88,
+            "target": 105
+        },
+        {
+            "_key": "kgcon34",
+            "_from": "i_23_Client",
+            "_to": "i_43_OperatingExpenseROMM",
+            "type": "hasROMM",
+            "source": 88,
+            "target": 108
+        },
+        {
+            "_key": "kgcon35",
+            "_from": "i_23_Client",
+            "_to": "i_46_OperatingExpenseROMM",
+            "type": "hasROMM",
+            "source": 88,
+            "target": 111
+        },
+        {
+            "_key": "kgcon36",
+            "_from": "i_23_Client",
+            "_to": "i_49_OperatingExpenseROMM",
+            "type": "hasROMM",
+            "source": 88,
+            "target": 114
+        },
+        {
+            "_key": "kgcon37",
+            "_from": "i_24_OperatingExpenseROMM",
+            "_to": "i_26_Assertion",
+            "type": "alwaysContains",
+            "source": 89,
+            "target": 91
+        },
+        {
+            "_key": "kgcon38",
+            "_from": "i_24_OperatingExpenseROMM",
+            "_to": "i_25_AccountName",
+            "type": "areForAccount",
+            "source": 89,
+            "target": 90
+        },
+        {
+            "_key": "kgcon39",
+            "_from": "i_26_Assertion",
+            "_to": "i_27_TestOfDetails",
+            "type": "isEvaluatedBy",
+            "source": 91,
+            "target": 92
+        },
+        {
+            "_key": "kgcon40",
+            "_from": "i_26_Assertion",
+            "_to": "i_36_TestOfDetails",
+            "type": "isEvaluatedBy",
+            "source": 91,
+            "target": 101
+        },
+        {
+            "_key": "kgcon41",
+            "_from": "i_26_Assertion",
+            "_to": "i_38_TestOfDetails",
+            "type": "isEvaluatedBy",
+            "source": 91,
+            "target": 103
+        },
+        {
+            "_key": "kgcon42",
+            "_from": "i_42_Assertion",
+            "_to": "i_27_TestOfDetails",
+            "type": "isEvaluatedBy",
+            "source": 107,
+            "target": 92
+        },
+        {
+            "_key": "kgcon43",
+            "_from": "i_48_Assertion",
+            "_to": "i_27_TestOfDetails",
+            "type": "isEvaluatedBy",
+            "source": 113,
+            "target": 92
+        },
+        {
+            "_key": "kgcon44",
+            "_from": "i_45_Assertion",
+            "_to": "i_27_TestOfDetails",
+            "type": "isEvaluatedBy",
+            "source": 110,
+            "target": 92
+        },
+        {
+            "_key": "kgcon45",
+            "_from": "i_51_Assertion",
+            "_to": "i_27_TestOfDetails",
+            "type": "isEvaluatedBy",
+            "source": 116,
+            "target": 92
+        },
+        {
+            "_key": "kgcon46",
+            "_from": "i_36_TestOfDetails",
+            "_to": "i_28_PlannedTODProcedure",
+            "type": "consistsOf",
+            "source": 101,
+            "target": 93
+        },
+        {
+            "_key": "kgcon47",
+            "_from": "i_36_TestOfDetails",
+            "_to": "i_29_PlannedTODProcedure",
+            "type": "consistsOf",
+            "source": 101,
+            "target": 94
+        },
+        {
+            "_key": "kgcon48",
+            "_from": "i_36_TestOfDetails",
+            "_to": "i_30_PlannedTODProcedure",
+            "type": "consistsOf",
+            "source": 101,
+            "target": 95
+        },
+        {
+            "_key": "kgcon49",
+            "_from": "i_36_TestOfDetails",
+            "_to": "i_31_PlannedTODProcedure",
+            "type": "consistsOf",
+            "source": 101,
+            "target": 96
+        },
+        {
+            "_key": "kgcon50",
+            "_from": "i_36_TestOfDetails",
+            "_to": "i_32_PlannedTODProcedure",
+            "type": "consistsOf",
+            "source": 101,
+            "target": 97
+        },
+        {
+            "_key": "kgcon51",
+            "_from": "i_36_TestOfDetails",
+            "_to": "i_33_PlannedTODProcedure",
+            "type": "consistsOf",
+            "source": 101,
+            "target": 98
+        },
+        {
+            "_key": "kgcon52",
+            "_from": "i_36_TestOfDetails",
+            "_to": "i_34_PlannedTODProcedure",
+            "type": "consistsOf",
+            "source": 101,
+            "target": 99
+        },
+        {
+            "_key": "kgcon53",
+            "_from": "i_38_TestOfDetails",
+            "_to": "i_35_PlannedTODProcedure",
+            "type": "consistsOf",
+            "source": 103,
+            "target": 100
+        },
+        {
+            "_key": "kgcon54",
+            "_from": "i_36_TestOfDetails",
+            "_to": "i_37_PerformedTODProcedure",
+            "type": "consistsOf",
+            "source": 101,
+            "target": 102
+        },
+        {
+            "_key": "kgcon55",
+            "_from": "i_42_Assertion",
+            "_to": "i_36_TestOfDetails",
+            "type": "isEvaluatedBy",
+            "source": 107,
+            "target": 101
+        },
+        {
+            "_key": "kgcon56",
+            "_from": "i_48_Assertion",
+            "_to": "i_36_TestOfDetails",
+            "type": "isEvaluatedBy",
+            "source": 113,
+            "target": 101
+        },
+        {
+            "_key": "kgcon57",
+            "_from": "i_45_Assertion",
+            "_to": "i_36_TestOfDetails",
+            "type": "isEvaluatedBy",
+            "source": 110,
+            "target": 101
+        },
+        {
+            "_key": "kgcon58",
+            "_from": "i_51_Assertion",
+            "_to": "i_36_TestOfDetails",
+            "type": "isEvaluatedBy",
+            "source": 116,
+            "target": 101
+        },
+        {
+            "_key": "kgcon59",
+            "_from": "i_38_TestOfDetails",
+            "_to": "i_39_PerformedTODProcedure",
+            "type": "consistsOf",
+            "source": 103,
+            "target": 104
+        },
+        {
+            "_key": "kgcon60",
+            "_from": "i_42_Assertion",
+            "_to": "i_38_TestOfDetails",
+            "type": "isEvaluatedBy",
+            "source": 107,
+            "target": 103
+        },
+        {
+            "_key": "kgcon61",
+            "_from": "i_48_Assertion",
+            "_to": "i_38_TestOfDetails",
+            "type": "isEvaluatedBy",
+            "source": 113,
+            "target": 103
+        },
+        {
+            "_key": "kgcon62",
+            "_from": "i_45_Assertion",
+            "_to": "i_38_TestOfDetails",
+            "type": "isEvaluatedBy",
+            "source": 110,
+            "target": 103
+        },
+        {
+            "_key": "kgcon63",
+            "_from": "i_51_Assertion",
+            "_to": "i_38_TestOfDetails",
+            "type": "isEvaluatedBy",
+            "source": 116,
+            "target": 103
+        },
+        {
+            "_key": "kgcon64",
+            "_from": "i_40_OperatingExpenseROMM",
+            "_to": "i_42_Assertion",
+            "type": "alwaysContains",
+            "source": 105,
+            "target": 107
+        },
+        {
+            "_key": "kgcon65",
+            "_from": "i_40_OperatingExpenseROMM",
+            "_to": "i_41_AccountName",
+            "type": "areForAccount",
+            "source": 105,
+            "target": 106
+        },
+        {
+            "_key": "kgcon66",
+            "_from": "i_43_OperatingExpenseROMM",
+            "_to": "i_45_Assertion",
+            "type": "alwaysContains",
+            "source": 108,
+            "target": 110
+        },
+        {
+            "_key": "kgcon67",
+            "_from": "i_43_OperatingExpenseROMM",
+            "_to": "i_44_AccountName",
+            "type": "areForAccount",
+            "source": 108,
+            "target": 109
+        },
+        {
+            "_key": "kgcon68",
+            "_from": "i_46_OperatingExpenseROMM",
+            "_to": "i_48_Assertion",
+            "type": "alwaysContains",
+            "source": 111,
+            "target": 113
+        },
+        {
+            "_key": "kgcon69",
+            "_from": "i_46_OperatingExpenseROMM",
+            "_to": "i_47_AccountName",
+            "type": "areForAccount",
+            "source": 111,
+            "target": 112
+        },
+        {
+            "_key": "kgcon70",
+            "_from": "i_49_OperatingExpenseROMM",
+            "_to": "i_51_Assertion",
+            "type": "alwaysContains",
+            "source": 114,
+            "target": 116
+        },
+        {
+            "_key": "kgcon71",
+            "_from": "i_49_OperatingExpenseROMM",
+            "_to": "i_50_AccountName",
+            "type": "areForAccount",
+            "source": 114,
+            "target": 115
+        },
+        {
+            "_key": "kgcon72",
+            "_from": "i_52_Client",
+            "_to": "i_53_OperatingExpenseROMM",
+            "type": "hasROMM",
+            "source": 117,
+            "target": 118
+        },
+        {
+            "_key": "kgcon73",
+            "_from": "i_52_Client",
+            "_to": "i_68_OperatingExpenseROMM",
+            "type": "hasROMM",
+            "source": 117,
+            "target": 133
+        },
+        {
+            "_key": "kgcon74",
+            "_from": "i_52_Client",
+            "_to": "i_71_OperatingExpenseROMM",
+            "type": "hasROMM",
+            "source": 117,
+            "target": 136
+        },
+        {
+            "_key": "kgcon75",
+            "_from": "i_52_Client",
+            "_to": "i_74_OperatingExpenseROMM",
+            "type": "hasROMM",
+            "source": 117,
+            "target": 139
+        },
+        {
+            "_key": "kgcon76",
+            "_from": "i_52_Client",
+            "_to": "i_79_OperatingExpenseROMM",
+            "type": "hasROMM",
+            "source": 117,
+            "target": 144
+        },
+        {
+            "_key": "kgcon77",
+            "_from": "i_52_Client",
+            "_to": "i_82_OperatingExpenseROMM",
+            "type": "hasROMM",
+            "source": 117,
+            "target": 147
+        },
+        {
+            "_key": "kgcon78",
+            "_from": "i_53_OperatingExpenseROMM",
+            "_to": "i_55_Assertion",
+            "type": "alwaysContains",
+            "source": 118,
+            "target": 120
+        },
+        {
+            "_key": "kgcon79",
+            "_from": "i_53_OperatingExpenseROMM",
+            "_to": "i_54_AccountName",
+            "type": "areForAccount",
+            "source": 118,
+            "target": 119
+        },
+        {
+            "_key": "kgcon80",
+            "_from": "i_55_Assertion",
+            "_to": "i_56_TestOfDetails",
+            "type": "isEvaluatedBy",
+            "source": 120,
+            "target": 121
+        },
+        {
+            "_key": "kgcon81",
+            "_from": "i_55_Assertion",
+            "_to": "i_59_TestOfDetails",
+            "type": "isEvaluatedBy",
+            "source": 120,
+            "target": 124
+        },
+        {
+            "_key": "kgcon82",
+            "_from": "i_55_Assertion",
+            "_to": "i_62_TestOfDetails",
+            "type": "isEvaluatedBy",
+            "source": 120,
+            "target": 127
+        },
+        {
+            "_key": "kgcon83",
+            "_from": "i_55_Assertion",
+            "_to": "i_65_TestOfDetails",
+            "type": "isEvaluatedBy",
+            "source": 120,
+            "target": 130
+        },
+        {
+            "_key": "kgcon84",
+            "_from": "i_56_TestOfDetails",
+            "_to": "i_58_PerformedTODProcedure",
+            "type": "consistsOf",
+            "source": 121,
+            "target": 123
+        },
+        {
+            "_key": "kgcon85",
+            "_from": "i_56_TestOfDetails",
+            "_to": "i_57_PlannedTODProcedure",
+            "type": "consistsOf",
+            "source": 121,
+            "target": 122
+        },
+        {
+            "_key": "kgcon86",
+            "_from": "i_70_Assertion",
+            "_to": "i_56_TestOfDetails",
+            "type": "isEvaluatedBy",
+            "source": 135,
+            "target": 121
+        },
+        {
+            "_key": "kgcon87",
+            "_from": "i_76_Assertion",
+            "_to": "i_56_TestOfDetails",
+            "type": "isEvaluatedBy",
+            "source": 141,
+            "target": 121
+        },
+        {
+            "_key": "kgcon88",
+            "_from": "i_81_Assertion",
+            "_to": "i_56_TestOfDetails",
+            "type": "isEvaluatedBy",
+            "source": 146,
+            "target": 121
+        },
+        {
+            "_key": "kgcon89",
+            "_from": "i_77_Assertion",
+            "_to": "i_56_TestOfDetails",
+            "type": "isEvaluatedBy",
+            "source": 142,
+            "target": 121
+        },
+        {
+            "_key": "kgcon90",
+            "_from": "i_73_Assertion",
+            "_to": "i_56_TestOfDetails",
+            "type": "isEvaluatedBy",
+            "source": 138,
+            "target": 121
+        },
+        {
+            "_key": "kgcon91",
+            "_from": "i_78_Assertion",
+            "_to": "i_56_TestOfDetails",
+            "type": "isEvaluatedBy",
+            "source": 143,
+            "target": 121
+        },
+        {
+            "_key": "kgcon92",
+            "_from": "i_84_Assertion",
+            "_to": "i_56_TestOfDetails",
+            "type": "isEvaluatedBy",
+            "source": 149,
+            "target": 121
+        },
+        {
+            "_key": "kgcon93",
+            "_from": "i_59_TestOfDetails",
+            "_to": "i_61_PerformedTODProcedure",
+            "type": "consistsOf",
+            "source": 124,
+            "target": 126
+        },
+        {
+            "_key": "kgcon94",
+            "_from": "i_59_TestOfDetails",
+            "_to": "i_60_PlannedTODProcedure",
+            "type": "consistsOf",
+            "source": 124,
+            "target": 125
+        },
+        {
+            "_key": "kgcon95",
+            "_from": "i_70_Assertion",
+            "_to": "i_59_TestOfDetails",
+            "type": "isEvaluatedBy",
+            "source": 135,
+            "target": 124
+        },
+        {
+            "_key": "kgcon96",
+            "_from": "i_76_Assertion",
+            "_to": "i_59_TestOfDetails",
+            "type": "isEvaluatedBy",
+            "source": 141,
+            "target": 124
+        },
+        {
+            "_key": "kgcon97",
+            "_from": "i_81_Assertion",
+            "_to": "i_59_TestOfDetails",
+            "type": "isEvaluatedBy",
+            "source": 146,
+            "target": 124
+        },
+        {
+            "_key": "kgcon98",
+            "_from": "i_77_Assertion",
+            "_to": "i_59_TestOfDetails",
+            "type": "isEvaluatedBy",
+            "source": 142,
+            "target": 124
+        },
+        {
+            "_key": "kgcon99",
+            "_from": "i_73_Assertion",
+            "_to": "i_59_TestOfDetails",
+            "type": "isEvaluatedBy",
+            "source": 138,
+            "target": 124
+        },
+        {
+            "_key": "kgcon100",
+            "_from": "i_78_Assertion",
+            "_to": "i_59_TestOfDetails",
+            "type": "isEvaluatedBy",
+            "source": 143,
+            "target": 124
+        },
+        {
+            "_key": "kgcon101",
+            "_from": "i_84_Assertion",
+            "_to": "i_59_TestOfDetails",
+            "type": "isEvaluatedBy",
+            "source": 149,
+            "target": 124
+        },
+        {
+            "_key": "kgcon102",
+            "_from": "i_62_TestOfDetails",
+            "_to": "i_64_PerformedTODProcedure",
+            "type": "consistsOf",
+            "source": 127,
+            "target": 129
+        },
+        {
+            "_key": "kgcon103",
+            "_from": "i_62_TestOfDetails",
+            "_to": "i_63_PlannedTODProcedure",
+            "type": "consistsOf",
+            "source": 127,
+            "target": 128
+        },
+        {
+            "_key": "kgcon104",
+            "_from": "i_70_Assertion",
+            "_to": "i_62_TestOfDetails",
+            "type": "isEvaluatedBy",
+            "source": 135,
+            "target": 127
+        },
+        {
+            "_key": "kgcon105",
+            "_from": "i_76_Assertion",
+            "_to": "i_62_TestOfDetails",
+            "type": "isEvaluatedBy",
+            "source": 141,
+            "target": 127
+        },
+        {
+            "_key": "kgcon106",
+            "_from": "i_81_Assertion",
+            "_to": "i_62_TestOfDetails",
+            "type": "isEvaluatedBy",
+            "source": 146,
+            "target": 127
+        },
+        {
+            "_key": "kgcon107",
+            "_from": "i_77_Assertion",
+            "_to": "i_62_TestOfDetails",
+            "type": "isEvaluatedBy",
+            "source": 142,
+            "target": 127
+        },
+        {
+            "_key": "kgcon108",
+            "_from": "i_73_Assertion",
+            "_to": "i_62_TestOfDetails",
+            "type": "isEvaluatedBy",
+            "source": 138,
+            "target": 127
+        },
+        {
+            "_key": "kgcon109",
+            "_from": "i_78_Assertion",
+            "_to": "i_62_TestOfDetails",
+            "type": "isEvaluatedBy",
+            "source": 143,
+            "target": 127
+        },
+        {
+            "_key": "kgcon110",
+            "_from": "i_84_Assertion",
+            "_to": "i_62_TestOfDetails",
+            "type": "isEvaluatedBy",
+            "source": 149,
+            "target": 127
+        },
+        {
+            "_key": "kgcon111",
+            "_from": "i_65_TestOfDetails",
+            "_to": "i_67_PerformedTODProcedure",
+            "type": "consistsOf",
+            "source": 130,
+            "target": 132
+        },
+        {
+            "_key": "kgcon112",
+            "_from": "i_65_TestOfDetails",
+            "_to": "i_66_PlannedTODProcedure",
+            "type": "consistsOf",
+            "source": 130,
+            "target": 131
+        },
+        {
+            "_key": "kgcon113",
+            "_from": "i_70_Assertion",
+            "_to": "i_65_TestOfDetails",
+            "type": "isEvaluatedBy",
+            "source": 135,
+            "target": 130
+        },
+        {
+            "_key": "kgcon114",
+            "_from": "i_76_Assertion",
+            "_to": "i_65_TestOfDetails",
+            "type": "isEvaluatedBy",
+            "source": 141,
+            "target": 130
+        },
+        {
+            "_key": "kgcon115",
+            "_from": "i_81_Assertion",
+            "_to": "i_65_TestOfDetails",
+            "type": "isEvaluatedBy",
+            "source": 146,
+            "target": 130
+        },
+        {
+            "_key": "kgcon116",
+            "_from": "i_77_Assertion",
+            "_to": "i_65_TestOfDetails",
+            "type": "isEvaluatedBy",
+            "source": 142,
+            "target": 130
+        },
+        {
+            "_key": "kgcon117",
+            "_from": "i_73_Assertion",
+            "_to": "i_65_TestOfDetails",
+            "type": "isEvaluatedBy",
+            "source": 138,
+            "target": 130
+        },
+        {
+            "_key": "kgcon118",
+            "_from": "i_78_Assertion",
+            "_to": "i_65_TestOfDetails",
+            "type": "isEvaluatedBy",
+            "source": 143,
+            "target": 130
+        },
+        {
+            "_key": "kgcon119",
+            "_from": "i_84_Assertion",
+            "_to": "i_65_TestOfDetails",
+            "type": "isEvaluatedBy",
+            "source": 149,
+            "target": 130
+        },
+        {
+            "_key": "kgcon120",
+            "_from": "i_68_OperatingExpenseROMM",
+            "_to": "i_70_Assertion",
+            "type": "alwaysContains",
+            "source": 133,
+            "target": 135
+        },
+        {
+            "_key": "kgcon121",
+            "_from": "i_68_OperatingExpenseROMM",
+            "_to": "i_69_AccountName",
+            "type": "areForAccount",
+            "source": 133,
+            "target": 134
+        },
+        {
+            "_key": "kgcon122",
+            "_from": "i_71_OperatingExpenseROMM",
+            "_to": "i_73_Assertion",
+            "type": "alwaysContains",
+            "source": 136,
+            "target": 138
+        },
+        {
+            "_key": "kgcon123",
+            "_from": "i_71_OperatingExpenseROMM",
+            "_to": "i_72_AccountName",
+            "type": "areForAccount",
+            "source": 136,
+            "target": 137
+        },
+        {
+            "_key": "kgcon124",
+            "_from": "i_74_OperatingExpenseROMM",
+            "_to": "i_76_Assertion",
+            "type": "alwaysContains",
+            "source": 139,
+            "target": 141
+        },
+        {
+            "_key": "kgcon125",
+            "_from": "i_74_OperatingExpenseROMM",
+            "_to": "i_77_Assertion",
+            "type": "alwaysContains",
+            "source": 139,
+            "target": 142
+        },
+        {
+            "_key": "kgcon126",
+            "_from": "i_74_OperatingExpenseROMM",
+            "_to": "i_78_Assertion",
+            "type": "alwaysContains",
+            "source": 139,
+            "target": 143
+        },
+        {
+            "_key": "kgcon127",
+            "_from": "i_74_OperatingExpenseROMM",
+            "_to": "i_75_AccountName",
+            "type": "areForAccount",
+            "source": 139,
+            "target": 140
+        },
+        {
+            "_key": "kgcon128",
+            "_from": "i_79_OperatingExpenseROMM",
+            "_to": "i_81_Assertion",
+            "type": "alwaysContains",
+            "source": 144,
+            "target": 146
+        },
+        {
+            "_key": "kgcon129",
+            "_from": "i_79_OperatingExpenseROMM",
+            "_to": "i_80_AccountName",
+            "type": "areForAccount",
+            "source": 144,
+            "target": 145
+        },
+        {
+            "_key": "kgcon130",
+            "_from": "i_82_OperatingExpenseROMM",
+            "_to": "i_84_Assertion",
+            "type": "alwaysContains",
+            "source": 147,
+            "target": 149
+        },
+        {
+            "_key": "kgcon131",
+            "_from": "i_82_OperatingExpenseROMM",
+            "_to": "i_83_AccountName",
+            "type": "areForAccount",
+            "source": 147,
+            "target": 148
+        },
+        {
             "_key": "ind0",
             "_from": "Client",
             "_to": "i_0_Client",
@@ -1930,6 +3843,502 @@
             "type": "hasInstance",
             "source": 19,
             "target": 87
+        },
+        {
+            "_key": "ind23",
+            "_from": "Client",
+            "_to": "i_23_Client",
+            "type": "hasInstance",
+            "source": 21,
+            "target": 88
+        },
+        {
+            "_key": "ind24",
+            "_from": "OperatingExpenseROMM",
+            "_to": "i_24_OperatingExpenseROMM",
+            "type": "hasInstance",
+            "source": 45,
+            "target": 89
+        },
+        {
+            "_key": "ind25",
+            "_from": "AdvertisingAndPromotionalExpense",
+            "_to": "i_25_AccountName",
+            "type": "hasInstance",
+            "source": 12,
+            "target": 90
+        },
+        {
+            "_key": "ind26",
+            "_from": "Completeness",
+            "_to": "i_26_Assertion",
+            "type": "hasInstance",
+            "source": 22,
+            "target": 91
+        },
+        {
+            "_key": "ind27",
+            "_from": "TestOfDetails",
+            "_to": "i_27_TestOfDetails",
+            "type": "hasInstance",
+            "source": 60,
+            "target": 92
+        },
+        {
+            "_key": "ind28",
+            "_from": "PlannedTODProcedure",
+            "_to": "i_28_PlannedTODProcedure",
+            "type": "hasInstance",
+            "source": 48,
+            "target": 93
+        },
+        {
+            "_key": "ind29",
+            "_from": "PlannedTODProcedure",
+            "_to": "i_29_PlannedTODProcedure",
+            "type": "hasInstance",
+            "source": 48,
+            "target": 94
+        },
+        {
+            "_key": "ind30",
+            "_from": "PlannedTODProcedure",
+            "_to": "i_30_PlannedTODProcedure",
+            "type": "hasInstance",
+            "source": 48,
+            "target": 95
+        },
+        {
+            "_key": "ind31",
+            "_from": "PlannedTODProcedure",
+            "_to": "i_31_PlannedTODProcedure",
+            "type": "hasInstance",
+            "source": 48,
+            "target": 96
+        },
+        {
+            "_key": "ind32",
+            "_from": "PlannedTODProcedure",
+            "_to": "i_32_PlannedTODProcedure",
+            "type": "hasInstance",
+            "source": 48,
+            "target": 97
+        },
+        {
+            "_key": "ind33",
+            "_from": "PlannedTODProcedure",
+            "_to": "i_33_PlannedTODProcedure",
+            "type": "hasInstance",
+            "source": 48,
+            "target": 98
+        },
+        {
+            "_key": "ind34",
+            "_from": "PlannedTODProcedure",
+            "_to": "i_34_PlannedTODProcedure",
+            "type": "hasInstance",
+            "source": 48,
+            "target": 99
+        },
+        {
+            "_key": "ind35",
+            "_from": "PlannedTODProcedure",
+            "_to": "i_35_PlannedTODProcedure",
+            "type": "hasInstance",
+            "source": 48,
+            "target": 100
+        },
+        {
+            "_key": "ind36",
+            "_from": "TestOfDetails",
+            "_to": "i_36_TestOfDetails",
+            "type": "hasInstance",
+            "source": 60,
+            "target": 101
+        },
+        {
+            "_key": "ind37",
+            "_from": "PerformedTODProcedure",
+            "_to": "i_37_PerformedTODProcedure",
+            "type": "hasInstance",
+            "source": 28,
+            "target": 102
+        },
+        {
+            "_key": "ind38",
+            "_from": "TestOfDetails",
+            "_to": "i_38_TestOfDetails",
+            "type": "hasInstance",
+            "source": 60,
+            "target": 103
+        },
+        {
+            "_key": "ind39",
+            "_from": "PerformedTODProcedure",
+            "_to": "i_39_PerformedTODProcedure",
+            "type": "hasInstance",
+            "source": 28,
+            "target": 104
+        },
+        {
+            "_key": "ind40",
+            "_from": "OperatingExpenseROMM",
+            "_to": "i_40_OperatingExpenseROMM",
+            "type": "hasInstance",
+            "source": 45,
+            "target": 105
+        },
+        {
+            "_key": "ind41",
+            "_from": "AdvertisingAndPromotionalExpense",
+            "_to": "i_41_AccountName",
+            "type": "hasInstance",
+            "source": 12,
+            "target": 106
+        },
+        {
+            "_key": "ind42",
+            "_from": "Occurrence",
+            "_to": "i_42_Assertion",
+            "type": "hasInstance",
+            "source": 44,
+            "target": 107
+        },
+        {
+            "_key": "ind43",
+            "_from": "OperatingExpenseROMM",
+            "_to": "i_43_OperatingExpenseROMM",
+            "type": "hasInstance",
+            "source": 45,
+            "target": 108
+        },
+        {
+            "_key": "ind44",
+            "_from": "AdvertisingAndPromotionalExpense",
+            "_to": "i_44_AccountName",
+            "type": "hasInstance",
+            "source": 12,
+            "target": 109
+        },
+        {
+            "_key": "ind45",
+            "_from": "Accuracy",
+            "_to": "i_45_Assertion",
+            "type": "hasInstance",
+            "source": 8,
+            "target": 110
+        },
+        {
+            "_key": "ind46",
+            "_from": "OperatingExpenseROMM",
+            "_to": "i_46_OperatingExpenseROMM",
+            "type": "hasInstance",
+            "source": 45,
+            "target": 111
+        },
+        {
+            "_key": "ind47",
+            "_from": "AdvertisingAndPromotionalExpense",
+            "_to": "i_47_AccountName",
+            "type": "hasInstance",
+            "source": 12,
+            "target": 112
+        },
+        {
+            "_key": "ind48",
+            "_from": "Cutoff",
+            "_to": "i_48_Assertion",
+            "type": "hasInstance",
+            "source": 27,
+            "target": 113
+        },
+        {
+            "_key": "ind49",
+            "_from": "OperatingExpenseROMM",
+            "_to": "i_49_OperatingExpenseROMM",
+            "type": "hasInstance",
+            "source": 45,
+            "target": 114
+        },
+        {
+            "_key": "ind50",
+            "_from": "AdvertisingAndPromotionalExpense",
+            "_to": "i_50_AccountName",
+            "type": "hasInstance",
+            "source": 12,
+            "target": 115
+        },
+        {
+            "_key": "ind51",
+            "_from": "Classification",
+            "_to": "i_51_Assertion",
+            "type": "hasInstance",
+            "source": 19,
+            "target": 116
+        },
+        {
+            "_key": "ind52",
+            "_from": "Client",
+            "_to": "i_52_Client",
+            "type": "hasInstance",
+            "source": 21,
+            "target": 117
+        },
+        {
+            "_key": "ind53",
+            "_from": "OperatingExpenseROMM",
+            "_to": "i_53_OperatingExpenseROMM",
+            "type": "hasInstance",
+            "source": 45,
+            "target": 118
+        },
+        {
+            "_key": "ind54",
+            "_from": "AdvertisingAndPromotionalExpense",
+            "_to": "i_54_AccountName",
+            "type": "hasInstance",
+            "source": 12,
+            "target": 119
+        },
+        {
+            "_key": "ind55",
+            "_from": "Occurrence",
+            "_to": "i_55_Assertion",
+            "type": "hasInstance",
+            "source": 44,
+            "target": 120
+        },
+        {
+            "_key": "ind56",
+            "_from": "TestOfDetails",
+            "_to": "i_56_TestOfDetails",
+            "type": "hasInstance",
+            "source": 60,
+            "target": 121
+        },
+        {
+            "_key": "ind57",
+            "_from": "PlannedTODProcedure",
+            "_to": "i_57_PlannedTODProcedure",
+            "type": "hasInstance",
+            "source": 48,
+            "target": 122
+        },
+        {
+            "_key": "ind58",
+            "_from": "PerformedTODProcedure",
+            "_to": "i_58_PerformedTODProcedure",
+            "type": "hasInstance",
+            "source": 28,
+            "target": 123
+        },
+        {
+            "_key": "ind59",
+            "_from": "TestOfDetails",
+            "_to": "i_59_TestOfDetails",
+            "type": "hasInstance",
+            "source": 60,
+            "target": 124
+        },
+        {
+            "_key": "ind60",
+            "_from": "PlannedTODProcedure",
+            "_to": "i_60_PlannedTODProcedure",
+            "type": "hasInstance",
+            "source": 48,
+            "target": 125
+        },
+        {
+            "_key": "ind61",
+            "_from": "PerformedTODProcedure",
+            "_to": "i_61_PerformedTODProcedure",
+            "type": "hasInstance",
+            "source": 28,
+            "target": 126
+        },
+        {
+            "_key": "ind62",
+            "_from": "TestOfDetails",
+            "_to": "i_62_TestOfDetails",
+            "type": "hasInstance",
+            "source": 60,
+            "target": 127
+        },
+        {
+            "_key": "ind63",
+            "_from": "PlannedTODProcedure",
+            "_to": "i_63_PlannedTODProcedure",
+            "type": "hasInstance",
+            "source": 48,
+            "target": 128
+        },
+        {
+            "_key": "ind64",
+            "_from": "PerformedTODProcedure",
+            "_to": "i_64_PerformedTODProcedure",
+            "type": "hasInstance",
+            "source": 28,
+            "target": 129
+        },
+        {
+            "_key": "ind65",
+            "_from": "TestOfDetails",
+            "_to": "i_65_TestOfDetails",
+            "type": "hasInstance",
+            "source": 60,
+            "target": 130
+        },
+        {
+            "_key": "ind66",
+            "_from": "PlannedTODProcedure",
+            "_to": "i_66_PlannedTODProcedure",
+            "type": "hasInstance",
+            "source": 48,
+            "target": 131
+        },
+        {
+            "_key": "ind67",
+            "_from": "PerformedTODProcedure",
+            "_to": "i_67_PerformedTODProcedure",
+            "type": "hasInstance",
+            "source": 28,
+            "target": 132
+        },
+        {
+            "_key": "ind68",
+            "_from": "OperatingExpenseROMM",
+            "_to": "i_68_OperatingExpenseROMM",
+            "type": "hasInstance",
+            "source": 45,
+            "target": 133
+        },
+        {
+            "_key": "ind69",
+            "_from": "AdvertisingAndPromotionalExpense",
+            "_to": "i_69_AccountName",
+            "type": "hasInstance",
+            "source": 12,
+            "target": 134
+        },
+        {
+            "_key": "ind70",
+            "_from": "Occurrence",
+            "_to": "i_70_Assertion",
+            "type": "hasInstance",
+            "source": 44,
+            "target": 135
+        },
+        {
+            "_key": "ind71",
+            "_from": "OperatingExpenseROMM",
+            "_to": "i_71_OperatingExpenseROMM",
+            "type": "hasInstance",
+            "source": 45,
+            "target": 136
+        },
+        {
+            "_key": "ind72",
+            "_from": "AdvertisingAndPromotionalExpense",
+            "_to": "i_72_AccountName",
+            "type": "hasInstance",
+            "source": 12,
+            "target": 137
+        },
+        {
+            "_key": "ind73",
+            "_from": "Completeness",
+            "_to": "i_73_Assertion",
+            "type": "hasInstance",
+            "source": 22,
+            "target": 138
+        },
+        {
+            "_key": "ind74",
+            "_from": "OperatingExpenseROMM",
+            "_to": "i_74_OperatingExpenseROMM",
+            "type": "hasInstance",
+            "source": 45,
+            "target": 139
+        },
+        {
+            "_key": "ind75",
+            "_from": "AdvertisingAndPromotionalExpense",
+            "_to": "i_75_AccountName",
+            "type": "hasInstance",
+            "source": 12,
+            "target": 140
+        },
+        {
+            "_key": "ind76",
+            "_from": "Occurrence",
+            "_to": "i_76_Assertion",
+            "type": "hasInstance",
+            "source": 44,
+            "target": 141
+        },
+        {
+            "_key": "ind77",
+            "_from": "Accuracy",
+            "_to": "i_77_Assertion",
+            "type": "hasInstance",
+            "source": 8,
+            "target": 142
+        },
+        {
+            "_key": "ind78",
+            "_from": "Completeness",
+            "_to": "i_78_Assertion",
+            "type": "hasInstance",
+            "source": 22,
+            "target": 143
+        },
+        {
+            "_key": "ind79",
+            "_from": "OperatingExpenseROMM",
+            "_to": "i_79_OperatingExpenseROMM",
+            "type": "hasInstance",
+            "source": 45,
+            "target": 144
+        },
+        {
+            "_key": "ind80",
+            "_from": "AdvertisingAndPromotionalExpense",
+            "_to": "i_80_AccountName",
+            "type": "hasInstance",
+            "source": 12,
+            "target": 145
+        },
+        {
+            "_key": "ind81",
+            "_from": "Cutoff",
+            "_to": "i_81_Assertion",
+            "type": "hasInstance",
+            "source": 27,
+            "target": 146
+        },
+        {
+            "_key": "ind82",
+            "_from": "OperatingExpenseROMM",
+            "_to": "i_82_OperatingExpenseROMM",
+            "type": "hasInstance",
+            "source": 45,
+            "target": 147
+        },
+        {
+            "_key": "ind83",
+            "_from": "AdvertisingAndPromotionalExpense",
+            "_to": "i_83_AccountName",
+            "type": "hasInstance",
+            "source": 12,
+            "target": 148
+        },
+        {
+            "_key": "ind84",
+            "_from": "Classification",
+            "_to": "i_84_Assertion",
+            "type": "hasInstance",
+            "source": 19,
+            "target": 149
         }
     ]
 }
