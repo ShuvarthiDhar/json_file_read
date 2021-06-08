@@ -1,0 +1,1935 @@
+{
+    "nodes": [
+        {
+            "name": "AccountBalancesAssertion",
+            "type": "Class",
+            "_key": "AccountBalancesAssertion",
+            "visualization_level": "2",
+            "RiskDescription": null
+        },
+        {
+            "_key": "Assertion",
+            "name": "Assertion",
+            "type": "Class",
+            "RiskDescription": null,
+            "visualization_level": "1"
+        },
+        {
+            "name": "AccountName",
+            "type": "Class",
+            "_key": "AccountName",
+            "visualization_level": "1"
+        },
+        {
+            "name": "AccountPayable",
+            "type": "Class",
+            "_key": "AccountPayable",
+            "visualization_level": "2"
+        },
+        {
+            "name": "AccountPayableROMM",
+            "type": "Class",
+            "_key": "AccountPayableROMM",
+            "visualization_level": "2",
+            "RiskLevel": null
+        },
+        {
+            "_key": "ROMM",
+            "name": "ROMM",
+            "type": "Class",
+            "RiskLevel": null,
+            "visualization_level": "1"
+        },
+        {
+            "name": "AccountReceivable",
+            "type": "Class",
+            "_key": "AccountReceivable",
+            "visualization_level": "2"
+        },
+        {
+            "name": "AccountReceivableROMM",
+            "type": "Class",
+            "_key": "AccountReceivableROMM",
+            "visualization_level": "2",
+            "RiskLevel": null
+        },
+        {
+            "name": "Accuracy",
+            "type": "Class",
+            "_key": "Accuracy",
+            "visualization_level": "3",
+            "RiskDescription": null
+        },
+        {
+            "_key": "TransactionClassAssertion",
+            "name": "TransactionClassAssertion",
+            "type": "Class",
+            "visualization_level": "2",
+            "RiskDescription": null
+        },
+        {
+            "name": "AccuracyAndValuation",
+            "type": "Class",
+            "_key": "AccuracyAndValuation",
+            "visualization_level": "3",
+            "RiskDescription": null
+        },
+        {
+            "_key": "PresentationDisclosureAssertion",
+            "name": "PresentationDisclosureAssertion",
+            "type": "Class",
+            "visualization_level": "2",
+            "RiskDescription": null
+        },
+        {
+            "name": "AdvertisingAndPromotionalExpense",
+            "type": "Class",
+            "_key": "AdvertisingAndPromotionalExpense",
+            "visualization_level": "3"
+        },
+        {
+            "_key": "OperatingExpense",
+            "name": "OperatingExpense",
+            "type": "Class",
+            "visualization_level": "2"
+        },
+        {
+            "name": "BankStatement",
+            "type": "Class",
+            "_key": "BankStatement",
+            "visualization_level": "2"
+        },
+        {
+            "_key": "DataSource",
+            "name": "DataSource",
+            "type": "Class",
+            "visualization_level": "1"
+        },
+        {
+            "name": "Cash",
+            "type": "Class",
+            "_key": "Cash",
+            "visualization_level": "2"
+        },
+        {
+            "name": "CashROMM",
+            "type": "Class",
+            "_key": "CashROMM",
+            "visualization_level": "2",
+            "RiskLevel": null
+        },
+        {
+            "name": "Check",
+            "type": "Class",
+            "_key": "Check",
+            "visualization_level": "2"
+        },
+        {
+            "name": "Classification",
+            "type": "Class",
+            "_key": "Classification",
+            "visualization_level": "3",
+            "RiskDescription": null
+        },
+        {
+            "name": "ClassificationAndUnderstandability",
+            "type": "Class",
+            "_key": "ClassificationAndUnderstandability",
+            "visualization_level": "3",
+            "RiskDescription": null
+        },
+        {
+            "name": "Client",
+            "type": "Class",
+            "_key": "Client",
+            "visualization_level": "1"
+        },
+        {
+            "name": "Completeness",
+            "type": "Class",
+            "_key": "Completeness",
+            "visualization_level": "3",
+            "RiskDescription": null
+        },
+        {
+            "name": "CompletenessDisclosure",
+            "type": "Class",
+            "_key": "CompletenessDisclosure",
+            "visualization_level": "3",
+            "RiskDescription": null
+        },
+        {
+            "name": "CompletenessOfAssestsLiabilitiesEquity",
+            "type": "Class",
+            "_key": "CompletenessOfAssestsLiabilitiesEquity",
+            "visualization_level": "3",
+            "RiskDescription": null
+        },
+        {
+            "name": "Contract",
+            "type": "Class",
+            "_key": "Contract",
+            "visualization_level": "2"
+        },
+        {
+            "name": "CustomerAgreement",
+            "type": "Class",
+            "_key": "CustomerAgreement",
+            "visualization_level": "2"
+        },
+        {
+            "name": "Cutoff",
+            "type": "Class",
+            "_key": "Cutoff",
+            "visualization_level": "3",
+            "RiskDescription": null
+        },
+        {
+            "_key": "PerformedTODProcedure",
+            "DataRecord": null,
+            "name": "PerformedTODProcedure",
+            "type": "Class",
+            "visualization_level": "2",
+            "TestID": null
+        },
+        {
+            "name": "DebtROMM",
+            "type": "Class",
+            "_key": "DebtROMM",
+            "visualization_level": "2",
+            "RiskLevel": null
+        },
+        {
+            "name": "Documentation",
+            "type": "Class",
+            "_key": "Documentation",
+            "visualization_level": "1"
+        },
+        {
+            "name": "DocumentationTemplate",
+            "type": "Class",
+            "_key": "DocumentationTemplate",
+            "visualization_level": "2"
+        },
+        {
+            "name": "Evidence",
+            "type": "Class",
+            "_key": "Evidence",
+            "EvidenceDescription": null,
+            "EvidenceID": null,
+            "visualization_level": "1"
+        },
+        {
+            "name": "Existence",
+            "type": "Class",
+            "_key": "Existence",
+            "visualization_level": "3",
+            "RiskDescription": null
+        },
+        {
+            "name": "FinancialStatement",
+            "type": "Class",
+            "_key": "FinancialStatement",
+            "visualization_level": "2"
+        },
+        {
+            "name": "FixedAssetRegister",
+            "type": "Class",
+            "_key": "FixedAssetRegister",
+            "visualization_level": "2"
+        },
+        {
+            "name": "GeneralLedger",
+            "type": "Class",
+            "_key": "GeneralLedger",
+            "visualization_level": "2"
+        },
+        {
+            "name": "Invoice",
+            "type": "Class",
+            "_key": "Invoice",
+            "visualization_level": "2"
+        },
+        {
+            "name": "InvoicingTransaction",
+            "type": "Class",
+            "_key": "InvoicingTransaction",
+            "visualization_level": "2"
+        },
+        {
+            "_key": "Transaction",
+            "name": "Transaction",
+            "type": "Class",
+            "visualization_level": "1"
+        },
+        {
+            "name": "Lease",
+            "type": "Class",
+            "_key": "Lease",
+            "visualization_level": "2"
+        },
+        {
+            "name": "LeaseROMM",
+            "type": "Class",
+            "_key": "LeaseROMM",
+            "visualization_level": "2",
+            "RiskLevel": null
+        },
+        {
+            "name": "MarketingExpense",
+            "type": "Class",
+            "_key": "MarketingExpense",
+            "visualization_level": "3"
+        },
+        {
+            "name": "OccuranceRightsObligations",
+            "type": "Class",
+            "_key": "OccuranceRightsObligations",
+            "visualization_level": "3",
+            "RiskDescription": null
+        },
+        {
+            "name": "Occurrence",
+            "type": "Class",
+            "_key": "Occurrence",
+            "visualization_level": "3",
+            "RiskDescription": null
+        },
+        {
+            "name": "OperatingExpenseROMM",
+            "type": "Class",
+            "_key": "OperatingExpenseROMM",
+            "visualization_level": "2",
+            "RiskLevel": null
+        },
+        {
+            "name": "PayrollExpense",
+            "type": "Class",
+            "_key": "PayrollExpense",
+            "visualization_level": "3"
+        },
+        {
+            "name": "PayrollListing",
+            "type": "Class",
+            "_key": "PayrollListing",
+            "visualization_level": "2"
+        },
+        {
+            "_key": "PlannedTODProcedure",
+            "PerformanceMaterialityAmount": null,
+            "name": "PlannedTODProcedure",
+            "type": "Class",
+            "PopulationSize": null,
+            "SampleDescription": null,
+            "SampleSize": null,
+            "TestConclusionText": null,
+            "TestProcedureText": null,
+            "TestPurposeText": null,
+            "visualization_level": "2",
+            "TestID": null
+        },
+        {
+            "_key": "TODData",
+            "name": "TODData",
+            "type": "Class",
+            "TestID": null,
+            "visualization_level": "1"
+        },
+        {
+            "name": "Procedure",
+            "type": "Class",
+            "_key": "Procedure",
+            "TestID": null,
+            "visualization_level": "1"
+        },
+        {
+            "name": "RealEstateROMM",
+            "type": "Class",
+            "_key": "RealEstateROMM",
+            "visualization_level": "2",
+            "RiskLevel": null
+        },
+        {
+            "name": "Receipt",
+            "type": "Class",
+            "_key": "Receipt",
+            "visualization_level": "2"
+        },
+        {
+            "name": "Revenue",
+            "type": "Class",
+            "_key": "Revenue",
+            "visualization_level": "2"
+        },
+        {
+            "name": "RightsAndObligations",
+            "type": "Class",
+            "_key": "RightsAndObligations",
+            "visualization_level": "3",
+            "RiskDescription": null
+        },
+        {
+            "name": "RollforwardTesting",
+            "type": "Class",
+            "_key": "RollforwardTesting",
+            "visualization_level": "2",
+            "TestID": null
+        },
+        {
+            "name": "SAPReport",
+            "type": "Class",
+            "_key": "SAPReport",
+            "visualization_level": "2"
+        },
+        {
+            "name": "SubstantiveAnalytics",
+            "type": "Class",
+            "_key": "SubstantiveAnalytics",
+            "visualization_level": "2",
+            "TestID": null
+        },
+        {
+            "name": "SubstantiveAnalyticsTemplate",
+            "type": "Class",
+            "_key": "SubstantiveAnalyticsTemplate",
+            "visualization_level": "3"
+        },
+        {
+            "name": "TaxROMM",
+            "type": "Class",
+            "_key": "TaxROMM",
+            "visualization_level": "2",
+            "RiskLevel": null
+        },
+        {
+            "name": "TestOfDetails",
+            "type": "Class",
+            "_key": "TestOfDetails",
+            "visualization_level": "2",
+            "TestID": null
+        },
+        {
+            "name": "TestOfDetailsOpExTemplate",
+            "type": "Class",
+            "_key": "TestOfDetailsOpExTemplate",
+            "visualization_level": "4"
+        },
+        {
+            "_key": "TestOfDetailsTemplate",
+            "name": "TestOfDetailsTemplate",
+            "type": "Class",
+            "visualization_level": "3"
+        },
+        {
+            "name": "Ticmark",
+            "type": "Class",
+            "_key": "Ticmark",
+            "visualization_level": "2"
+        },
+        {
+            "name": "ValuationAndAllocation",
+            "type": "Class",
+            "_key": "ValuationAndAllocation",
+            "visualization_level": "3",
+            "RiskDescription": null
+        },
+        {
+            "_key": "i_0_Client",
+            "name": "i_Client",
+            "type": "Instance",
+            "visualization_level": "1",
+            "oKey": [
+                "Case1_0",
+                "Case1_1"
+            ]
+        },
+        {
+            "_key": "i_1_OperatingExpenseROMM",
+            "name": "i_OperatingExpenseROMM",
+            "type": "Instance",
+            "visualization_level": "2",
+            "oKey": "Case1_0",
+            "RiskLevel": "Higher"
+        },
+        {
+            "_key": "i_2_AccountName",
+            "name": "i_AdvertisingAndPromotionalExpense",
+            "type": "Instance",
+            "visualization_level": "3",
+            "oKey": "Case1_0"
+        },
+        {
+            "_key": "i_3_Assertion",
+            "name": "i_Occurrence",
+            "type": "Instance",
+            "visualization_level": "3",
+            "oKey": "Case1_0",
+            "RiskDescription": "Advertising costs are incorrectly expensed when future benefits exist for the entity or general and advertising costs are incorrectly recorded as prepayments contract costs when no future benefit exists to the entity. "
+        },
+        {
+            "_key": "i_4_Assertion",
+            "name": "i_Completeness",
+            "type": "Instance",
+            "visualization_level": "3",
+            "oKey": "Case1_0",
+            "RiskDescription": "Advertising costs are incorrectly expensed when future benefits exist for the entity or general and advertising costs are incorrectly recorded as prepayments contract costs when no future benefit exists to the entity. "
+        },
+        {
+            "_key": "i_5_TestOfDetails",
+            "name": "i_TestOfDetails",
+            "type": "Instance",
+            "visualization_level": "2",
+            "oKey": [
+                "Case1_0",
+                "Case1_1"
+            ],
+            "TestID": "SG&A Legacy Expense Testing p1"
+        },
+        {
+            "_key": "i_6_PlannedTODProcedure",
+            "name": "i_PlannedTODProcedure",
+            "type": "Instance",
+            "visualization_level": "2",
+            "oKey": [
+                "Case1_0",
+                "Case1_1"
+            ],
+            "PerformanceMaterialityAmount": "10400000",
+            "PopulationSize": "107317051.42000018",
+            "SampleDescription": "NA",
+            "SampleSize": "7",
+            "TestConclusionText": " Per the testing shown below, detail selections were properly expensed and recorded in the correct period, the components of the operating expense balance appears reasonably stated as of 3/31/2017.",
+            "TestProcedureText": " \n1. Obtain an understanding of the account balance and tie the balance to the GL Calculate number of selections based on the total applicable operating expense amount for the year per US PCAOB AAM 23002-4.1.\n2. Reconcile the expense GL accounts to the amounts reported as SG&A and R&D. Obtain a detailed listing of operating expenses for selected GL accounts and agree the total of the detail to the GL. Make the number of specified detail selections per the sample size calculated above.  \n3. Obtain support for the selections made. Support includes, but is not necessarily limited to, invoices, check copies, and wire transfer information.\n4. Determine that the evidence supports the occurrence of the expense and that it was recorded accurately.\n5. Compare the selections to the support provided. Determine if the expense is recorded in the correct period. For any differences, irrespective of the direction of the primary test, quantify and corroborate explanations for the difference by performing further analysis or inquiry.\n6. Conclude, based on the nature of the expense, that the expense was appropriately classified as an appropriate operating expense.\n\n",
+            "TestPurposeText": " To perform detailed testing procedures to test SG&A expenses from 4/1/2016 to 3/31/2017. \n\n",
+            "TestID": "SG&A Legacy Expense Testing p1"
+        },
+        {
+            "_key": "i_7_PerformedTODProcedure",
+            "name": "i_PerformedTODProcedure",
+            "type": "Instance",
+            "visualization_level": "2",
+            "oKey": [
+                "Case1_0",
+                "Case1_1"
+            ],
+            "DataRecord": {
+                "0": {
+                    "GLDescription": "Advertising - Print Media-Anoka Operations-Marketing Ops-Firearms",
+                    "GLAccountNo": "6869-12-8222-9710",
+                    "GLDate": "2016-06-01 00:00:00",
+                    "Amount": "24635",
+                    "Supplier": "National Rifle Association of America",
+                    "InvoiceNo": "H16-83936",
+                    "InvoiceDate": "2016-04-18 00:00:00",
+                    "InvoiceAmount": "24635",
+                    "OpExAppropriatelyClassified": "Yes",
+                    "TMText": "None"
+                },
+                "1": {
+                    "GLDescription": "Broadcast-Anoka Operations-Marketing Ops-Optics",
+                    "GLAccountNo": "6890-12-8222-9701",
+                    "GLDate": "2017-01-18 00:00:00",
+                    "Amount": "20625",
+                    "Supplier": "Bone Collector, LLC",
+                    "InvoiceNo": "PS-IN0045396",
+                    "InvoiceDate": "2017-01-01 00:00:00",
+                    "InvoiceAmount": "20625",
+                    "OpExAppropriatelyClassified": "Yes",
+                    "TMText": "{a}"
+                },
+                "2": {
+                    "GLDescription": "Outside Services-Anoka Operations-Enterprise Apps-",
+                    "GLAccountNo": "6902-12-8043-",
+                    "GLDate": "2016-10-19 00:00:00",
+                    "Amount": "12024.61",
+                    "Supplier": "Armor Defense Inc",
+                    "InvoiceNo": "00096386",
+                    "InvoiceDate": "2016-10-08 00:00:00",
+                    "InvoiceAmount": "12024.61",
+                    "OpExAppropriatelyClassified": "Yes",
+                    "TMText": "None"
+                },
+                "3": {
+                    "GLDescription": "Computer Lease-Anoka Operations-IT Infra & Ops-",
+                    "GLAccountNo": "7953-12-8042-",
+                    "GLDate": "2017-02-14 00:00:00",
+                    "Amount": "14921",
+                    "Supplier": "K2 Capital Group",
+                    "InvoiceNo": "74189",
+                    "InvoiceDate": "2017-01-20 00:00:00",
+                    "InvoiceAmount": "14921",
+                    "OpExAppropriatelyClassified": "Yes",
+                    "TMText": "{b},{a}"
+                },
+                "4": {
+                    "GLDescription": "Media Traffic-Anoka Operations-Marketing Ops-General / Admin",
+                    "GLAccountNo": "6868-12-8222-9700",
+                    "GLDate": "2016-12-14 00:00:00",
+                    "Amount": "31667",
+                    "Supplier": "Space150",
+                    "InvoiceNo": "12739",
+                    "InvoiceDate": "2016-12-09 00:00:00",
+                    "InvoiceAmount": "31667",
+                    "OpExAppropriatelyClassified": "Yes",
+                    "TMText": "{a}"
+                },
+                "5": {
+                    "GLDescription": "Interactive Projects-Anoka Operations-Marketing Tech-General / Admin",
+                    "GLAccountNo": "6917-12-8223-9700",
+                    "GLDate": "2017-03-20 00:00:00",
+                    "Amount": "12500",
+                    "Supplier": "Space150",
+                    "InvoiceNo": "12993",
+                    "InvoiceDate": "2017-03-14 00:00:00",
+                    "InvoiceAmount": "12500",
+                    "OpExAppropriatelyClassified": "Yes",
+                    "TMText": "{a}"
+                },
+                "6": {
+                    "GLDescription": "Contract Labor - Indirect-Anoka Operations-HR Talent Acquisition-",
+                    "GLAccountNo": "8415-12-8055-",
+                    "GLDate": "2016-11-15 00:00:00",
+                    "Amount": "3200",
+                    "Supplier": "VOLT CONSULTING GROUP LTD",
+                    "InvoiceNo": "34494599",
+                    "InvoiceDate": "2016-11-06 00:00:00",
+                    "InvoiceAmount": "3200",
+                    "OpExAppropriatelyClassified": "Yes",
+                    "TMText": "{a}"
+                }
+            },
+            "TestID": "SG&A Legacy Expense Testing p1"
+        },
+        {
+            "_key": "i_8_TestOfDetails",
+            "name": "i_TestOfDetails",
+            "type": "Instance",
+            "visualization_level": "2",
+            "oKey": [
+                "Case1_0",
+                "Case1_1"
+            ],
+            "TestID": "R&D Expense Testing p1"
+        },
+        {
+            "_key": "i_9_PlannedTODProcedure",
+            "name": "i_PlannedTODProcedure",
+            "type": "Instance",
+            "visualization_level": "2",
+            "oKey": [
+                "Case1_0",
+                "Case1_1"
+            ],
+            "PerformanceMaterialityAmount": "10400000",
+            "PopulationSize": "8216585.830000008",
+            "SampleDescription": "NA",
+            "SampleSize": "1",
+            "TestConclusionText": " Per the testing shown below, detail selections were properly expensed and recorded in the correct fiscal year, the components of the operating expense balance appears reasonably stated as of 3/31/2017. ",
+            "TestProcedureText": " \n1. Obtain an understanding of the account balance and tie the balance to the GL. Calculate number of selections based on the total applicable operating expense amount for the year per US PCAOB AAM 23002-4.1.\n2. Reconcile the expense GL accounts to the amounts reported as SG&A and R&D. Obtain a detailed listing of operating expenses for selected GL accounts and agree the total of the detail to the GL. Make the number of specified detail selections per the sample size calculated above.  \n3. Obtain support for the selections made. Support includes, but is not necessarily limited to, invoices, check copies, and wire transfer information.\n4. Determine that the evidence supports the occurrence of the expense and that it was recorded accurately.\n5. Compare the selections to the support provided. Determine if the expense is recorded in the correct period. For any differences, irrespective of the direction of the primary test, quantify and corroborate explanations for the difference by performing further analysis or inquiry.\n6. Conclude, based on the nature of the expense, that the expense was appropriately classified as an appropriate operating expense.\n",
+            "TestPurposeText": " To perform detailed testing procedures to test R&D expenses from 4/1/2016 to 3/31/2017. \n\n",
+            "TestID": "R&D Expense Testing p1"
+        },
+        {
+            "_key": "i_10_PerformedTODProcedure",
+            "name": "i_PerformedTODProcedure",
+            "type": "Instance",
+            "visualization_level": "2",
+            "oKey": [
+                "Case1_0",
+                "Case1_1"
+            ],
+            "DataRecord": {
+                "0": {
+                    "GLDescription": "Outside Services-Anoka Operations-R&D-Speer Reloading Manual",
+                    "GLAccountNo": "6902-12-8100-8221",
+                    "GLDate": "2017-01-18 00:00:00",
+                    "Amount": "34000",
+                    "Supplier": "SPACE 150 INC",
+                    "InvoiceNo": "12835",
+                    "InvoiceDate": "2017-01-17 00:00:00",
+                    "InvoiceAmount": "34000",
+                    "OpExAppropriatelyClassified": "Yes",
+                    "TMText": "{a}"
+                }
+            },
+            "TestID": "R&D Expense Testing p1"
+        },
+        {
+            "_key": "i_11_TestOfDetails",
+            "name": "i_TestOfDetails",
+            "type": "Instance",
+            "visualization_level": "2",
+            "oKey": [
+                "Case1_0",
+                "Case1_1"
+            ],
+            "TestID": "SG&A Expense Testing p1"
+        },
+        {
+            "_key": "i_12_PlannedTODProcedure",
+            "name": "i_PlannedTODProcedure",
+            "type": "Instance",
+            "visualization_level": "2",
+            "oKey": [
+                "Case1_0",
+                "Case1_1"
+            ],
+            "PerformanceMaterialityAmount": "7800000",
+            "PopulationSize": "25909269",
+            "SampleDescription": "NA",
+            "SampleSize": "2",
+            "TestConclusionText": " Per the testing shown below, detail selections were properly expensed and recorded in the correct period, the components of the operating expense balance appears reasonably stated as of 3/31/2017.",
+            "TestProcedureText": " \n1. Obtain an understanding of the account balance and tie the balance to the GL  Calculate number of selections based on the total applicable operating expense amount for the year per US PCAOB AAM 23002-4.1.\n2. Reconcile the expense GL accounts to the amounts reported as G&A, Selling, and R&D. Obtain a detailed listing of operating expenses for selected GL accounts and agree the total of the detail to the GL. Make the number of specified detail selections per the sample size calculated above.  \n3. Obtain support for the selections made. Support includes, but is not necessarily limited to, invoices, check copies, and wire transfer information.\n4. Determine that the evidence supports the occurrence of the expense and that it was recorded accurately.\n5. Compare the selections to the support provided. Determine if the expense is recorded in the correct period. For any differences, irrespective of the direction of the primary test, quantify and corroborate explanations for the difference by performing further analysis or inquiry.\n6. Conclude, based on the nature of the expense, that the expense was appropriately classified as an appropriate operating expense.\n\n",
+            "TestPurposeText": " To perform detailed testing procedures to test SG&A expenses from 4/1/2016 to 3/31/2017. \n\n",
+            "TestID": "SG&A Expense Testing p1"
+        },
+        {
+            "_key": "i_13_PerformedTODProcedure",
+            "name": "i_PerformedTODProcedure",
+            "type": "Instance",
+            "visualization_level": "2",
+            "oKey": [
+                "Case1_0",
+                "Case1_1"
+            ],
+            "DataRecord": {
+                "0": {
+                    "GLDescription": "Advertising-Media",
+                    "GLAccountNo": "620100",
+                    "GLDate": "2016-04-01 00:00:00",
+                    "Amount": "17000",
+                    "Supplier": "Mens Journal",
+                    "InvoiceNo": "MJ53074",
+                    "InvoiceDate": "2016-04-26 00:00:00",
+                    "InvoiceAmount": "17000",
+                    "TMText": "{a}",
+                    "OpExAppropriatelyClassified": "Yes"
+                },
+                "1": {
+                    "GLDescription": "Trade Shows",
+                    "GLAccountNo": "641100",
+                    "GLDate": "2017-01-01 00:00:00",
+                    "Amount": "5462",
+                    "Supplier": "Blue Point Productions",
+                    "InvoiceNo": "1412",
+                    "InvoiceDate": "2017-01-23 00:00:00",
+                    "InvoiceAmount": "5462",
+                    "TMText": "",
+                    "OpExAppropriatelyClassified": "Yes"
+                }
+            },
+            "TestID": "SG&A Expense Testing p1"
+        },
+        {
+            "_key": "i_14_TestOfDetails",
+            "name": "i_TestOfDetails",
+            "type": "Instance",
+            "visualization_level": "2",
+            "oKey": [
+                "Case1_0",
+                "Case1_1"
+            ],
+            "TestID": "R&D Expense Testing p2"
+        },
+        {
+            "_key": "i_15_PlannedTODProcedure",
+            "name": "i_PlannedTODProcedure",
+            "type": "Instance",
+            "visualization_level": "2",
+            "oKey": [
+                "Case1_0",
+                "Case1_1"
+            ],
+            "PerformanceMaterialityAmount": "7800000",
+            "PopulationSize": "3943664",
+            "SampleDescription": "NA",
+            "SampleSize": "1",
+            "TestConclusionText": " Per the testing shown below, detail selections were properly expensed and recorded in the correct period, the components of the operating expense balance appears reasonably stated as of 3/31/2017.",
+            "TestProcedureText": " \n1. Obtain an understanding of the account balance and tie the balance to the GL. Calculate number of selections based on the total applicable operating expense amount for the year per US PCAOB AAM 23002-4.1.\n2. Reconcile the expense GL accounts to the amounts reported as G&A, Selling, and R&D. Obtain a detailed listing of operating expenses for selected GL accounts and agree the total of the detail to the GL. Make the number of specified detail selections per the sample size calculated above.  \n3. Obtain support for the selections made. Support includes, but is not necessarily limited to, invoices, check copies, and wire transfer information.\n4. Determine that the evidence supports the occurrence of the expense and that it was recorded accurately.\n5. Compare the selections to the support provided. Determine if the expense is recorded in the correct period. For any differences, irrespective of the direction of the primary test, quantify and corroborate explanations for the difference by performing further analysis or inquiry.\n6. Conclude, based on the nature of the expense, that the expense was appropriately classified as an appropriate operating expense.\n\n\n",
+            "TestPurposeText": " To perform detailed testing procedures to test R&D expenses from 4/1/2016 to 3/31/2017. \n\n",
+            "TestID": "R&D Expense Testing p2"
+        },
+        {
+            "_key": "i_16_PerformedTODProcedure",
+            "name": "i_PerformedTODProcedure",
+            "type": "Instance",
+            "visualization_level": "2",
+            "oKey": [
+                "Case1_0",
+                "Case1_1"
+            ],
+            "DataRecord": {
+                "0": {
+                    "GLDescription": "Design Consultant",
+                    "GLAccountNo": "650100",
+                    "GLDate": "2016-09-01 00:00:00",
+                    "Amount": "11779.02",
+                    "Supplier": "Delucca Design ",
+                    "InvoiceNo": "CBK#_09.07.16",
+                    "InvoiceDate": "2016-09-07 00:00:00",
+                    "InvoiceAmount": "11779.02",
+                    "OpExAppropriatelyClassified": "Yes",
+                    "TMText": "{a}"
+                }
+            },
+            "TestID": "R&D Expense Testing p2"
+        },
+        {
+            "_key": "i_17_TestOfDetails",
+            "name": "i_TestOfDetails",
+            "type": "Instance",
+            "visualization_level": "2",
+            "oKey": [
+                "Case1_0",
+                "Case1_1"
+            ],
+            "TestID": "p1. Other Cost of Sales Testing"
+        },
+        {
+            "_key": "i_18_PlannedTODProcedure",
+            "name": "i_PlannedTODProcedure",
+            "type": "Instance",
+            "visualization_level": "2",
+            "oKey": [
+                "Case1_0",
+                "Case1_1"
+            ],
+            "PerformanceMaterialityAmount": "7800000",
+            "PopulationSize": "41219355",
+            "SampleDescription": "NA",
+            "SampleSize": "10",
+            "TestConclusionText": " Per the testing shown below, detail selections were properly expensed and recorded in the correct period, the components of the other cost of sales balance appears reasonably stated as of 3/31/2017.",
+            "TestProcedureText": " We obtained the detail of other cost of sales from Terri Braddock, Local Controller - Irving, as of 3/31/17, and tied the detail to the GL, refer to 8120 for our tie out. We then randomly made sample selections in accordance with the guidance at U.S. PCAOB AAM 23002 (see calculation below). For each selection, we performed the following:\n1. Obtain an understanding of the expense and obtain support for the selection, including invoices, check copies, and wire transfer information, as applicable.\n2. Determine the appropriateness of the occurrence and accuracy of the expense based on the evidence obtained and inquiries made with Terri.\n3. Determine the appropriateness of the expense for the period recorded.\n4. Conclude, based on the nature of the expense, that the expense was appropriately classified as an appropriate other cost of sales expense.\n\n",
+            "TestPurposeText": " To perform detailed testing procedures over Other Cost of Sales as of 3/31/17.\n\n",
+            "TestID": "p1. Other Cost of Sales Testing"
+        },
+        {
+            "_key": "i_19_PerformedTODProcedure",
+            "name": "i_PerformedTODProcedure",
+            "type": "Instance",
+            "visualization_level": "2",
+            "oKey": [
+                "Case1_0",
+                "Case1_1"
+            ],
+            "DataRecord": {
+                "0": {
+                    "GLDescription": "Ocean Freight",
+                    "GLAccountNo": "614025",
+                    "GLDate": "2016-07-18 00:00:00",
+                    "Amount": "90993.33",
+                    "Supplier": "Hamburg Sud North America",
+                    "InvoiceNo": "BRG 071516",
+                    "InvoiceDate": "2016-07-15 00:00:00",
+                    "OpExCorrectPeriod": "7/10/2016-7/15/2016",
+                    "InvoiceAmount": "90993.33",
+                    "TMText": "{b}",
+                    "OpExAppropriatelyClassified": "Yes"
+                },
+                "1": {
+                    "GLDescription": "Postage/Mailing",
+                    "GLAccountNo": "660110",
+                    "GLDate": "2017-03-10 00:00:00",
+                    "Amount": "71.48",
+                    "Supplier": "RateLinx",
+                    "InvoiceNo": "VistaActionSports03012017",
+                    "InvoiceDate": "2017-03-09 00:00:00",
+                    "OpExCorrectPeriod": "3/5/2017-3/9/2017",
+                    "InvoiceAmount": "152294.71",
+                    "TMText": "{b}",
+                    "OpExAppropriatelyClassified": "Yes"
+                },
+                "2": {
+                    "GLDescription": "Duties Expense",
+                    "GLAccountNo": "614035",
+                    "GLDate": "2017-03-01 00:00:00",
+                    "Amount": "44340.31",
+                    "Supplier": "US Customs Services",
+                    "InvoiceNo": "3917058BHL",
+                    "InvoiceDate": "2017-02-27 00:00:00",
+                    "OpExCorrectPeriod": "2/13/2017-2/19/2017",
+                    "InvoiceAmount": "69859.57",
+                    "TMText": "{b}",
+                    "OpExAppropriatelyClassified": "Yes"
+                },
+                "3": {
+                    "GLDescription": "Facilities Lease Expense",
+                    "GLAccountNo": "665110",
+                    "GLDate": "2016-05-31 00:00:00",
+                    "Amount": "256395.68",
+                    "Supplier": "Les Rantoul LP",
+                    "InvoiceNo": "{c}",
+                    "InvoiceDate": "{c}",
+                    "OpExCorrectPeriod": "{c}",
+                    "InvoiceAmount": "{c}",
+                    "TMText": "{b}",
+                    "OpExAppropriatelyClassified": "Yes"
+                },
+                "4": {
+                    "GLDescription": "Electricity",
+                    "GLAccountNo": "657640",
+                    "GLDate": "2016-09-13 00:00:00",
+                    "Amount": "34539.06",
+                    "Supplier": "Village of Rantoul Light & Water Utilities",
+                    "InvoiceNo": "44811-18826",
+                    "InvoiceDate": "2016-09-28 00:00:00",
+                    "OpExCorrectPeriod": "8/1/2016-9/1/2016",
+                    "InvoiceAmount": "45317.24",
+                    "TMText": "{b}",
+                    "OpExAppropriatelyClassified": "{d}"
+                },
+                "5": {
+                    "GLDescription": "Duties Expense",
+                    "GLAccountNo": "614035",
+                    "GLDate": "2016-07-28 00:00:00",
+                    "Amount": "34248.44",
+                    "Supplier": "US Customs Services",
+                    "InvoiceNo": "95-173373100",
+                    "InvoiceDate": "2016-07-26 00:00:00",
+                    "OpExCorrectPeriod": "7/12/2017-7/18/2017",
+                    "InvoiceAmount": "38923.9",
+                    "TMText": "{b}",
+                    "OpExAppropriatelyClassified": "Yes"
+                },
+                "6": {
+                    "GLDescription": "Freight - Outbound Expense",
+                    "GLAccountNo": "614110",
+                    "GLDate": "2016-04-27 00:00:00",
+                    "Amount": "35198.5",
+                    "Supplier": "RateLinx",
+                    "InvoiceNo": "EBS04202016",
+                    "InvoiceDate": "2016-04-27 00:00:00",
+                    "OpExCorrectPeriod": "4/20/2016-4/27/2016",
+                    "InvoiceAmount": "185426.26",
+                    "TMText": "{b}",
+                    "OpExAppropriatelyClassified": "Yes"
+                },
+                "7": {
+                    "GLDescription": "Materials and Supplies Expense",
+                    "GLAccountNo": "640010",
+                    "GLDate": "2016-09-15 00:00:00",
+                    "Amount": "11433.3",
+                    "Supplier": "Packaging Corporation of America",
+                    "InvoiceNo": "303-84359",
+                    "InvoiceDate": "2016-09-28 00:00:00",
+                    "OpExCorrectPeriod": "9/21/2016-9/28/2016",
+                    "InvoiceAmount": "57168.28",
+                    "TMText": "{b}",
+                    "OpExAppropriatelyClassified": "Yes"
+                },
+                "8": {
+                    "GLDescription": "Freight - Outbound Expense",
+                    "GLAccountNo": "614110",
+                    "GLDate": "2016-10-14 00:00:00",
+                    "Amount": "47755.05",
+                    "Supplier": "RateLinx",
+                    "InvoiceNo": "VistaActionSports100516",
+                    "InvoiceDate": "2016-10-12 00:00:00",
+                    "OpExCorrectPeriod": "10/5/2016-10/12/2016",
+                    "InvoiceAmount": "223456.67",
+                    "TMText": "{b}",
+                    "OpExAppropriatelyClassified": "Yes"
+                },
+                "9": {
+                    "GLDescription": "Property Taxes",
+                    "GLAccountNo": "680110",
+                    "GLDate": "2016-10-01 00:00:00",
+                    "Amount": "88281",
+                    "Supplier": "{e}",
+                    "InvoiceNo": "{e}",
+                    "InvoiceDate": "{e}",
+                    "OpExCorrectPeriod": "{e}",
+                    "InvoiceAmount": "{e}",
+                    "TMText": "{b}",
+                    "OpExAppropriatelyClassified": "Yes"
+                }
+            },
+            "TestID": "p1. Other Cost of Sales Testing"
+        },
+        {
+            "_key": "i_20_OperatingExpenseROMM",
+            "name": "i_OperatingExpenseROMM",
+            "type": "Instance",
+            "visualization_level": "2",
+            "oKey": "Case1_1",
+            "RiskLevel": "Higher"
+        },
+        {
+            "_key": "i_21_AccountName",
+            "name": "i_AdvertisingAndPromotionalExpense",
+            "type": "Instance",
+            "visualization_level": "3",
+            "oKey": "Case1_1"
+        },
+        {
+            "_key": "i_22_Assertion",
+            "name": "i_Classification",
+            "type": "Instance",
+            "visualization_level": "3",
+            "oKey": "Case1_1",
+            "RiskDescription": "Advertising expenses are recorded in the incorrect general ledger account. "
+        }
+    ],
+    "edges": [
+        {
+            "_key": "sub0",
+            "type": "hasSubClass",
+            "_from": "Assertion",
+            "_to": "AccountBalancesAssertion",
+            "source": 1,
+            "target": 0
+        },
+        {
+            "_key": "sub1",
+            "type": "hasSubClass",
+            "_from": "AccountName",
+            "_to": "AccountPayable",
+            "source": 2,
+            "target": 3
+        },
+        {
+            "_key": "sub2",
+            "type": "hasSubClass",
+            "_from": "ROMM",
+            "_to": "AccountPayableROMM",
+            "source": 5,
+            "target": 4
+        },
+        {
+            "_key": "sub3",
+            "type": "hasSubClass",
+            "_from": "AccountName",
+            "_to": "AccountReceivable",
+            "source": 2,
+            "target": 6
+        },
+        {
+            "_key": "sub4",
+            "type": "hasSubClass",
+            "_from": "ROMM",
+            "_to": "AccountReceivableROMM",
+            "source": 5,
+            "target": 7
+        },
+        {
+            "_key": "sub5",
+            "type": "hasSubClass",
+            "_from": "TransactionClassAssertion",
+            "_to": "Accuracy",
+            "source": 9,
+            "target": 8
+        },
+        {
+            "_key": "sub6",
+            "type": "hasSubClass",
+            "_from": "PresentationDisclosureAssertion",
+            "_to": "AccuracyAndValuation",
+            "source": 11,
+            "target": 10
+        },
+        {
+            "_key": "sub7",
+            "type": "hasSubClass",
+            "_from": "OperatingExpense",
+            "_to": "AdvertisingAndPromotionalExpense",
+            "source": 13,
+            "target": 12
+        },
+        {
+            "_key": "sub8",
+            "type": "hasSubClass",
+            "_from": "DataSource",
+            "_to": "BankStatement",
+            "source": 15,
+            "target": 14
+        },
+        {
+            "_key": "sub9",
+            "type": "hasSubClass",
+            "_from": "AccountName",
+            "_to": "Cash",
+            "source": 2,
+            "target": 16
+        },
+        {
+            "_key": "sub10",
+            "type": "hasSubClass",
+            "_from": "ROMM",
+            "_to": "CashROMM",
+            "source": 5,
+            "target": 17
+        },
+        {
+            "_key": "sub11",
+            "type": "hasSubClass",
+            "_from": "DataSource",
+            "_to": "Check",
+            "source": 15,
+            "target": 18
+        },
+        {
+            "_key": "sub12",
+            "type": "hasSubClass",
+            "_from": "TransactionClassAssertion",
+            "_to": "Classification",
+            "source": 9,
+            "target": 19
+        },
+        {
+            "_key": "sub13",
+            "type": "hasSubClass",
+            "_from": "PresentationDisclosureAssertion",
+            "_to": "ClassificationAndUnderstandability",
+            "source": 11,
+            "target": 20
+        },
+        {
+            "_key": "sub14",
+            "type": "hasSubClass",
+            "_from": "TransactionClassAssertion",
+            "_to": "Completeness",
+            "source": 9,
+            "target": 22
+        },
+        {
+            "_key": "sub15",
+            "type": "hasSubClass",
+            "_from": "PresentationDisclosureAssertion",
+            "_to": "CompletenessDisclosure",
+            "source": 11,
+            "target": 23
+        },
+        {
+            "_key": "sub16",
+            "type": "hasSubClass",
+            "_from": "AccountBalancesAssertion",
+            "_to": "CompletenessOfAssestsLiabilitiesEquity",
+            "source": 0,
+            "target": 24
+        },
+        {
+            "_key": "sub17",
+            "type": "hasSubClass",
+            "_from": "DataSource",
+            "_to": "Contract",
+            "source": 15,
+            "target": 25
+        },
+        {
+            "_key": "sub18",
+            "type": "hasSubClass",
+            "_from": "DataSource",
+            "_to": "CustomerAgreement",
+            "source": 15,
+            "target": 26
+        },
+        {
+            "_key": "sub19",
+            "type": "hasSubClass",
+            "_from": "TransactionClassAssertion",
+            "_to": "Cutoff",
+            "source": 9,
+            "target": 27
+        },
+        {
+            "_key": "sub20",
+            "type": "hasSubClass",
+            "_from": "ROMM",
+            "_to": "DebtROMM",
+            "source": 5,
+            "target": 29
+        },
+        {
+            "_key": "sub21",
+            "type": "hasSubClass",
+            "_from": "Documentation",
+            "_to": "DocumentationTemplate",
+            "source": 30,
+            "target": 31
+        },
+        {
+            "_key": "sub22",
+            "type": "hasSubClass",
+            "_from": "AccountBalancesAssertion",
+            "_to": "Existence",
+            "source": 0,
+            "target": 33
+        },
+        {
+            "_key": "sub23",
+            "type": "hasSubClass",
+            "_from": "DataSource",
+            "_to": "FinancialStatement",
+            "source": 15,
+            "target": 34
+        },
+        {
+            "_key": "sub24",
+            "type": "hasSubClass",
+            "_from": "DataSource",
+            "_to": "FixedAssetRegister",
+            "source": 15,
+            "target": 35
+        },
+        {
+            "_key": "sub25",
+            "type": "hasSubClass",
+            "_from": "DataSource",
+            "_to": "GeneralLedger",
+            "source": 15,
+            "target": 36
+        },
+        {
+            "_key": "sub26",
+            "type": "hasSubClass",
+            "_from": "DataSource",
+            "_to": "Invoice",
+            "source": 15,
+            "target": 37
+        },
+        {
+            "_key": "sub27",
+            "type": "hasSubClass",
+            "_from": "Transaction",
+            "_to": "InvoicingTransaction",
+            "source": 39,
+            "target": 38
+        },
+        {
+            "_key": "sub28",
+            "type": "hasSubClass",
+            "_from": "AccountName",
+            "_to": "Lease",
+            "source": 2,
+            "target": 40
+        },
+        {
+            "_key": "sub29",
+            "type": "hasSubClass",
+            "_from": "ROMM",
+            "_to": "LeaseROMM",
+            "source": 5,
+            "target": 41
+        },
+        {
+            "_key": "sub30",
+            "type": "hasSubClass",
+            "_from": "OperatingExpense",
+            "_to": "MarketingExpense",
+            "source": 13,
+            "target": 42
+        },
+        {
+            "_key": "sub31",
+            "type": "hasSubClass",
+            "_from": "PresentationDisclosureAssertion",
+            "_to": "OccuranceRightsObligations",
+            "source": 11,
+            "target": 43
+        },
+        {
+            "_key": "sub32",
+            "type": "hasSubClass",
+            "_from": "TransactionClassAssertion",
+            "_to": "Occurrence",
+            "source": 9,
+            "target": 44
+        },
+        {
+            "_key": "sub33",
+            "type": "hasSubClass",
+            "_from": "AccountName",
+            "_to": "OperatingExpense",
+            "source": 2,
+            "target": 13
+        },
+        {
+            "_key": "sub34",
+            "type": "hasSubClass",
+            "_from": "ROMM",
+            "_to": "OperatingExpenseROMM",
+            "source": 5,
+            "target": 45
+        },
+        {
+            "_key": "sub35",
+            "type": "hasSubClass",
+            "_from": "OperatingExpense",
+            "_to": "PayrollExpense",
+            "source": 13,
+            "target": 46
+        },
+        {
+            "_key": "sub36",
+            "type": "hasSubClass",
+            "_from": "DataSource",
+            "_to": "PayrollListing",
+            "source": 15,
+            "target": 47
+        },
+        {
+            "_key": "sub37",
+            "type": "hasSubClass",
+            "_from": "TODData",
+            "_to": "PerformedTODProcedure",
+            "source": 49,
+            "target": 28
+        },
+        {
+            "_key": "sub38",
+            "type": "hasSubClass",
+            "_from": "TODData",
+            "_to": "PlannedTODProcedure",
+            "source": 49,
+            "target": 48
+        },
+        {
+            "_key": "sub39",
+            "type": "hasSubClass",
+            "_from": "Assertion",
+            "_to": "PresentationDisclosureAssertion",
+            "source": 1,
+            "target": 11
+        },
+        {
+            "_key": "sub40",
+            "type": "hasSubClass",
+            "_from": "ROMM",
+            "_to": "RealEstateROMM",
+            "source": 5,
+            "target": 51
+        },
+        {
+            "_key": "sub41",
+            "type": "hasSubClass",
+            "_from": "DataSource",
+            "_to": "Receipt",
+            "source": 15,
+            "target": 52
+        },
+        {
+            "_key": "sub42",
+            "type": "hasSubClass",
+            "_from": "AccountName",
+            "_to": "Revenue",
+            "source": 2,
+            "target": 53
+        },
+        {
+            "_key": "sub43",
+            "type": "hasSubClass",
+            "_from": "AccountBalancesAssertion",
+            "_to": "RightsAndObligations",
+            "source": 0,
+            "target": 54
+        },
+        {
+            "_key": "sub44",
+            "type": "hasSubClass",
+            "_from": "Procedure",
+            "_to": "RollforwardTesting",
+            "source": 50,
+            "target": 55
+        },
+        {
+            "_key": "sub45",
+            "type": "hasSubClass",
+            "_from": "DataSource",
+            "_to": "SAPReport",
+            "source": 15,
+            "target": 56
+        },
+        {
+            "_key": "sub46",
+            "type": "hasSubClass",
+            "_from": "Procedure",
+            "_to": "SubstantiveAnalytics",
+            "source": 50,
+            "target": 57
+        },
+        {
+            "_key": "sub47",
+            "type": "hasSubClass",
+            "_from": "DocumentationTemplate",
+            "_to": "SubstantiveAnalyticsTemplate",
+            "source": 31,
+            "target": 58
+        },
+        {
+            "_key": "sub48",
+            "type": "hasSubClass",
+            "_from": "ROMM",
+            "_to": "TaxROMM",
+            "source": 5,
+            "target": 59
+        },
+        {
+            "_key": "sub49",
+            "type": "hasSubClass",
+            "_from": "Procedure",
+            "_to": "TestOfDetails",
+            "source": 50,
+            "target": 60
+        },
+        {
+            "_key": "sub50",
+            "type": "hasSubClass",
+            "_from": "TestOfDetailsTemplate",
+            "_to": "TestOfDetailsOpExTemplate",
+            "source": 62,
+            "target": 61
+        },
+        {
+            "_key": "sub51",
+            "type": "hasSubClass",
+            "_from": "DocumentationTemplate",
+            "_to": "TestOfDetailsTemplate",
+            "source": 31,
+            "target": 62
+        },
+        {
+            "_key": "sub52",
+            "type": "hasSubClass",
+            "_from": "Documentation",
+            "_to": "Ticmark",
+            "source": 30,
+            "target": 63
+        },
+        {
+            "_key": "sub53",
+            "type": "hasSubClass",
+            "_from": "Assertion",
+            "_to": "TransactionClassAssertion",
+            "source": 1,
+            "target": 9
+        },
+        {
+            "_key": "sub54",
+            "type": "hasSubClass",
+            "_from": "AccountBalancesAssertion",
+            "_to": "ValuationAndAllocation",
+            "source": 0,
+            "target": 64
+        },
+        {
+            "_key": "op0",
+            "type": "alwaysContains",
+            "_from": "ROMM",
+            "_to": "Assertion",
+            "source": 5,
+            "target": 1
+        },
+        {
+            "_key": "op1",
+            "type": "areForAccount",
+            "_from": "ROMM",
+            "_to": "AccountName",
+            "source": 5,
+            "target": 2
+        },
+        {
+            "_key": "op2",
+            "type": "areForTransactionType",
+            "_from": "ROMM",
+            "_to": "Transaction",
+            "source": 5,
+            "target": 39
+        },
+        {
+            "_key": "op3",
+            "type": "consistsOf",
+            "_from": "TestOfDetails",
+            "_to": "TODData",
+            "source": 60,
+            "target": 49
+        },
+        {
+            "_key": "op4",
+            "type": "hasROMM",
+            "_from": "Client",
+            "_to": "ROMM",
+            "source": 21,
+            "target": 5
+        },
+        {
+            "_key": "op5",
+            "type": "isDocumentedIn",
+            "_from": "Evidence",
+            "_to": "Documentation",
+            "source": 32,
+            "target": 30
+        },
+        {
+            "_key": "op6",
+            "type": "isEvaluatedBy",
+            "_from": "Assertion",
+            "_to": "Procedure",
+            "source": 1,
+            "target": 50
+        },
+        {
+            "_key": "op7",
+            "type": "isFoundFrom",
+            "_from": "Evidence",
+            "_to": "DataSource",
+            "source": 32,
+            "target": 15
+        },
+        {
+            "_key": "op8",
+            "type": "mustHave",
+            "_from": "Assertion",
+            "_to": "Documentation",
+            "source": 1,
+            "target": 30
+        },
+        {
+            "_key": "op9",
+            "type": "toFind",
+            "_from": "Procedure",
+            "_to": "Evidence",
+            "source": 50,
+            "target": 32
+        },
+        {
+            "_key": "kgcon0",
+            "_from": "i_0_Client",
+            "_to": "i_1_OperatingExpenseROMM",
+            "type": "hasROMM",
+            "source": 65,
+            "target": 66
+        },
+        {
+            "_key": "kgcon1",
+            "_from": "i_0_Client",
+            "_to": "i_20_OperatingExpenseROMM",
+            "type": "hasROMM",
+            "source": 65,
+            "target": 85
+        },
+        {
+            "_key": "kgcon2",
+            "_from": "i_1_OperatingExpenseROMM",
+            "_to": "i_3_Assertion",
+            "type": "alwaysContains",
+            "source": 66,
+            "target": 68
+        },
+        {
+            "_key": "kgcon3",
+            "_from": "i_1_OperatingExpenseROMM",
+            "_to": "i_4_Assertion",
+            "type": "alwaysContains",
+            "source": 66,
+            "target": 69
+        },
+        {
+            "_key": "kgcon4",
+            "_from": "i_1_OperatingExpenseROMM",
+            "_to": "i_2_AccountName",
+            "type": "areForAccount",
+            "source": 66,
+            "target": 67
+        },
+        {
+            "_key": "kgcon5",
+            "_from": "i_3_Assertion",
+            "_to": "i_5_TestOfDetails",
+            "type": "isEvaluatedBy",
+            "source": 68,
+            "target": 70
+        },
+        {
+            "_key": "kgcon6",
+            "_from": "i_3_Assertion",
+            "_to": "i_8_TestOfDetails",
+            "type": "isEvaluatedBy",
+            "source": 68,
+            "target": 73
+        },
+        {
+            "_key": "kgcon7",
+            "_from": "i_3_Assertion",
+            "_to": "i_11_TestOfDetails",
+            "type": "isEvaluatedBy",
+            "source": 68,
+            "target": 76
+        },
+        {
+            "_key": "kgcon8",
+            "_from": "i_3_Assertion",
+            "_to": "i_14_TestOfDetails",
+            "type": "isEvaluatedBy",
+            "source": 68,
+            "target": 79
+        },
+        {
+            "_key": "kgcon9",
+            "_from": "i_3_Assertion",
+            "_to": "i_17_TestOfDetails",
+            "type": "isEvaluatedBy",
+            "source": 68,
+            "target": 82
+        },
+        {
+            "_key": "kgcon10",
+            "_from": "i_4_Assertion",
+            "_to": "i_5_TestOfDetails",
+            "type": "isEvaluatedBy",
+            "source": 69,
+            "target": 70
+        },
+        {
+            "_key": "kgcon11",
+            "_from": "i_4_Assertion",
+            "_to": "i_8_TestOfDetails",
+            "type": "isEvaluatedBy",
+            "source": 69,
+            "target": 73
+        },
+        {
+            "_key": "kgcon12",
+            "_from": "i_4_Assertion",
+            "_to": "i_11_TestOfDetails",
+            "type": "isEvaluatedBy",
+            "source": 69,
+            "target": 76
+        },
+        {
+            "_key": "kgcon13",
+            "_from": "i_4_Assertion",
+            "_to": "i_14_TestOfDetails",
+            "type": "isEvaluatedBy",
+            "source": 69,
+            "target": 79
+        },
+        {
+            "_key": "kgcon14",
+            "_from": "i_4_Assertion",
+            "_to": "i_17_TestOfDetails",
+            "type": "isEvaluatedBy",
+            "source": 69,
+            "target": 82
+        },
+        {
+            "_key": "kgcon15",
+            "_from": "i_5_TestOfDetails",
+            "_to": "i_7_PerformedTODProcedure",
+            "type": "consistsOf",
+            "source": 70,
+            "target": 72
+        },
+        {
+            "_key": "kgcon16",
+            "_from": "i_5_TestOfDetails",
+            "_to": "i_6_PlannedTODProcedure",
+            "type": "consistsOf",
+            "source": 70,
+            "target": 71
+        },
+        {
+            "_key": "kgcon17",
+            "_from": "i_22_Assertion",
+            "_to": "i_5_TestOfDetails",
+            "type": "isEvaluatedBy",
+            "source": 87,
+            "target": 70
+        },
+        {
+            "_key": "kgcon18",
+            "_from": "i_8_TestOfDetails",
+            "_to": "i_10_PerformedTODProcedure",
+            "type": "consistsOf",
+            "source": 73,
+            "target": 75
+        },
+        {
+            "_key": "kgcon19",
+            "_from": "i_8_TestOfDetails",
+            "_to": "i_9_PlannedTODProcedure",
+            "type": "consistsOf",
+            "source": 73,
+            "target": 74
+        },
+        {
+            "_key": "kgcon20",
+            "_from": "i_22_Assertion",
+            "_to": "i_8_TestOfDetails",
+            "type": "isEvaluatedBy",
+            "source": 87,
+            "target": 73
+        },
+        {
+            "_key": "kgcon21",
+            "_from": "i_11_TestOfDetails",
+            "_to": "i_13_PerformedTODProcedure",
+            "type": "consistsOf",
+            "source": 76,
+            "target": 78
+        },
+        {
+            "_key": "kgcon22",
+            "_from": "i_11_TestOfDetails",
+            "_to": "i_12_PlannedTODProcedure",
+            "type": "consistsOf",
+            "source": 76,
+            "target": 77
+        },
+        {
+            "_key": "kgcon23",
+            "_from": "i_22_Assertion",
+            "_to": "i_11_TestOfDetails",
+            "type": "isEvaluatedBy",
+            "source": 87,
+            "target": 76
+        },
+        {
+            "_key": "kgcon24",
+            "_from": "i_14_TestOfDetails",
+            "_to": "i_16_PerformedTODProcedure",
+            "type": "consistsOf",
+            "source": 79,
+            "target": 81
+        },
+        {
+            "_key": "kgcon25",
+            "_from": "i_14_TestOfDetails",
+            "_to": "i_15_PlannedTODProcedure",
+            "type": "consistsOf",
+            "source": 79,
+            "target": 80
+        },
+        {
+            "_key": "kgcon26",
+            "_from": "i_22_Assertion",
+            "_to": "i_14_TestOfDetails",
+            "type": "isEvaluatedBy",
+            "source": 87,
+            "target": 79
+        },
+        {
+            "_key": "kgcon27",
+            "_from": "i_17_TestOfDetails",
+            "_to": "i_19_PerformedTODProcedure",
+            "type": "consistsOf",
+            "source": 82,
+            "target": 84
+        },
+        {
+            "_key": "kgcon28",
+            "_from": "i_17_TestOfDetails",
+            "_to": "i_18_PlannedTODProcedure",
+            "type": "consistsOf",
+            "source": 82,
+            "target": 83
+        },
+        {
+            "_key": "kgcon29",
+            "_from": "i_22_Assertion",
+            "_to": "i_17_TestOfDetails",
+            "type": "isEvaluatedBy",
+            "source": 87,
+            "target": 82
+        },
+        {
+            "_key": "kgcon30",
+            "_from": "i_20_OperatingExpenseROMM",
+            "_to": "i_22_Assertion",
+            "type": "alwaysContains",
+            "source": 85,
+            "target": 87
+        },
+        {
+            "_key": "kgcon31",
+            "_from": "i_20_OperatingExpenseROMM",
+            "_to": "i_21_AccountName",
+            "type": "areForAccount",
+            "source": 85,
+            "target": 86
+        },
+        {
+            "_key": "ind0",
+            "_from": "Client",
+            "_to": "i_0_Client",
+            "type": "hasInstance",
+            "source": 21,
+            "target": 65
+        },
+        {
+            "_key": "ind1",
+            "_from": "OperatingExpenseROMM",
+            "_to": "i_1_OperatingExpenseROMM",
+            "type": "hasInstance",
+            "source": 45,
+            "target": 66
+        },
+        {
+            "_key": "ind2",
+            "_from": "AdvertisingAndPromotionalExpense",
+            "_to": "i_2_AccountName",
+            "type": "hasInstance",
+            "source": 12,
+            "target": 67
+        },
+        {
+            "_key": "ind3",
+            "_from": "Occurrence",
+            "_to": "i_3_Assertion",
+            "type": "hasInstance",
+            "source": 44,
+            "target": 68
+        },
+        {
+            "_key": "ind4",
+            "_from": "Completeness",
+            "_to": "i_4_Assertion",
+            "type": "hasInstance",
+            "source": 22,
+            "target": 69
+        },
+        {
+            "_key": "ind5",
+            "_from": "TestOfDetails",
+            "_to": "i_5_TestOfDetails",
+            "type": "hasInstance",
+            "source": 60,
+            "target": 70
+        },
+        {
+            "_key": "ind6",
+            "_from": "PlannedTODProcedure",
+            "_to": "i_6_PlannedTODProcedure",
+            "type": "hasInstance",
+            "source": 48,
+            "target": 71
+        },
+        {
+            "_key": "ind7",
+            "_from": "PerformedTODProcedure",
+            "_to": "i_7_PerformedTODProcedure",
+            "type": "hasInstance",
+            "source": 28,
+            "target": 72
+        },
+        {
+            "_key": "ind8",
+            "_from": "TestOfDetails",
+            "_to": "i_8_TestOfDetails",
+            "type": "hasInstance",
+            "source": 60,
+            "target": 73
+        },
+        {
+            "_key": "ind9",
+            "_from": "PlannedTODProcedure",
+            "_to": "i_9_PlannedTODProcedure",
+            "type": "hasInstance",
+            "source": 48,
+            "target": 74
+        },
+        {
+            "_key": "ind10",
+            "_from": "PerformedTODProcedure",
+            "_to": "i_10_PerformedTODProcedure",
+            "type": "hasInstance",
+            "source": 28,
+            "target": 75
+        },
+        {
+            "_key": "ind11",
+            "_from": "TestOfDetails",
+            "_to": "i_11_TestOfDetails",
+            "type": "hasInstance",
+            "source": 60,
+            "target": 76
+        },
+        {
+            "_key": "ind12",
+            "_from": "PlannedTODProcedure",
+            "_to": "i_12_PlannedTODProcedure",
+            "type": "hasInstance",
+            "source": 48,
+            "target": 77
+        },
+        {
+            "_key": "ind13",
+            "_from": "PerformedTODProcedure",
+            "_to": "i_13_PerformedTODProcedure",
+            "type": "hasInstance",
+            "source": 28,
+            "target": 78
+        },
+        {
+            "_key": "ind14",
+            "_from": "TestOfDetails",
+            "_to": "i_14_TestOfDetails",
+            "type": "hasInstance",
+            "source": 60,
+            "target": 79
+        },
+        {
+            "_key": "ind15",
+            "_from": "PlannedTODProcedure",
+            "_to": "i_15_PlannedTODProcedure",
+            "type": "hasInstance",
+            "source": 48,
+            "target": 80
+        },
+        {
+            "_key": "ind16",
+            "_from": "PerformedTODProcedure",
+            "_to": "i_16_PerformedTODProcedure",
+            "type": "hasInstance",
+            "source": 28,
+            "target": 81
+        },
+        {
+            "_key": "ind17",
+            "_from": "TestOfDetails",
+            "_to": "i_17_TestOfDetails",
+            "type": "hasInstance",
+            "source": 60,
+            "target": 82
+        },
+        {
+            "_key": "ind18",
+            "_from": "PlannedTODProcedure",
+            "_to": "i_18_PlannedTODProcedure",
+            "type": "hasInstance",
+            "source": 48,
+            "target": 83
+        },
+        {
+            "_key": "ind19",
+            "_from": "PerformedTODProcedure",
+            "_to": "i_19_PerformedTODProcedure",
+            "type": "hasInstance",
+            "source": 28,
+            "target": 84
+        },
+        {
+            "_key": "ind20",
+            "_from": "OperatingExpenseROMM",
+            "_to": "i_20_OperatingExpenseROMM",
+            "type": "hasInstance",
+            "source": 45,
+            "target": 85
+        },
+        {
+            "_key": "ind21",
+            "_from": "AdvertisingAndPromotionalExpense",
+            "_to": "i_21_AccountName",
+            "type": "hasInstance",
+            "source": 12,
+            "target": 86
+        },
+        {
+            "_key": "ind22",
+            "_from": "Classification",
+            "_to": "i_22_Assertion",
+            "type": "hasInstance",
+            "source": 19,
+            "target": 87
+        }
+    ]
+}

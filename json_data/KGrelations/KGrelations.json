@@ -1,0 +1,722 @@
+[
+    {
+        "_key": "sub0",
+        "type": "hasSubClass",
+        "_from": "Assertion",
+        "_to": "AccountBalancesAssertion"
+    },
+    {
+        "_key": "sub1",
+        "type": "hasSubClass",
+        "_from": "AccountName",
+        "_to": "AccountPayable"
+    },
+    {
+        "_key": "sub2",
+        "type": "hasSubClass",
+        "_from": "ROMM",
+        "_to": "AccountPayableROMM"
+    },
+    {
+        "_key": "sub3",
+        "type": "hasSubClass",
+        "_from": "AccountName",
+        "_to": "AccountReceivable"
+    },
+    {
+        "_key": "sub4",
+        "type": "hasSubClass",
+        "_from": "ROMM",
+        "_to": "AccountReceivableROMM"
+    },
+    {
+        "_key": "sub5",
+        "type": "hasSubClass",
+        "_from": "TransactionClassAssertion",
+        "_to": "Accuracy"
+    },
+    {
+        "_key": "sub6",
+        "type": "hasSubClass",
+        "_from": "PresentationDisclosureAssertion",
+        "_to": "AccuracyAndValuation"
+    },
+    {
+        "_key": "sub7",
+        "type": "hasSubClass",
+        "_from": "OperatingExpense",
+        "_to": "AdvertisingAndPromotionalExpense"
+    },
+    {
+        "_key": "sub8",
+        "type": "hasSubClass",
+        "_from": "DataSource",
+        "_to": "BankStatement"
+    },
+    {
+        "_key": "sub9",
+        "type": "hasSubClass",
+        "_from": "AccountName",
+        "_to": "Cash"
+    },
+    {
+        "_key": "sub10",
+        "type": "hasSubClass",
+        "_from": "ROMM",
+        "_to": "CashROMM"
+    },
+    {
+        "_key": "sub11",
+        "type": "hasSubClass",
+        "_from": "DataSource",
+        "_to": "Check"
+    },
+    {
+        "_key": "sub12",
+        "type": "hasSubClass",
+        "_from": "TransactionClassAssertion",
+        "_to": "Classification"
+    },
+    {
+        "_key": "sub13",
+        "type": "hasSubClass",
+        "_from": "PresentationDisclosureAssertion",
+        "_to": "ClassificationAndUnderstandability"
+    },
+    {
+        "_key": "sub14",
+        "type": "hasSubClass",
+        "_from": "TransactionClassAssertion",
+        "_to": "Completeness"
+    },
+    {
+        "_key": "sub15",
+        "type": "hasSubClass",
+        "_from": "PresentationDisclosureAssertion",
+        "_to": "CompletenessDisclosure"
+    },
+    {
+        "_key": "sub16",
+        "type": "hasSubClass",
+        "_from": "AccountBalancesAssertion",
+        "_to": "CompletenessOfAssestsLiabilitiesEquity"
+    },
+    {
+        "_key": "sub17",
+        "type": "hasSubClass",
+        "_from": "DataSource",
+        "_to": "Contract"
+    },
+    {
+        "_key": "sub18",
+        "type": "hasSubClass",
+        "_from": "DataSource",
+        "_to": "CustomerAgreement"
+    },
+    {
+        "_key": "sub19",
+        "type": "hasSubClass",
+        "_from": "TransactionClassAssertion",
+        "_to": "Cutoff"
+    },
+    {
+        "_key": "sub20",
+        "type": "hasSubClass",
+        "_from": "ROMM",
+        "_to": "DebtROMM"
+    },
+    {
+        "_key": "sub21",
+        "type": "hasSubClass",
+        "_from": "Documentation",
+        "_to": "DocumentationTemplate"
+    },
+    {
+        "_key": "sub22",
+        "type": "hasSubClass",
+        "_from": "AccountBalancesAssertion",
+        "_to": "Existence"
+    },
+    {
+        "_key": "sub23",
+        "type": "hasSubClass",
+        "_from": "DataSource",
+        "_to": "FinancialStatement"
+    },
+    {
+        "_key": "sub24",
+        "type": "hasSubClass",
+        "_from": "DataSource",
+        "_to": "FixedAssetRegister"
+    },
+    {
+        "_key": "sub25",
+        "type": "hasSubClass",
+        "_from": "DataSource",
+        "_to": "GeneralLedger"
+    },
+    {
+        "_key": "sub26",
+        "type": "hasSubClass",
+        "_from": "DataSource",
+        "_to": "Invoice"
+    },
+    {
+        "_key": "sub27",
+        "type": "hasSubClass",
+        "_from": "Transaction",
+        "_to": "InvoicingTransaction"
+    },
+    {
+        "_key": "sub28",
+        "type": "hasSubClass",
+        "_from": "AccountName",
+        "_to": "Lease"
+    },
+    {
+        "_key": "sub29",
+        "type": "hasSubClass",
+        "_from": "ROMM",
+        "_to": "LeaseROMM"
+    },
+    {
+        "_key": "sub30",
+        "type": "hasSubClass",
+        "_from": "OperatingExpense",
+        "_to": "MarketingExpense"
+    },
+    {
+        "_key": "sub31",
+        "type": "hasSubClass",
+        "_from": "PresentationDisclosureAssertion",
+        "_to": "OccuranceRightsObligations"
+    },
+    {
+        "_key": "sub32",
+        "type": "hasSubClass",
+        "_from": "TransactionClassAssertion",
+        "_to": "Occurrence"
+    },
+    {
+        "_key": "sub33",
+        "type": "hasSubClass",
+        "_from": "AccountName",
+        "_to": "OperatingExpense"
+    },
+    {
+        "_key": "sub34",
+        "type": "hasSubClass",
+        "_from": "ROMM",
+        "_to": "OperatingExpenseROMM"
+    },
+    {
+        "_key": "sub35",
+        "type": "hasSubClass",
+        "_from": "OperatingExpense",
+        "_to": "PayrollExpense"
+    },
+    {
+        "_key": "sub36",
+        "type": "hasSubClass",
+        "_from": "DataSource",
+        "_to": "PayrollListing"
+    },
+    {
+        "_key": "sub37",
+        "type": "hasSubClass",
+        "_from": "TODData",
+        "_to": "PerformedTODProcedure"
+    },
+    {
+        "_key": "sub38",
+        "type": "hasSubClass",
+        "_from": "TODData",
+        "_to": "PlannedTODProcedure"
+    },
+    {
+        "_key": "sub39",
+        "type": "hasSubClass",
+        "_from": "Assertion",
+        "_to": "PresentationDisclosureAssertion"
+    },
+    {
+        "_key": "sub40",
+        "type": "hasSubClass",
+        "_from": "ROMM",
+        "_to": "RealEstateROMM"
+    },
+    {
+        "_key": "sub41",
+        "type": "hasSubClass",
+        "_from": "DataSource",
+        "_to": "Receipt"
+    },
+    {
+        "_key": "sub42",
+        "type": "hasSubClass",
+        "_from": "AccountName",
+        "_to": "Revenue"
+    },
+    {
+        "_key": "sub43",
+        "type": "hasSubClass",
+        "_from": "AccountBalancesAssertion",
+        "_to": "RightsAndObligations"
+    },
+    {
+        "_key": "sub44",
+        "type": "hasSubClass",
+        "_from": "Procedure",
+        "_to": "RollforwardTesting"
+    },
+    {
+        "_key": "sub45",
+        "type": "hasSubClass",
+        "_from": "DataSource",
+        "_to": "SAPReport"
+    },
+    {
+        "_key": "sub46",
+        "type": "hasSubClass",
+        "_from": "Procedure",
+        "_to": "SubstantiveAnalytics"
+    },
+    {
+        "_key": "sub47",
+        "type": "hasSubClass",
+        "_from": "DocumentationTemplate",
+        "_to": "SubstantiveAnalyticsTemplate"
+    },
+    {
+        "_key": "sub48",
+        "type": "hasSubClass",
+        "_from": "ROMM",
+        "_to": "TaxROMM"
+    },
+    {
+        "_key": "sub49",
+        "type": "hasSubClass",
+        "_from": "Procedure",
+        "_to": "TestOfDetails"
+    },
+    {
+        "_key": "sub50",
+        "type": "hasSubClass",
+        "_from": "TestOfDetailsTemplate",
+        "_to": "TestOfDetailsOpExTemplate"
+    },
+    {
+        "_key": "sub51",
+        "type": "hasSubClass",
+        "_from": "DocumentationTemplate",
+        "_to": "TestOfDetailsTemplate"
+    },
+    {
+        "_key": "sub52",
+        "type": "hasSubClass",
+        "_from": "Documentation",
+        "_to": "Ticmark"
+    },
+    {
+        "_key": "sub53",
+        "type": "hasSubClass",
+        "_from": "Assertion",
+        "_to": "TransactionClassAssertion"
+    },
+    {
+        "_key": "sub54",
+        "type": "hasSubClass",
+        "_from": "AccountBalancesAssertion",
+        "_to": "ValuationAndAllocation"
+    },
+    {
+        "_key": "op0",
+        "type": "alwaysContains",
+        "_from": "ROMM",
+        "_to": "Assertion"
+    },
+    {
+        "_key": "op1",
+        "type": "areForAccount",
+        "_from": "ROMM",
+        "_to": "AccountName"
+    },
+    {
+        "_key": "op2",
+        "type": "areForTransactionType",
+        "_from": "ROMM",
+        "_to": "Transaction"
+    },
+    {
+        "_key": "op3",
+        "type": "consistsOf",
+        "_from": "TestOfDetails",
+        "_to": "TODData"
+    },
+    {
+        "_key": "op4",
+        "type": "hasROMM",
+        "_from": "Client",
+        "_to": "ROMM"
+    },
+    {
+        "_key": "op5",
+        "type": "isDocumentedIn",
+        "_from": "Evidence",
+        "_to": "Documentation"
+    },
+    {
+        "_key": "op6",
+        "type": "isEvaluatedBy",
+        "_from": "Assertion",
+        "_to": "Procedure"
+    },
+    {
+        "_key": "op7",
+        "type": "isFoundFrom",
+        "_from": "Evidence",
+        "_to": "DataSource"
+    },
+    {
+        "_key": "op8",
+        "type": "mustHave",
+        "_from": "Assertion",
+        "_to": "Documentation"
+    },
+    {
+        "_key": "op9",
+        "type": "toFind",
+        "_from": "Procedure",
+        "_to": "Evidence"
+    },
+    {
+        "_key": "kgcon0",
+        "_from": "i_0_Client",
+        "_to": "i_1_OperatingExpenseROMM",
+        "type": "hasROMM"
+    },
+    {
+        "_key": "kgcon1",
+        "_from": "i_0_Client",
+        "_to": "i_20_OperatingExpenseROMM",
+        "type": "hasROMM"
+    },
+    {
+        "_key": "kgcon2",
+        "_from": "i_1_OperatingExpenseROMM",
+        "_to": "i_3_Assertion",
+        "type": "alwaysContains"
+    },
+    {
+        "_key": "kgcon3",
+        "_from": "i_1_OperatingExpenseROMM",
+        "_to": "i_4_Assertion",
+        "type": "alwaysContains"
+    },
+    {
+        "_key": "kgcon4",
+        "_from": "i_1_OperatingExpenseROMM",
+        "_to": "i_2_AccountName",
+        "type": "areForAccount"
+    },
+    {
+        "_key": "kgcon5",
+        "_from": "i_3_Assertion",
+        "_to": "i_5_TestOfDetails",
+        "type": "isEvaluatedBy"
+    },
+    {
+        "_key": "kgcon6",
+        "_from": "i_3_Assertion",
+        "_to": "i_8_TestOfDetails",
+        "type": "isEvaluatedBy"
+    },
+    {
+        "_key": "kgcon7",
+        "_from": "i_3_Assertion",
+        "_to": "i_11_TestOfDetails",
+        "type": "isEvaluatedBy"
+    },
+    {
+        "_key": "kgcon8",
+        "_from": "i_3_Assertion",
+        "_to": "i_14_TestOfDetails",
+        "type": "isEvaluatedBy"
+    },
+    {
+        "_key": "kgcon9",
+        "_from": "i_3_Assertion",
+        "_to": "i_17_TestOfDetails",
+        "type": "isEvaluatedBy"
+    },
+    {
+        "_key": "kgcon10",
+        "_from": "i_4_Assertion",
+        "_to": "i_5_TestOfDetails",
+        "type": "isEvaluatedBy"
+    },
+    {
+        "_key": "kgcon11",
+        "_from": "i_4_Assertion",
+        "_to": "i_8_TestOfDetails",
+        "type": "isEvaluatedBy"
+    },
+    {
+        "_key": "kgcon12",
+        "_from": "i_4_Assertion",
+        "_to": "i_11_TestOfDetails",
+        "type": "isEvaluatedBy"
+    },
+    {
+        "_key": "kgcon13",
+        "_from": "i_4_Assertion",
+        "_to": "i_14_TestOfDetails",
+        "type": "isEvaluatedBy"
+    },
+    {
+        "_key": "kgcon14",
+        "_from": "i_4_Assertion",
+        "_to": "i_17_TestOfDetails",
+        "type": "isEvaluatedBy"
+    },
+    {
+        "_key": "kgcon15",
+        "_from": "i_5_TestOfDetails",
+        "_to": "i_7_PerformedTODProcedure",
+        "type": "consistsOf"
+    },
+    {
+        "_key": "kgcon16",
+        "_from": "i_5_TestOfDetails",
+        "_to": "i_6_PlannedTODProcedure",
+        "type": "consistsOf"
+    },
+    {
+        "_key": "kgcon17",
+        "_from": "i_22_Assertion",
+        "_to": "i_5_TestOfDetails",
+        "type": "isEvaluatedBy"
+    },
+    {
+        "_key": "kgcon18",
+        "_from": "i_8_TestOfDetails",
+        "_to": "i_10_PerformedTODProcedure",
+        "type": "consistsOf"
+    },
+    {
+        "_key": "kgcon19",
+        "_from": "i_8_TestOfDetails",
+        "_to": "i_9_PlannedTODProcedure",
+        "type": "consistsOf"
+    },
+    {
+        "_key": "kgcon20",
+        "_from": "i_22_Assertion",
+        "_to": "i_8_TestOfDetails",
+        "type": "isEvaluatedBy"
+    },
+    {
+        "_key": "kgcon21",
+        "_from": "i_11_TestOfDetails",
+        "_to": "i_13_PerformedTODProcedure",
+        "type": "consistsOf"
+    },
+    {
+        "_key": "kgcon22",
+        "_from": "i_11_TestOfDetails",
+        "_to": "i_12_PlannedTODProcedure",
+        "type": "consistsOf"
+    },
+    {
+        "_key": "kgcon23",
+        "_from": "i_22_Assertion",
+        "_to": "i_11_TestOfDetails",
+        "type": "isEvaluatedBy"
+    },
+    {
+        "_key": "kgcon24",
+        "_from": "i_14_TestOfDetails",
+        "_to": "i_16_PerformedTODProcedure",
+        "type": "consistsOf"
+    },
+    {
+        "_key": "kgcon25",
+        "_from": "i_14_TestOfDetails",
+        "_to": "i_15_PlannedTODProcedure",
+        "type": "consistsOf"
+    },
+    {
+        "_key": "kgcon26",
+        "_from": "i_22_Assertion",
+        "_to": "i_14_TestOfDetails",
+        "type": "isEvaluatedBy"
+    },
+    {
+        "_key": "kgcon27",
+        "_from": "i_17_TestOfDetails",
+        "_to": "i_19_PerformedTODProcedure",
+        "type": "consistsOf"
+    },
+    {
+        "_key": "kgcon28",
+        "_from": "i_17_TestOfDetails",
+        "_to": "i_18_PlannedTODProcedure",
+        "type": "consistsOf"
+    },
+    {
+        "_key": "kgcon29",
+        "_from": "i_22_Assertion",
+        "_to": "i_17_TestOfDetails",
+        "type": "isEvaluatedBy"
+    },
+    {
+        "_key": "kgcon30",
+        "_from": "i_20_OperatingExpenseROMM",
+        "_to": "i_22_Assertion",
+        "type": "alwaysContains"
+    },
+    {
+        "_key": "kgcon31",
+        "_from": "i_20_OperatingExpenseROMM",
+        "_to": "i_21_AccountName",
+        "type": "areForAccount"
+    },
+    {
+        "_key": "ind0",
+        "_from": "Client",
+        "_to": "i_0_Client",
+        "type": "hasInstance"
+    },
+    {
+        "_key": "ind1",
+        "_from": "OperatingExpenseROMM",
+        "_to": "i_1_OperatingExpenseROMM",
+        "type": "hasInstance"
+    },
+    {
+        "_key": "ind2",
+        "_from": "AdvertisingAndPromotionalExpense",
+        "_to": "i_2_AccountName",
+        "type": "hasInstance"
+    },
+    {
+        "_key": "ind3",
+        "_from": "Occurrence",
+        "_to": "i_3_Assertion",
+        "type": "hasInstance"
+    },
+    {
+        "_key": "ind4",
+        "_from": "Completeness",
+        "_to": "i_4_Assertion",
+        "type": "hasInstance"
+    },
+    {
+        "_key": "ind5",
+        "_from": "TestOfDetails",
+        "_to": "i_5_TestOfDetails",
+        "type": "hasInstance"
+    },
+    {
+        "_key": "ind6",
+        "_from": "PlannedTODProcedure",
+        "_to": "i_6_PlannedTODProcedure",
+        "type": "hasInstance"
+    },
+    {
+        "_key": "ind7",
+        "_from": "PerformedTODProcedure",
+        "_to": "i_7_PerformedTODProcedure",
+        "type": "hasInstance"
+    },
+    {
+        "_key": "ind8",
+        "_from": "TestOfDetails",
+        "_to": "i_8_TestOfDetails",
+        "type": "hasInstance"
+    },
+    {
+        "_key": "ind9",
+        "_from": "PlannedTODProcedure",
+        "_to": "i_9_PlannedTODProcedure",
+        "type": "hasInstance"
+    },
+    {
+        "_key": "ind10",
+        "_from": "PerformedTODProcedure",
+        "_to": "i_10_PerformedTODProcedure",
+        "type": "hasInstance"
+    },
+    {
+        "_key": "ind11",
+        "_from": "TestOfDetails",
+        "_to": "i_11_TestOfDetails",
+        "type": "hasInstance"
+    },
+    {
+        "_key": "ind12",
+        "_from": "PlannedTODProcedure",
+        "_to": "i_12_PlannedTODProcedure",
+        "type": "hasInstance"
+    },
+    {
+        "_key": "ind13",
+        "_from": "PerformedTODProcedure",
+        "_to": "i_13_PerformedTODProcedure",
+        "type": "hasInstance"
+    },
+    {
+        "_key": "ind14",
+        "_from": "TestOfDetails",
+        "_to": "i_14_TestOfDetails",
+        "type": "hasInstance"
+    },
+    {
+        "_key": "ind15",
+        "_from": "PlannedTODProcedure",
+        "_to": "i_15_PlannedTODProcedure",
+        "type": "hasInstance"
+    },
+    {
+        "_key": "ind16",
+        "_from": "PerformedTODProcedure",
+        "_to": "i_16_PerformedTODProcedure",
+        "type": "hasInstance"
+    },
+    {
+        "_key": "ind17",
+        "_from": "TestOfDetails",
+        "_to": "i_17_TestOfDetails",
+        "type": "hasInstance"
+    },
+    {
+        "_key": "ind18",
+        "_from": "PlannedTODProcedure",
+        "_to": "i_18_PlannedTODProcedure",
+        "type": "hasInstance"
+    },
+    {
+        "_key": "ind19",
+        "_from": "PerformedTODProcedure",
+        "_to": "i_19_PerformedTODProcedure",
+        "type": "hasInstance"
+    },
+    {
+        "_key": "ind20",
+        "_from": "OperatingExpenseROMM",
+        "_to": "i_20_OperatingExpenseROMM",
+        "type": "hasInstance"
+    },
+    {
+        "_key": "ind21",
+        "_from": "AdvertisingAndPromotionalExpense",
+        "_to": "i_21_AccountName",
+        "type": "hasInstance"
+    },
+    {
+        "_key": "ind22",
+        "_from": "Classification",
+        "_to": "i_22_Assertion",
+        "type": "hasInstance"
+    }
+]
