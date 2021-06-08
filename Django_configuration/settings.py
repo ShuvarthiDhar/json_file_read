@@ -124,15 +124,14 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-
 kgEntity_dir= os.path.join(BASE_DIR, os.path.join('json_data', 'KGentities'))
 kgRelation_dir= os.path.join(BASE_DIR, os.path.join('json_data', 'KGrelations'))
 kgFinal_file = os.path.join(BASE_DIR, os.path.join('json_data', os.path.join('final_file', 'graph.json')))
 
 
 
-STATIC_ROOT = os.path.join(BASE_DIR, 'static')
+# STATIC_ROOT = os.path.join(BASE_DIR, 'static')
 
-STATICFILES_DIRS = (
-  os.path.join(BASE_DIR, 'statics'),
-)
+# STATICFILES_DIRS = (
+#   os.path.join(BASE_DIR, 'statics'),
+# )

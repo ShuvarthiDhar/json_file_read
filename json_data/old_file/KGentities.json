@@ -1,0 +1,1101 @@
+{
+    "AccountBalancesAssertion":
+    {
+        "name": "AccountBalancesAssertion",
+        "type": "Class",
+        "_key": "AccountBalancesAssertion",
+        "visualization_level": "2",
+        "RiskDescription": null
+    },
+    "Assertion":
+    {
+        "_key": "Assertion",
+        "name": "Assertion",
+        "type": "Class",
+        "RiskDescription": null,
+        "visualization_level": "1"
+    },
+    "AccountName":
+    {
+        "name": "AccountName",
+        "type": "Class",
+        "_key": "AccountName",
+        "visualization_level": "1"
+    },
+    "AccountPayable":
+    {
+        "name": "AccountPayable",
+        "type": "Class",
+        "_key": "AccountPayable",
+        "visualization_level": "2"
+    },
+    "AccountPayableROMM":
+    {
+        "name": "AccountPayableROMM",
+        "type": "Class",
+        "_key": "AccountPayableROMM",
+        "visualization_level": "2",
+        "RiskLevel": null
+    },
+    "ROMM":
+    {
+        "_key": "ROMM",
+        "name": "ROMM",
+        "type": "Class",
+        "RiskLevel": null,
+        "visualization_level": "1"
+    },
+    "AccountReceivable":
+    {
+        "name": "AccountReceivable",
+        "type": "Class",
+        "_key": "AccountReceivable",
+        "visualization_level": "2"
+    },
+    "AccountReceivableROMM":
+    {
+        "name": "AccountReceivableROMM",
+        "type": "Class",
+        "_key": "AccountReceivableROMM",
+        "visualization_level": "2",
+        "RiskLevel": null
+    },
+    "Accuracy":
+    {
+        "name": "Accuracy",
+        "type": "Class",
+        "_key": "Accuracy",
+        "visualization_level": "3",
+        "RiskDescription": null
+    },
+    "TransactionClassAssertion":
+    {
+        "_key": "TransactionClassAssertion",
+        "name": "TransactionClassAssertion",
+        "type": "Class",
+        "visualization_level": "2",
+        "RiskDescription": null
+    },
+    "AccuracyAndValuation":
+    {
+        "name": "AccuracyAndValuation",
+        "type": "Class",
+        "_key": "AccuracyAndValuation",
+        "visualization_level": "3",
+        "RiskDescription": null
+    },
+    "PresentationDisclosureAssertion":
+    {
+        "_key": "PresentationDisclosureAssertion",
+        "name": "PresentationDisclosureAssertion",
+        "type": "Class",
+        "visualization_level": "2",
+        "RiskDescription": null
+    },
+    "AdvertisingAndPromotionalExpense":
+    {
+        "name": "AdvertisingAndPromotionalExpense",
+        "type": "Class",
+        "_key": "AdvertisingAndPromotionalExpense",
+        "visualization_level": "3"
+    },
+    "OperatingExpense":
+    {
+        "_key": "OperatingExpense",
+        "name": "OperatingExpense",
+        "type": "Class",
+        "visualization_level": "2"
+    },
+    "BankStatement":
+    {
+        "name": "BankStatement",
+        "type": "Class",
+        "_key": "BankStatement",
+        "visualization_level": "2"
+    },
+    "DataSource":
+    {
+        "_key": "DataSource",
+        "name": "DataSource",
+        "type": "Class",
+        "visualization_level": "1"
+    },
+    "Cash":
+    {
+        "name": "Cash",
+        "type": "Class",
+        "_key": "Cash",
+        "visualization_level": "2"
+    },
+    "CashROMM":
+    {
+        "name": "CashROMM",
+        "type": "Class",
+        "_key": "CashROMM",
+        "visualization_level": "2",
+        "RiskLevel": null
+    },
+    "Check":
+    {
+        "name": "Check",
+        "type": "Class",
+        "_key": "Check",
+        "visualization_level": "2"
+    },
+    "Classification":
+    {
+        "name": "Classification",
+        "type": "Class",
+        "_key": "Classification",
+        "visualization_level": "3",
+        "RiskDescription": null
+    },
+    "ClassificationAndUnderstandability":
+    {
+        "name": "ClassificationAndUnderstandability",
+        "type": "Class",
+        "_key": "ClassificationAndUnderstandability",
+        "visualization_level": "3",
+        "RiskDescription": null
+    },
+    "Client":
+    {
+        "name": "Client",
+        "type": "Class",
+        "_key": "Client",
+        "visualization_level": "1"
+    },
+    "Completeness":
+    {
+        "name": "Completeness",
+        "type": "Class",
+        "_key": "Completeness",
+        "visualization_level": "3",
+        "RiskDescription": null
+    },
+    "CompletenessDisclosure":
+    {
+        "name": "CompletenessDisclosure",
+        "type": "Class",
+        "_key": "CompletenessDisclosure",
+        "visualization_level": "3",
+        "RiskDescription": null
+    },
+    "CompletenessOfAssestsLiabilitiesEquity":
+    {
+        "name": "CompletenessOfAssestsLiabilitiesEquity",
+        "type": "Class",
+        "_key": "CompletenessOfAssestsLiabilitiesEquity",
+        "visualization_level": "3",
+        "RiskDescription": null
+    },
+    "Contract":
+    {
+        "name": "Contract",
+        "type": "Class",
+        "_key": "Contract",
+        "visualization_level": "2"
+    },
+    "CustomerAgreement":
+    {
+        "name": "CustomerAgreement",
+        "type": "Class",
+        "_key": "CustomerAgreement",
+        "visualization_level": "2"
+    },
+    "Cutoff":
+    {
+        "name": "Cutoff",
+        "type": "Class",
+        "_key": "Cutoff",
+        "visualization_level": "3",
+        "RiskDescription": null
+    },
+    "PerformedTODProcedure":
+    {
+        "_key": "PerformedTODProcedure",
+        "DataRecord": null,
+        "name": "PerformedTODProcedure",
+        "type": "Class",
+        "visualization_level": "2",
+        "TestID": null
+    },
+    "DebtROMM":
+    {
+        "name": "DebtROMM",
+        "type": "Class",
+        "_key": "DebtROMM",
+        "visualization_level": "2",
+        "RiskLevel": null
+    },
+    "Documentation":
+    {
+        "name": "Documentation",
+        "type": "Class",
+        "_key": "Documentation",
+        "visualization_level": "1"
+    },
+    "DocumentationTemplate":
+    {
+        "name": "DocumentationTemplate",
+        "type": "Class",
+        "_key": "DocumentationTemplate",
+        "visualization_level": "2"
+    },
+    "Evidence":
+    {
+        "name": "Evidence",
+        "type": "Class",
+        "_key": "Evidence",
+        "EvidenceDescription": null,
+        "EvidenceID": null,
+        "visualization_level": "1"
+    },
+    "Existence":
+    {
+        "name": "Existence",
+        "type": "Class",
+        "_key": "Existence",
+        "visualization_level": "3",
+        "RiskDescription": null
+    },
+    "FinancialStatement":
+    {
+        "name": "FinancialStatement",
+        "type": "Class",
+        "_key": "FinancialStatement",
+        "visualization_level": "2"
+    },
+    "FixedAssetRegister":
+    {
+        "name": "FixedAssetRegister",
+        "type": "Class",
+        "_key": "FixedAssetRegister",
+        "visualization_level": "2"
+    },
+    "GeneralLedger":
+    {
+        "name": "GeneralLedger",
+        "type": "Class",
+        "_key": "GeneralLedger",
+        "visualization_level": "2"
+    },
+    "Invoice":
+    {
+        "name": "Invoice",
+        "type": "Class",
+        "_key": "Invoice",
+        "visualization_level": "2"
+    },
+    "InvoicingTransaction":
+    {
+        "name": "InvoicingTransaction",
+        "type": "Class",
+        "_key": "InvoicingTransaction",
+        "visualization_level": "2"
+    },
+    "Transaction":
+    {
+        "_key": "Transaction",
+        "name": "Transaction",
+        "type": "Class",
+        "visualization_level": "1"
+    },
+    "Lease":
+    {
+        "name": "Lease",
+        "type": "Class",
+        "_key": "Lease",
+        "visualization_level": "2"
+    },
+    "LeaseROMM":
+    {
+        "name": "LeaseROMM",
+        "type": "Class",
+        "_key": "LeaseROMM",
+        "visualization_level": "2",
+        "RiskLevel": null
+    },
+    "MarketingExpense":
+    {
+        "name": "MarketingExpense",
+        "type": "Class",
+        "_key": "MarketingExpense",
+        "visualization_level": "3"
+    },
+    "OccuranceRightsObligations":
+    {
+        "name": "OccuranceRightsObligations",
+        "type": "Class",
+        "_key": "OccuranceRightsObligations",
+        "visualization_level": "3",
+        "RiskDescription": null
+    },
+    "Occurrence":
+    {
+        "name": "Occurrence",
+        "type": "Class",
+        "_key": "Occurrence",
+        "visualization_level": "3",
+        "RiskDescription": null
+    },
+    "OperatingExpenseROMM":
+    {
+        "name": "OperatingExpenseROMM",
+        "type": "Class",
+        "_key": "OperatingExpenseROMM",
+        "visualization_level": "2",
+        "RiskLevel": null
+    },
+    "PayrollExpense":
+    {
+        "name": "PayrollExpense",
+        "type": "Class",
+        "_key": "PayrollExpense",
+        "visualization_level": "3"
+    },
+    "PayrollListing":
+    {
+        "name": "PayrollListing",
+        "type": "Class",
+        "_key": "PayrollListing",
+        "visualization_level": "2"
+    },
+    "PlannedTODProcedure":
+    {
+        "_key": "PlannedTODProcedure",
+        "PerformanceMaterialityAmount": null,
+        "name": "PlannedTODProcedure",
+        "type": "Class",
+        "PopulationSize": null,
+        "SampleDescription": null,
+        "SampleSize": null,
+        "TestConclusionText": null,
+        "TestProcedureText": null,
+        "TestPurposeText": null,
+        "visualization_level": "2",
+        "TestID": null
+    },
+    "TODData":
+    {
+        "_key": "TODData",
+        "name": "TODData",
+        "type": "Class",
+        "TestID": null,
+        "visualization_level": "1"
+    },
+    "Procedure":
+    {
+        "name": "Procedure",
+        "type": "Class",
+        "_key": "Procedure",
+        "TestID": null,
+        "visualization_level": "1"
+    },
+    "RealEstateROMM":
+    {
+        "name": "RealEstateROMM",
+        "type": "Class",
+        "_key": "RealEstateROMM",
+        "visualization_level": "2",
+        "RiskLevel": null
+    },
+    "Receipt":
+    {
+        "name": "Receipt",
+        "type": "Class",
+        "_key": "Receipt",
+        "visualization_level": "2"
+    },
+    "Revenue":
+    {
+        "name": "Revenue",
+        "type": "Class",
+        "_key": "Revenue",
+        "visualization_level": "2"
+    },
+    "RightsAndObligations":
+    {
+        "name": "RightsAndObligations",
+        "type": "Class",
+        "_key": "RightsAndObligations",
+        "visualization_level": "3",
+        "RiskDescription": null
+    },
+    "RollforwardTesting":
+    {
+        "name": "RollforwardTesting",
+        "type": "Class",
+        "_key": "RollforwardTesting",
+        "visualization_level": "2",
+        "TestID": null
+    },
+    "SAPReport":
+    {
+        "name": "SAPReport",
+        "type": "Class",
+        "_key": "SAPReport",
+        "visualization_level": "2"
+    },
+    "SubstantiveAnalytics":
+    {
+        "name": "SubstantiveAnalytics",
+        "type": "Class",
+        "_key": "SubstantiveAnalytics",
+        "visualization_level": "2",
+        "TestID": null
+    },
+    "SubstantiveAnalyticsTemplate":
+    {
+        "name": "SubstantiveAnalyticsTemplate",
+        "type": "Class",
+        "_key": "SubstantiveAnalyticsTemplate",
+        "visualization_level": "3"
+    },
+    "TaxROMM":
+    {
+        "name": "TaxROMM",
+        "type": "Class",
+        "_key": "TaxROMM",
+        "visualization_level": "2",
+        "RiskLevel": null
+    },
+    "TestOfDetails":
+    {
+        "name": "TestOfDetails",
+        "type": "Class",
+        "_key": "TestOfDetails",
+        "visualization_level": "2",
+        "TestID": null
+    },
+    "TestOfDetailsOpExTemplate":
+    {
+        "name": "TestOfDetailsOpExTemplate",
+        "type": "Class",
+        "_key": "TestOfDetailsOpExTemplate",
+        "visualization_level": "4"
+    },
+    "TestOfDetailsTemplate":
+    {
+        "_key": "TestOfDetailsTemplate",
+        "name": "TestOfDetailsTemplate",
+        "type": "Class",
+        "visualization_level": "3"
+    },
+    "Ticmark":
+    {
+        "name": "Ticmark",
+        "type": "Class",
+        "_key": "Ticmark",
+        "visualization_level": "2"
+    },
+    "ValuationAndAllocation":
+    {
+        "name": "ValuationAndAllocation",
+        "type": "Class",
+        "_key": "ValuationAndAllocation",
+        "visualization_level": "3",
+        "RiskDescription": null
+    },
+    "i_0_Client":
+    {
+        "_key": "i_0_Client",
+        "name": "i_Client",
+        "type": "Instance",
+        "visualization_level": "1",
+        "oKey":
+        [
+            "Case1_0",
+            "Case1_1"
+        ]
+    },
+    "i_1_OperatingExpenseROMM":
+    {
+        "_key": "i_1_OperatingExpenseROMM",
+        "name": "i_OperatingExpenseROMM",
+        "type": "Instance",
+        "visualization_level": "2",
+        "oKey": "Case1_0",
+        "RiskLevel": "Higher"
+    },
+    "i_2_AccountName":
+    {
+        "_key": "i_2_AccountName",
+        "name": "i_AdvertisingAndPromotionalExpense",
+        "type": "Instance",
+        "visualization_level": "3",
+        "oKey": "Case1_0"
+    },
+    "i_3_Assertion":
+    {
+        "_key": "i_3_Assertion",
+        "name": "i_Occurrence",
+        "type": "Instance",
+        "visualization_level": "3",
+        "oKey": "Case1_0",
+        "RiskDescription": "Advertising costs are incorrectly expensed when future benefits exist for the entity or general and advertising costs are incorrectly recorded as prepayments contract costs when no future benefit exists to the entity. "
+    },
+    "i_4_Assertion":
+    {
+        "_key": "i_4_Assertion",
+        "name": "i_Completeness",
+        "type": "Instance",
+        "visualization_level": "3",
+        "oKey": "Case1_0",
+        "RiskDescription": "Advertising costs are incorrectly expensed when future benefits exist for the entity or general and advertising costs are incorrectly recorded as prepayments contract costs when no future benefit exists to the entity. "
+    },
+    "i_5_TestOfDetails":
+    {
+        "_key": "i_5_TestOfDetails",
+        "name": "i_TestOfDetails",
+        "type": "Instance",
+        "visualization_level": "2",
+        "oKey":
+        [
+            "Case1_0",
+            "Case1_1"
+        ],
+        "TestID": "SG&A Legacy Expense Testing p1"
+    },
+    "i_6_PlannedTODProcedure":
+    {
+        "_key": "i_6_PlannedTODProcedure",
+        "name": "i_PlannedTODProcedure",
+        "type": "Instance",
+        "visualization_level": "2",
+        "oKey":
+        [
+            "Case1_0",
+            "Case1_1"
+        ],
+        "PerformanceMaterialityAmount": "10400000",
+        "PopulationSize": "107317051.42000018",
+        "SampleDescription": "NA",
+        "SampleSize": "7",
+        "TestConclusionText": " Per the testing shown below, detail selections were properly expensed and recorded in the correct period, the components of the operating expense balance appears reasonably stated as of 3/31/2017.",
+        "TestProcedureText": " \n1. Obtain an understanding of the account balance and tie the balance to the GL Calculate number of selections based on the total applicable operating expense amount for the year per US PCAOB AAM 23002-4.1.\n2. Reconcile the expense GL accounts to the amounts reported as SG&A and R&D. Obtain a detailed listing of operating expenses for selected GL accounts and agree the total of the detail to the GL. Make the number of specified detail selections per the sample size calculated above.  \n3. Obtain support for the selections made. Support includes, but is not necessarily limited to, invoices, check copies, and wire transfer information.\n4. Determine that the evidence supports the occurrence of the expense and that it was recorded accurately.\n5. Compare the selections to the support provided. Determine if the expense is recorded in the correct period. For any differences, irrespective of the direction of the primary test, quantify and corroborate explanations for the difference by performing further analysis or inquiry.\n6. Conclude, based on the nature of the expense, that the expense was appropriately classified as an appropriate operating expense.\n\n",
+        "TestPurposeText": " To perform detailed testing procedures to test SG&A expenses from 4/1/2016 to 3/31/2017. \n\n",
+        "TestID": "SG&A Legacy Expense Testing p1"
+    },
+    "i_7_PerformedTODProcedure":
+    {
+        "_key": "i_7_PerformedTODProcedure",
+        "name": "i_PerformedTODProcedure",
+        "type": "Instance",
+        "visualization_level": "2",
+        "oKey":
+        [
+            "Case1_0",
+            "Case1_1"
+        ],
+        "DataRecord":
+        {
+            "0":
+            {
+                "GLDescription": "Advertising - Print Media-Anoka Operations-Marketing Ops-Firearms",
+                "GLAccountNo": "6869-12-8222-9710",
+                "GLDate": "2016-06-01 00:00:00",
+                "Amount": "24635",
+                "Supplier": "National Rifle Association of America",
+                "InvoiceNo": "H16-83936",
+                "InvoiceDate": "2016-04-18 00:00:00",
+                "InvoiceAmount": "24635",
+                "OpExAppropriatelyClassified": "Yes",
+                "TMText": "None"
+            },
+            "1":
+            {
+                "GLDescription": "Broadcast-Anoka Operations-Marketing Ops-Optics",
+                "GLAccountNo": "6890-12-8222-9701",
+                "GLDate": "2017-01-18 00:00:00",
+                "Amount": "20625",
+                "Supplier": "Bone Collector, LLC",
+                "InvoiceNo": "PS-IN0045396",
+                "InvoiceDate": "2017-01-01 00:00:00",
+                "InvoiceAmount": "20625",
+                "OpExAppropriatelyClassified": "Yes",
+                "TMText": "{a}"
+            },
+            "2":
+            {
+                "GLDescription": "Outside Services-Anoka Operations-Enterprise Apps-",
+                "GLAccountNo": "6902-12-8043-",
+                "GLDate": "2016-10-19 00:00:00",
+                "Amount": "12024.61",
+                "Supplier": "Armor Defense Inc",
+                "InvoiceNo": "00096386",
+                "InvoiceDate": "2016-10-08 00:00:00",
+                "InvoiceAmount": "12024.61",
+                "OpExAppropriatelyClassified": "Yes",
+                "TMText": "None"
+            },
+            "3":
+            {
+                "GLDescription": "Computer Lease-Anoka Operations-IT Infra & Ops-",
+                "GLAccountNo": "7953-12-8042-",
+                "GLDate": "2017-02-14 00:00:00",
+                "Amount": "14921",
+                "Supplier": "K2 Capital Group",
+                "InvoiceNo": "74189",
+                "InvoiceDate": "2017-01-20 00:00:00",
+                "InvoiceAmount": "14921",
+                "OpExAppropriatelyClassified": "Yes",
+                "TMText": "{b},{a}"
+            },
+            "4":
+            {
+                "GLDescription": "Media Traffic-Anoka Operations-Marketing Ops-General / Admin",
+                "GLAccountNo": "6868-12-8222-9700",
+                "GLDate": "2016-12-14 00:00:00",
+                "Amount": "31667",
+                "Supplier": "Space150",
+                "InvoiceNo": "12739",
+                "InvoiceDate": "2016-12-09 00:00:00",
+                "InvoiceAmount": "31667",
+                "OpExAppropriatelyClassified": "Yes",
+                "TMText": "{a}"
+            },
+            "5":
+            {
+                "GLDescription": "Interactive Projects-Anoka Operations-Marketing Tech-General / Admin",
+                "GLAccountNo": "6917-12-8223-9700",
+                "GLDate": "2017-03-20 00:00:00",
+                "Amount": "12500",
+                "Supplier": "Space150",
+                "InvoiceNo": "12993",
+                "InvoiceDate": "2017-03-14 00:00:00",
+                "InvoiceAmount": "12500",
+                "OpExAppropriatelyClassified": "Yes",
+                "TMText": "{a}"
+            },
+            "6":
+            {
+                "GLDescription": "Contract Labor - Indirect-Anoka Operations-HR Talent Acquisition-",
+                "GLAccountNo": "8415-12-8055-",
+                "GLDate": "2016-11-15 00:00:00",
+                "Amount": "3200",
+                "Supplier": "VOLT CONSULTING GROUP LTD",
+                "InvoiceNo": "34494599",
+                "InvoiceDate": "2016-11-06 00:00:00",
+                "InvoiceAmount": "3200",
+                "OpExAppropriatelyClassified": "Yes",
+                "TMText": "{a}"
+            }
+        },
+        "TestID": "SG&A Legacy Expense Testing p1"
+    },
+    "i_8_TestOfDetails":
+    {
+        "_key": "i_8_TestOfDetails",
+        "name": "i_TestOfDetails",
+        "type": "Instance",
+        "visualization_level": "2",
+        "oKey":
+        [
+            "Case1_0",
+            "Case1_1"
+        ],
+        "TestID": "R&D Expense Testing p1"
+    },
+    "i_9_PlannedTODProcedure":
+    {
+        "_key": "i_9_PlannedTODProcedure",
+        "name": "i_PlannedTODProcedure",
+        "type": "Instance",
+        "visualization_level": "2",
+        "oKey":
+        [
+            "Case1_0",
+            "Case1_1"
+        ],
+        "PerformanceMaterialityAmount": "10400000",
+        "PopulationSize": "8216585.830000008",
+        "SampleDescription": "NA",
+        "SampleSize": "1",
+        "TestConclusionText": " Per the testing shown below, detail selections were properly expensed and recorded in the correct fiscal year, the components of the operating expense balance appears reasonably stated as of 3/31/2017. ",
+        "TestProcedureText": " \n1. Obtain an understanding of the account balance and tie the balance to the GL. Calculate number of selections based on the total applicable operating expense amount for the year per US PCAOB AAM 23002-4.1.\n2. Reconcile the expense GL accounts to the amounts reported as SG&A and R&D. Obtain a detailed listing of operating expenses for selected GL accounts and agree the total of the detail to the GL. Make the number of specified detail selections per the sample size calculated above.  \n3. Obtain support for the selections made. Support includes, but is not necessarily limited to, invoices, check copies, and wire transfer information.\n4. Determine that the evidence supports the occurrence of the expense and that it was recorded accurately.\n5. Compare the selections to the support provided. Determine if the expense is recorded in the correct period. For any differences, irrespective of the direction of the primary test, quantify and corroborate explanations for the difference by performing further analysis or inquiry.\n6. Conclude, based on the nature of the expense, that the expense was appropriately classified as an appropriate operating expense.\n",
+        "TestPurposeText": " To perform detailed testing procedures to test R&D expenses from 4/1/2016 to 3/31/2017. \n\n",
+        "TestID": "R&D Expense Testing p1"
+    },
+    "i_10_PerformedTODProcedure":
+    {
+        "_key": "i_10_PerformedTODProcedure",
+        "name": "i_PerformedTODProcedure",
+        "type": "Instance",
+        "visualization_level": "2",
+        "oKey":
+        [
+            "Case1_0",
+            "Case1_1"
+        ],
+        "DataRecord":
+        {
+            "0":
+            {
+                "GLDescription": "Outside Services-Anoka Operations-R&D-Speer Reloading Manual",
+                "GLAccountNo": "6902-12-8100-8221",
+                "GLDate": "2017-01-18 00:00:00",
+                "Amount": "34000",
+                "Supplier": "SPACE 150 INC",
+                "InvoiceNo": "12835",
+                "InvoiceDate": "2017-01-17 00:00:00",
+                "InvoiceAmount": "34000",
+                "OpExAppropriatelyClassified": "Yes",
+                "TMText": "{a}"
+            }
+        },
+        "TestID": "R&D Expense Testing p1"
+    },
+    "i_11_TestOfDetails":
+    {
+        "_key": "i_11_TestOfDetails",
+        "name": "i_TestOfDetails",
+        "type": "Instance",
+        "visualization_level": "2",
+        "oKey":
+        [
+            "Case1_0",
+            "Case1_1"
+        ],
+        "TestID": "SG&A Expense Testing p1"
+    },
+    "i_12_PlannedTODProcedure":
+    {
+        "_key": "i_12_PlannedTODProcedure",
+        "name": "i_PlannedTODProcedure",
+        "type": "Instance",
+        "visualization_level": "2",
+        "oKey":
+        [
+            "Case1_0",
+            "Case1_1"
+        ],
+        "PerformanceMaterialityAmount": "7800000",
+        "PopulationSize": "25909269",
+        "SampleDescription": "NA",
+        "SampleSize": "2",
+        "TestConclusionText": " Per the testing shown below, detail selections were properly expensed and recorded in the correct period, the components of the operating expense balance appears reasonably stated as of 3/31/2017.",
+        "TestProcedureText": " \n1. Obtain an understanding of the account balance and tie the balance to the GL  Calculate number of selections based on the total applicable operating expense amount for the year per US PCAOB AAM 23002-4.1.\n2. Reconcile the expense GL accounts to the amounts reported as G&A, Selling, and R&D. Obtain a detailed listing of operating expenses for selected GL accounts and agree the total of the detail to the GL. Make the number of specified detail selections per the sample size calculated above.  \n3. Obtain support for the selections made. Support includes, but is not necessarily limited to, invoices, check copies, and wire transfer information.\n4. Determine that the evidence supports the occurrence of the expense and that it was recorded accurately.\n5. Compare the selections to the support provided. Determine if the expense is recorded in the correct period. For any differences, irrespective of the direction of the primary test, quantify and corroborate explanations for the difference by performing further analysis or inquiry.\n6. Conclude, based on the nature of the expense, that the expense was appropriately classified as an appropriate operating expense.\n\n",
+        "TestPurposeText": " To perform detailed testing procedures to test SG&A expenses from 4/1/2016 to 3/31/2017. \n\n",
+        "TestID": "SG&A Expense Testing p1"
+    },
+    "i_13_PerformedTODProcedure":
+    {
+        "_key": "i_13_PerformedTODProcedure",
+        "name": "i_PerformedTODProcedure",
+        "type": "Instance",
+        "visualization_level": "2",
+        "oKey":
+        [
+            "Case1_0",
+            "Case1_1"
+        ],
+        "DataRecord":
+        {
+            "0":
+            {
+                "GLDescription": "Advertising-Media",
+                "GLAccountNo": "620100",
+                "GLDate": "2016-04-01 00:00:00",
+                "Amount": "17000",
+                "Supplier": "Mens Journal",
+                "InvoiceNo": "MJ53074",
+                "InvoiceDate": "2016-04-26 00:00:00",
+                "InvoiceAmount": "17000",
+                "TMText": "{a}",
+                "OpExAppropriatelyClassified": "Yes"
+            },
+            "1":
+            {
+                "GLDescription": "Trade Shows",
+                "GLAccountNo": "641100",
+                "GLDate": "2017-01-01 00:00:00",
+                "Amount": "5462",
+                "Supplier": "Blue Point Productions",
+                "InvoiceNo": "1412",
+                "InvoiceDate": "2017-01-23 00:00:00",
+                "InvoiceAmount": "5462",
+                "TMText": "",
+                "OpExAppropriatelyClassified": "Yes"
+            }
+        },
+        "TestID": "SG&A Expense Testing p1"
+    },
+    "i_14_TestOfDetails":
+    {
+        "_key": "i_14_TestOfDetails",
+        "name": "i_TestOfDetails",
+        "type": "Instance",
+        "visualization_level": "2",
+        "oKey":
+        [
+            "Case1_0",
+            "Case1_1"
+        ],
+        "TestID": "R&D Expense Testing p2"
+    },
+    "i_15_PlannedTODProcedure":
+    {
+        "_key": "i_15_PlannedTODProcedure",
+        "name": "i_PlannedTODProcedure",
+        "type": "Instance",
+        "visualization_level": "2",
+        "oKey":
+        [
+            "Case1_0",
+            "Case1_1"
+        ],
+        "PerformanceMaterialityAmount": "7800000",
+        "PopulationSize": "3943664",
+        "SampleDescription": "NA",
+        "SampleSize": "1",
+        "TestConclusionText": " Per the testing shown below, detail selections were properly expensed and recorded in the correct period, the components of the operating expense balance appears reasonably stated as of 3/31/2017.",
+        "TestProcedureText": " \n1. Obtain an understanding of the account balance and tie the balance to the GL. Calculate number of selections based on the total applicable operating expense amount for the year per US PCAOB AAM 23002-4.1.\n2. Reconcile the expense GL accounts to the amounts reported as G&A, Selling, and R&D. Obtain a detailed listing of operating expenses for selected GL accounts and agree the total of the detail to the GL. Make the number of specified detail selections per the sample size calculated above.  \n3. Obtain support for the selections made. Support includes, but is not necessarily limited to, invoices, check copies, and wire transfer information.\n4. Determine that the evidence supports the occurrence of the expense and that it was recorded accurately.\n5. Compare the selections to the support provided. Determine if the expense is recorded in the correct period. For any differences, irrespective of the direction of the primary test, quantify and corroborate explanations for the difference by performing further analysis or inquiry.\n6. Conclude, based on the nature of the expense, that the expense was appropriately classified as an appropriate operating expense.\n\n\n",
+        "TestPurposeText": " To perform detailed testing procedures to test R&D expenses from 4/1/2016 to 3/31/2017. \n\n",
+        "TestID": "R&D Expense Testing p2"
+    },
+    "i_16_PerformedTODProcedure":
+    {
+        "_key": "i_16_PerformedTODProcedure",
+        "name": "i_PerformedTODProcedure",
+        "type": "Instance",
+        "visualization_level": "2",
+        "oKey":
+        [
+            "Case1_0",
+            "Case1_1"
+        ],
+        "DataRecord":
+        {
+            "0":
+            {
+                "GLDescription": "Design Consultant",
+                "GLAccountNo": "650100",
+                "GLDate": "2016-09-01 00:00:00",
+                "Amount": "11779.02",
+                "Supplier": "Delucca Design ",
+                "InvoiceNo": "CBK#_09.07.16",
+                "InvoiceDate": "2016-09-07 00:00:00",
+                "InvoiceAmount": "11779.02",
+                "OpExAppropriatelyClassified": "Yes",
+                "TMText": "{a}"
+            }
+        },
+        "TestID": "R&D Expense Testing p2"
+    },
+    "i_17_TestOfDetails":
+    {
+        "_key": "i_17_TestOfDetails",
+        "name": "i_TestOfDetails",
+        "type": "Instance",
+        "visualization_level": "2",
+        "oKey":
+        [
+            "Case1_0",
+            "Case1_1"
+        ],
+        "TestID": "p1. Other Cost of Sales Testing"
+    },
+    "i_18_PlannedTODProcedure":
+    {
+        "_key": "i_18_PlannedTODProcedure",
+        "name": "i_PlannedTODProcedure",
+        "type": "Instance",
+        "visualization_level": "2",
+        "oKey":
+        [
+            "Case1_0",
+            "Case1_1"
+        ],
+        "PerformanceMaterialityAmount": "7800000",
+        "PopulationSize": "41219355",
+        "SampleDescription": "NA",
+        "SampleSize": "10",
+        "TestConclusionText": " Per the testing shown below, detail selections were properly expensed and recorded in the correct period, the components of the other cost of sales balance appears reasonably stated as of 3/31/2017.",
+        "TestProcedureText": " We obtained the detail of other cost of sales from Terri Braddock, Local Controller - Irving, as of 3/31/17, and tied the detail to the GL, refer to 8120 for our tie out. We then randomly made sample selections in accordance with the guidance at U.S. PCAOB AAM 23002 (see calculation below). For each selection, we performed the following:\n1. Obtain an understanding of the expense and obtain support for the selection, including invoices, check copies, and wire transfer information, as applicable.\n2. Determine the appropriateness of the occurrence and accuracy of the expense based on the evidence obtained and inquiries made with Terri.\n3. Determine the appropriateness of the expense for the period recorded.\n4. Conclude, based on the nature of the expense, that the expense was appropriately classified as an appropriate other cost of sales expense.\n\n",
+        "TestPurposeText": " To perform detailed testing procedures over Other Cost of Sales as of 3/31/17.\n\n",
+        "TestID": "p1. Other Cost of Sales Testing"
+    },
+    "i_19_PerformedTODProcedure":
+    {
+        "_key": "i_19_PerformedTODProcedure",
+        "name": "i_PerformedTODProcedure",
+        "type": "Instance",
+        "visualization_level": "2",
+        "oKey":
+        [
+            "Case1_0",
+            "Case1_1"
+        ],
+        "DataRecord":
+        {
+            "0":
+            {
+                "GLDescription": "Ocean Freight",
+                "GLAccountNo": "614025",
+                "GLDate": "2016-07-18 00:00:00",
+                "Amount": "90993.33",
+                "Supplier": "Hamburg Sud North America",
+                "InvoiceNo": "BRG 071516",
+                "InvoiceDate": "2016-07-15 00:00:00",
+                "OpExCorrectPeriod": "7/10/2016-7/15/2016",
+                "InvoiceAmount": "90993.33",
+                "TMText": "{b}",
+                "OpExAppropriatelyClassified": "Yes"
+            },
+            "1":
+            {
+                "GLDescription": "Postage/Mailing",
+                "GLAccountNo": "660110",
+                "GLDate": "2017-03-10 00:00:00",
+                "Amount": "71.48",
+                "Supplier": "RateLinx",
+                "InvoiceNo": "VistaActionSports03012017",
+                "InvoiceDate": "2017-03-09 00:00:00",
+                "OpExCorrectPeriod": "3/5/2017-3/9/2017",
+                "InvoiceAmount": "152294.71",
+                "TMText": "{b}",
+                "OpExAppropriatelyClassified": "Yes"
+            },
+            "2":
+            {
+                "GLDescription": "Duties Expense",
+                "GLAccountNo": "614035",
+                "GLDate": "2017-03-01 00:00:00",
+                "Amount": "44340.31",
+                "Supplier": "US Customs Services",
+                "InvoiceNo": "3917058BHL",
+                "InvoiceDate": "2017-02-27 00:00:00",
+                "OpExCorrectPeriod": "2/13/2017-2/19/2017",
+                "InvoiceAmount": "69859.57",
+                "TMText": "{b}",
+                "OpExAppropriatelyClassified": "Yes"
+            },
+            "3":
+            {
+                "GLDescription": "Facilities Lease Expense",
+                "GLAccountNo": "665110",
+                "GLDate": "2016-05-31 00:00:00",
+                "Amount": "256395.68",
+                "Supplier": "Les Rantoul LP",
+                "InvoiceNo": "{c}",
+                "InvoiceDate": "{c}",
+                "OpExCorrectPeriod": "{c}",
+                "InvoiceAmount": "{c}",
+                "TMText": "{b}",
+                "OpExAppropriatelyClassified": "Yes"
+            },
+            "4":
+            {
+                "GLDescription": "Electricity",
+                "GLAccountNo": "657640",
+                "GLDate": "2016-09-13 00:00:00",
+                "Amount": "34539.06",
+                "Supplier": "Village of Rantoul Light & Water Utilities",
+                "InvoiceNo": "44811-18826",
+                "InvoiceDate": "2016-09-28 00:00:00",
+                "OpExCorrectPeriod": "8/1/2016-9/1/2016",
+                "InvoiceAmount": "45317.24",
+                "TMText": "{b}",
+                "OpExAppropriatelyClassified": "{d}"
+            },
+            "5":
+            {
+                "GLDescription": "Duties Expense",
+                "GLAccountNo": "614035",
+                "GLDate": "2016-07-28 00:00:00",
+                "Amount": "34248.44",
+                "Supplier": "US Customs Services",
+                "InvoiceNo": "95-173373100",
+                "InvoiceDate": "2016-07-26 00:00:00",
+                "OpExCorrectPeriod": "7/12/2017-7/18/2017",
+                "InvoiceAmount": "38923.9",
+                "TMText": "{b}",
+                "OpExAppropriatelyClassified": "Yes"
+            },
+            "6":
+            {
+                "GLDescription": "Freight - Outbound Expense",
+                "GLAccountNo": "614110",
+                "GLDate": "2016-04-27 00:00:00",
+                "Amount": "35198.5",
+                "Supplier": "RateLinx",
+                "InvoiceNo": "EBS04202016",
+                "InvoiceDate": "2016-04-27 00:00:00",
+                "OpExCorrectPeriod": "4/20/2016-4/27/2016",
+                "InvoiceAmount": "185426.26",
+                "TMText": "{b}",
+                "OpExAppropriatelyClassified": "Yes"
+            },
+            "7":
+            {
+                "GLDescription": "Materials and Supplies Expense",
+                "GLAccountNo": "640010",
+                "GLDate": "2016-09-15 00:00:00",
+                "Amount": "11433.3",
+                "Supplier": "Packaging Corporation of America",
+                "InvoiceNo": "303-84359",
+                "InvoiceDate": "2016-09-28 00:00:00",
+                "OpExCorrectPeriod": "9/21/2016-9/28/2016",
+                "InvoiceAmount": "57168.28",
+                "TMText": "{b}",
+                "OpExAppropriatelyClassified": "Yes"
+            },
+            "8":
+            {
+                "GLDescription": "Freight - Outbound Expense",
+                "GLAccountNo": "614110",
+                "GLDate": "2016-10-14 00:00:00",
+                "Amount": "47755.05",
+                "Supplier": "RateLinx",
+                "InvoiceNo": "VistaActionSports100516",
+                "InvoiceDate": "2016-10-12 00:00:00",
+                "OpExCorrectPeriod": "10/5/2016-10/12/2016",
+                "InvoiceAmount": "223456.67",
+                "TMText": "{b}",
+                "OpExAppropriatelyClassified": "Yes"
+            },
+            "9":
+            {
+                "GLDescription": "Property Taxes",
+                "GLAccountNo": "680110",
+                "GLDate": "2016-10-01 00:00:00",
+                "Amount": "88281",
+                "Supplier": "{e}",
+                "InvoiceNo": "{e}",
+                "InvoiceDate": "{e}",
+                "OpExCorrectPeriod": "{e}",
+                "InvoiceAmount": "{e}",
+                "TMText": "{b}",
+                "OpExAppropriatelyClassified": "Yes"
+            }
+        },
+        "TestID": "p1. Other Cost of Sales Testing"
+    },
+    "i_20_OperatingExpenseROMM":
+    {
+        "_key": "i_20_OperatingExpenseROMM",
+        "name": "i_OperatingExpenseROMM",
+        "type": "Instance",
+        "visualization_level": "2",
+        "oKey": "Case1_1",
+        "RiskLevel": "Higher"
+    },
+    "i_21_AccountName":
+    {
+        "_key": "i_21_AccountName",
+        "name": "i_AdvertisingAndPromotionalExpense",
+        "type": "Instance",
+        "visualization_level": "3",
+        "oKey": "Case1_1"
+    },
+    "i_22_Assertion":
+    {
+        "_key": "i_22_Assertion",
+        "name": "i_Classification",
+        "type": "Instance",
+        "visualization_level": "3",
+        "oKey": "Case1_1",
+        "RiskDescription": "Advertising expenses are recorded in the incorrect general ledger account. "
+    }
+}
