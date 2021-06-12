@@ -5,6 +5,9 @@ from django.shortcuts import render, render_to_response
 from django.contrib.auth.models import User
 from django.core.paginator import Paginator, EmptyPage, PageNotAnInteger
 from Django_configuration import settings
+from django.http import JsonResponse
+
+
 
 def parse_json_files():
     item_index_json = {}
@@ -40,6 +43,13 @@ def parse_json_files():
     return parsed_json
 
 def graph_vis(request):
+    # context = parse_json_files()
+    dataset = { 'data':'' }
+    return render(request, 'myapp/graph_vis.html',dataset)
+
+
+def graph_data(request):
     context = parse_json_files()
     dataset = { 'data': json.dumps(context) }
-    return render(request, 'myapp/graph_vis.html', dataset)
+    return JsonResponse( dataset)
+
